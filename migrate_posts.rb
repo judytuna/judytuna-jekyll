@@ -13,13 +13,23 @@ class WordPressToJekyllMigrator
   def migrate_all
     puts "Starting migration from #{@wp_export_path} to #{@jekyll_posts_path}"
     
-    # Find all WordPress posts
-    post_files = Dir.glob(File.join(@wp_export_path, '**/*/index.html')).select do |file|
+    # Find all WordPress posts in date-structured directories
+    structured_posts = Dir.glob(File.join(@wp_export_path, '**/*/index.html')).select do |file|
       # Match pattern: YYYY/MM/DD/slug/index.html
       file.match?(%r{/\d{4}/\d{2}/\d{2}/[^/]+/index\.html$})
     end
     
-    puts "Found #{post_files.length} potential blog posts"
+    # Find root-level WordPress posts with post IDs
+    root_posts = Dir.glob(File.join(@wp_export_path, 'index.html?p=*')).select do |file|
+      # Skip main index.html without post ID
+      !file.end_with?('index.html')
+    end
+    
+    post_files = structured_posts + root_posts
+    
+    puts "Found #{structured_posts.length} posts in date directories"
+    puts "Found #{root_posts.length} posts in root directory"
+    puts "Total: #{post_files.length} potential blog posts"
     
     post_files.each do |post_file|
       migrate_post(post_file)
@@ -116,10 +126,16 @@ class WordPressToJekyllMigrator
   end
 
   def extract_slug_from_path(post_file)
-    # Extract slug from path: /YYYY/MM/DD/slug/index.html
-    parts = post_file.split('/')
-    slug = parts[-2] # Second to last part is the slug
-    slug.gsub(/[^a-zA-Z0-9\-_]/, '-').squeeze('-')
+    if post_file.include?('index.html?p=')
+      # Extract post ID from root-level files: index.html?p=1234
+      post_id = post_file.match(/p=(\d+)/)[1]
+      "post-#{post_id}"
+    else
+      # Extract slug from path: /YYYY/MM/DD/slug/index.html
+      parts = post_file.split('/')
+      slug = parts[-2] # Second to last part is the slug
+      slug.gsub(/[^a-zA-Z0-9\-_]/, '-').squeeze('-')
+    end
   end
 
   def generate_front_matter(title, date, categories, tags)

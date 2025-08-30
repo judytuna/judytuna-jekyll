@@ -30,7 +30,21 @@
       "Bash(bundle exec jekyll:*)",
       "Bash(bundle install:*)",
       "Bash(jekyll build --trace)",
-      "Bash(gem install:*)"
+      "Bash(gem install:*)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)"
     ],
     "deny": [],
     "ask": []
