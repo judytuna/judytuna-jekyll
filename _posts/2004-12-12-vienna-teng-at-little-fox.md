@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Vienna Teng at Little Fox"
+date: 2004-12-12 00:06:00 +0000
+categories: ["Uncategorized"]
+tags: ["vienna teng"]
+---
+
+Yesterday I saw Sutured!Elanor and watched her ride away on her bike. I also mailed a bunch of stuff to my insurance company. Going to hospitals is a really bad idea, people. At least I can say that I have learned my lesson. A few days ago I went with [mbarrien](http://mbarrien.livejournal.com/) to see Vienna Teng perform at a small theater called The Little Fox in Redwood city. I like watching her live a lot more than I like listening to her. When I listen to her CDs I get annoyed because I feel like she's too gentle and quiet and soothing especially in potentially powerful songs. But watching her play piano gives you more of a sense of the power of her piano playing. I like most of her songs a lot, though. I guess I like her also because she's from my area and did CS and plays piano and sings and is asian. Oh, I know why I get annoyed when I listen to her on CD--I'm not a fan of subtelty. Yell, please. Sing like your heart is breaking. I'm too sensitive, see, I could never write songs about what I think because I'd cry too much.

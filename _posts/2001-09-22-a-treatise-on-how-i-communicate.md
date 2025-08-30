@@ -1,0 +1,10 @@
+---
+layout: post
+title: "a treatise on how i communicate:"
+date: 2001-09-22 11:35:00 +0000
+categories: ["Uncategorized"]
+---
+
+you know what i realized? AIM has for me created this whole other culture. i feel like i communicate (just in words) what i think and what i feel so much better online by typing, with time to formulate my every sentence, than i do in any real-life conversation. i think really slowly and lazily and i'ts hard for me to keep up with a fast-paced argument face-to-face... but put the same argument in an IM box and i'll be fine because i have time to think about what i'm goin to write and which word to use and which argument line i'm going to pursue. that kind of scares me, becuase of course my life is not going to be conducted over AIM, i'm goign to have to learn one of these days how to hold a witty conversation that's not on the computer, i'm going to have to learn how to think fast on my toes... 
+
+and the other wierd thing. i talk to all these people online... and for some of these people, only online. if AIM was never invented i'd have forgotten their names by now, but since i chat with them online we've had hugely deep conversations and we've exchanged all kinds of thoughts with each other... it's so weird. otherwise i woudln't even be talking to you but here we are sharing our worst fears. strageness. that also causes a conflict in what happens when you actually do see each other, and all of a sudden you're not a sequence of thought in the form of text on a screen, you're a living breathing human being with feelings and the way you guys talk is so different... weirdness. i've been thinking about this too much. but it's just like... i'm such a sorry little person, i'm always out running around and i dont have "time" for my friends--i only spend time with them inside of little text boxes that blink at me... i need to start making more of an effort to spend actual time with actual people.

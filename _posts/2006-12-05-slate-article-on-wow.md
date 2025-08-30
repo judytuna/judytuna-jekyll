@@ -1,0 +1,18 @@
+---
+layout: post
+title: "slate article on wow!"
+date: 2006-12-05 01:27:00 +0000
+categories: ["Uncategorized"]
+---
+
+http://www.slate.com/id/2153757/
+I agree on pretty much all pionts.
+
+*Should you betray one faction to win favor with another—and what happens if you pick the wrong side?*
+They've put that in, sort of. When you reach Shattrah (the alliance 60+ major city--I don't know what the horde one is called. I'm still a bc noob), you have to choose between a faction of High Elves that rebelled against Kael'Thas and joined the alliance, and a faction of Dreanei. There are different sections of the city for each faction (with their own banks, inns, trainers, vendors, etc), and as you gain rep with one, you lose rep with the other. And they have different reputation rewards.
+
+I absolutely love levelling up. I'm 64 on the bc beta pvp server now (Lynne-from-dmaw renamed [Athelas](http://en.wikipedia.org/wiki/Athelas), which, if I may say so myself, is about the best name for a pally ever. Healing! With the hands of a seasoned fighter!!!!) and my GOD it is so fun. The new dungeons are fun and pretty and the boss encounters have new elements and they're broken up into smaller pieces (like DM), so they're more manageable, with the option of doing all of the sections if your pickup group is good. And exploring new lands... I love it so much. I don't know why it's so fun. I don't know why it's so easy to care about a particular NPC's story. I spend a lot of time reading everybody in a town's gossip text and reading all the quests and stuff and exploring behind every tree and hill and staring off the continent into the stars. Zangarmarsh is sort of like the poisoned forest in Nausicaa and it's beautiful, I really like it there.
+
+But I know that at the level cap it's going to be grind, grind, grind. Mindless grinding of mobs for reputation, and the reputation rewards are FUCKING FANTASTIC, but of course they need to take "lots of time" to get (to allow for the lowest-common-denominator of casual and hardcore gamer... soloable farming in outdoor areas is something anyone and everyone can do. It's just that the hardcores will do it many hours a day and get the rewards faster and the casuals will do it over a longer period of time). If you think there are lots of factions in the game now, you just wait. Some of the factions I care very much for already, like the Sporeggar! Haha! They're so cute! I want them to be my friends!!!!! But that grind was easy and it's basically over, since I'm not an alchemist and have no use for them above Honored, and they seem like they're only in Zangarmarsh anyway.
+
+I'm a ret pally right now for levelling. I'm sitting at 21+% crit (lol rogue gear). Crusader strike is a bit of a disappointment, but man, SoC remains awesome. I like to think about staying ret, raiding be damned, but really it would only be to prove some kind of point about girls playing classes that do damage or something. In the end I really like healing, and plus I can still be an effective healer without The Best Gear, but it's harder to be respected as dps if you haven't got all the best gear, and I just don't have the time or the inclination to go to 100% of raids and fight with my guildies for the best loot, so meh. So I may stack int and +spelldamage and sink points into seal of righteousness for when I want to do damage (like sologrinding) since I heard they buffed the benefit righteousness gets from +spelldmg. And I've yet to try Seal of Vengeance (the alliance-only pally spell), which you get at 64. Maybe it'll be as effective. But critting SoC for 1000+ is fun =(

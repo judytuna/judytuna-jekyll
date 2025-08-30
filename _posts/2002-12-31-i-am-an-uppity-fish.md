@@ -1,0 +1,20 @@
+---
+layout: post
+title: "i am an uppity fish"
+date: 2002-12-31 09:46:00 +0000
+categories: ["Uncategorized"]
+---
+
+books: finished first two of the "his dark materials" trilogy by philip pullman. will embark on third soon. philip pullman also wrote puss in boots. mrs. jeffries liked that book. she showed it to us in class. 
+
+movies: "maid in manhattan" (with sandy and alan and my sister, hehe). did i already talk about it? i forgot. it was kind of bland. "chicago" (with cindy and amanda and chris yang). i kind of wanted them to yell more, particularly renee z. i think i liked how it could switch back and forth between the "real" and the "musical-show" version of it because it was a movie. (the "disappearing act" part was an example... eeeesh). but you get into it more when you watch it in a theater. ha, i'm not a theater expert or anything, the only musicals i've seen in a theater are phantom, cats, rent, aida-the-disney-version, and chicago, but still. like, mr cellophane--everyone loved that guy in the theater, but he wasn't as lovable in the movie version for some reason. stuff like that. i remember once i was at kristin's house and we were listening to chicago and yelling "HE RAN INTO MY KNIFE. HE RAN INTO MY KNIFE TEN TIMES." heheehehe. i remember after we saw it in london everybody was walking around like skanks because we couldn't help it and batting our eyelashes at each other and we called each other skank #1, skank #2, and skank #3. skank #2.5 and stuff, hahaha. yeah, good times. 
+
+computeR: brought the vaio home. from berkeley. yup. will see about getting it fixed. 
+
+apartment: when i was at berkeley for the brief moment that i was there, (i love sentences that are redundant and repeat themselves) (ha ha ha), yeah, so when i was there, cesar and the people were taping plastic to the wall over the hole that they punched there down in the corner. there's scaffolding on the south side of the building so "yeah they are fixing it! don't worry. thank you" and the roommate thing UGH
+
+super mario sunshine: is WONDERFUL!!!!!! we have been playing it a lot. ray hogs the controller. stupid brother. 
+
+today in the car, my dad and i talked about stuff. usually when i talk to him it turns into him giving me a lesson about how unfair/prejudiced the world is (against women, or against non-white people, or against people who aren't rich enough), or how i should either choose the academic route or the rich-boy-catcher route, or ... etc. today's lesson was on friends-and-business, and how even if someone is your good friend, you might not be able to trust them to continue to be your good friend in business and stuff, because they might dump you for a few hundred bucks. la la la. but if you can find a true good friend, they are rare, but then they are a true good friend. la la la. zzzz. "when we were doing military service, one of our friends had a girlfriend... they were together 4, 5, 6 years? she couldn't live without him! we all went to parties together, she used to bring him food.. then she went off to the states, and then the letters started getting more and more infrequent... and then there was a whole month without letters from her... and then there was one letter. and that day, when they were doing roll call, we said he was out sick. we had a doctor friend and we said to him "give him the stomach flu on paper or something!" because he was getting drunk!!!!" it was a funny story. okay fine i guess you had to be there. he says taht we are all late bloomers, but that it's ok, cuz he was a late bloomer too. he wonders why ray's "crew" couldn't get dates their sr year of high school. "they are 6 or 7 good looking boys, all tall, all nice, all college-bound... what more could you ask for??? i dont' understand it! WHERE'S THE GIRLS?!?!?" ahhh so funny.
+
+AND ALL....THAT....JAAAAAAAAZZ!

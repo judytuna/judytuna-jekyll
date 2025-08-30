@@ -1,0 +1,42 @@
+---
+layout: post
+title: "On \"Gravity\" by Vienna Teng"
+date: 2005-10-24 01:36:00 +0000
+categories: ["Uncategorized"]
+tags: ["vienna teng"]
+---
+
+So--I'm listening to Vienna Teng's "Gravity," right, and there are the lines, and here I will do a Kristinesque italicization in the places I wish to call attention to--
+Hey love. Is that the name you meant to have
+for me to call?
+Look, love. They've given up believing, they've turned aside our stories of the gentle fall
+(then(?)) *Don't you believe them.
+Don't you drink their poison, too!*
+These are the scars that words have carved
+on me
+
+[punctuation mine]
+
+Ok so--and I'm feeling so dashy today--I have always interpreted the above-italicized lines as happening in the imperative tense (note: hold that thought about "imperative tense," I'm gonna talk about it later). Like, "hey you, don't believe them. Don't drink their poison, as others (presumably) have." After all, we've got "look" in the imperative tense. Also, in the next verse we have:
+Hey love. That's the name we've long held back
+from the core of truth
+[and here the guitar goes doo doo doo doo]
+*So don't turn away now!* [which could not be a question]
+I am turning
+in revolution
+these are the scars that silence carved
+on me
+
+But it had never occured to me until a moment ago that "Don't you believe them/don't you drink their poison too" could be questions. As in, questions like "Isn't this great?" or "Aren't these your shoes?" or "Don't you have to talk to an L&S counselor soon?" Like, "Do you believe them? Are you drinking their poison, too?" 
+
+Which makes more sense?
+
+I started thinking about this because Derek showed me http://www.animemusicvideos.org ... It is a site where you can browse videos that people create using a song and images from an anime. It's a good thing I don't know very many animes, or else I'd browse this site for a week straight without sleeping or eating. You can search by artist. There are quite a few using Vienna Teng songs (the best I've seen so far is for an anime that I don't know (of course) and D hasn't even heard of called "the promised place beyond the clouds," but it looks really good. http://www.animemusicvideos.org/members/members_videoinfo.php?v=65261  ... The visuals are matched so perfectly to the song). Anyway, I watched one using Howl's Moving Castle (this one: http://www.animemusicvideos.org/members/members_videoinfo.php?v=84516  ... wow it got pretty good reviews from other users). I liked it OK... anyway, it had lyrics at the bottom of the screen, and they wrote "don't you believe them? don't you drink their poison too?" and I was like "WHOA!"
+
+I still hold that it's in the imperative. At this point in time in writing this entry, I became unsure about the term "imperative tense." So I looked it up. Here is what I found: http://itre.cis.upenn.edu/~myl/languagelog/archives/000942.html I quote: "The imperative is a "tense" roughly in the sense that a ferret is a rodent, or a frog is a reptile. That is, it isn't." I highly recommend following that link, by the way. Especially Elanor because Elanor has rodents on the brain. Also Lisa because Lisa is a linguist. I typed "Lisa is a linguini" first, though.
+
+So uhhh.... I still hold that it's in the imperative ... mood. Yes. Because other lines around it are in the imperative... mood. And lines in the same place musically in the next verse are also in the imperative ...mood. But what does it mean? That's another question entirely. "Hey love, is that the name you meant to have for me to call"--ok, that seems simple enough, something like "did you mean for me to love you?" maybe. "Turned aside our stories of the gentle fall" ... there are two interpretations of "gentle fall" I have in mind. One is the fall of eve and the subsequent ejection from the garden of eden. The other is an autumn that was particularly mild. The line "they've given up believing" evokes faith, which evokes religion, which has to do with the fall of eve... But what does it all mean? Who are "they" ? "Our" stories of the gentle fall? Maybe it is a romantic relationship that is vagely taboo, with "hey love, that's the name we've long held back from the core of truth"--sooooo... maybe... these lovers... um... have been in love for a while but it's inappropriate in some way, and they tried to justify it to "them" (whoever "they" are), ... "gentle fall," how is the fall gentle? Ummm... maybe they are saying ... the loss of innocence is actually a good thing... or... their love is a good thing... the singer is worrying that the beloved is succumbing to "their" (whoever "they" are) "poison," in other words, "their" reasons why the love is taboo, and as such he is having doubts about the relationship... so she's telling him (genders irrelevant, really; for the purposes of analysis, "she" will refer to the singer, "him" will refer to "her" beloved, and "they" is... you know, "them")... anyway so she's telling him not to believe "them" because she and he know their love is uh good... Ok this analysis has fallen apart. Abort! Abort! Abort!
+
+It has come to my attention that my writing is extremely difficult to follow. I'm sorry. It's just that I want everything to be as transparent as I can make it--if I have three thoughts in mind, I want to tell them all to you at the same time, no matter how irrelevent they are to the matter at hand ("kristinesque itailcization"). I've never been one for organization. Also, the problem may be that there is no one matter at hand. I just ramble. Mike's java-blogging comes to mind--the entry where you chose levels of boredom and got more and more detail. I really liked that. I could set something up like that too. You could turn off genres of comments like "Where Judy indulges in self-hatred," "Disclaimers about sounding dumb," "Irrelevant asides," stuff like that. 
+
+A funny wordage that my dad uses a lot is "such like that." I think he means to say "stuff like that," but I find myself adding "and such like that" to a lot of phrases in my head. I can usually bite my tongue before saying it out loud, though. How strange and wonderful it must be to speak your parents' language. Maybe I should become an Asian-American studies major and do a study on communication and how the language disconnect in particular (as opposed to merely the cultural/generational gaps) affects the psyche of the second-generation immigrant. Do any of you who are not totally fluent in the the language of your parents feel anxiety about communicating, about using words, so you use more and more words in an effort to make yourself clear?
