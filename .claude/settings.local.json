@@ -1,0 +1,38 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/judytuna/src/judytuna-dot-com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2019/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2019/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2019/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2019/07/02/chaotic-good/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2013/05/20/enroute-to-amsterdam/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2013/05/16/women-techmakers-at-google-io-may-15-2013/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2013/05/20/enroute-to-amsterdam/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2013/05/20/enroute-to-amsterdam/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2019/07/02/chaotic-good/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2005/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/2005/05/02/faerie-dragon/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "Bash(chmod:*)",
+      "Bash(ruby:*)",
+      "Bash(bundle exec jekyll:*)",
+      "Bash(bundle install:*)",
+      "Bash(jekyll build --trace)",
+      "Bash(gem install:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
