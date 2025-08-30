@@ -1,0 +1,23 @@
+---
+layout: post
+title: "written on monday halffinished im posting"
+date: 2007-06-29 02:02:00 +0000
+categories: ["Uncategorized"]
+---
+
+(written on monday, half-finished... i'm posting it now out of some sense of completistism)
+
+there is so much to DO: http://community.livejournal.com/ucberkeley/2496076.html
+http://community.livejournal.com/bayareamusic/896187.html
+
+jarring: getting in a car in hot, hot berkeley and emerging somewhere south of pacifica and north of half moon bay (montero?) and falling over. oh wind! you are so strong! oh sand, you are so pervasive! maybe there is still sand in my eye.
+
+there were days
+when a refrain
+would brighten our corner
+of hickory lane
+so won't you sing that song for me
+the only one you know and i know now (not at the start)
+we're going to pieces
+we're falling apart
+so won't you sing that song for me

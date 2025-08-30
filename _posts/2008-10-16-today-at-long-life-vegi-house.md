@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Today at Long Life Vegi House"
+date: 2008-10-16 07:45:00 +0000
+categories: ["Uncategorized"]
+---
+
+Today at Long Life Vegi House, one of the ladies that worked there came up to me after my meal and asked if I spoke chinese (in chinese). Turns out she needed help making a doctor's appointment. Her kid's eyelid had "shui3 liu2" before, and this doctor cut it off, but now it's happening again, so she needed to take her kid to the doctor again. Ramon and I didn't know what "shui3 liu2" was. When I called the doctor, the person making the appointment was like "what does the patient need to be seen for?" and there ensued a long back-and-forth in chinese and english in little words, like "is it like a bump? is it bleeding? is it round?" It was a bump ("gou gou de") and it did not bleed; it was just "nan kan" (ugly). Finally the receptionist asked for their home phone number so she could look it up, and she did, and I was too flustered to remember to ask her the name of the condition in English so I could write it down for the lady for future reference. They told us that if the chinese lady brought her own translator, they could be seen as early as tomorrow, but if they wanted to request a translator from "over there" (who knows where? hospital maybe?) then they'd have to wait 5 days. They opted to request a translator. It was fun and I'm glad I could be of some help. Ramon and I didn't know why the other lady that works at Long Life didn't just call the appointment-makers for her, cuz her english is perfectly functional. I surmise that she's just afraid of doing something "official" cuz she "thinks" her english is "bad."

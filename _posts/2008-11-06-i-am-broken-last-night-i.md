@@ -1,0 +1,10 @@
+---
+layout: post
+title: "I AM BROKEN Last night I"
+date: 2008-11-06 04:12:00 +0000
+categories: ["Uncategorized"]
+---
+
+I AM BROKEN! Last night I went home at midnight and went STRAIGHT to bed. I was awake and anxious with a fast heartbeat for a few hours but I did fall asleep, and this morning I got out of bed at 9:30, and messed around with installing Fallout 3 and running it from the server (you have to push registry entries to the client computers and make sure the windows live dlls are installed, but otherwise it works from the server, which is cool) and then I went home because Comcast was on its way. They started work after 1:30 or so, and they were like "we can't find out what's wrong," and then later they found that a wire had been broken across the street. I cleaned my hallway. It is really dusty. A few hours later I had internet again, and then the repair people left, and I was sitting on the floor outside my door, putting my router on a little table and watching the lights blink happily, and I fell asleep. I fell asleep sitting on the floor while actively doing something AND I hadn't even closed the front door yet. Dean woke me up by calling me just after 5:30 to make sure I was coming back to run a WoW TCG thing, so I got out of bed, and I was totally hungry, and I got a $3.52 cheeseburger and fries at wiki wiki hawaiian on shattuck, and rushed over to eudo, got there at 6:06, and found nobody there. Two people showed. We chatted for a while. Now I feel awful and really tired. There is no reason I should be this tired. I just want to lie down and go to sleep forever. But sleeping doesn't make me feel better. It makes me feel more tired. I am complaining about this and Dean says it's really obvious why I'm feeling this way, and that is that I don't exercise, I don't eat regularly, and I don't sleep regularly.
+
+I drank a g33k b33r yesterday morning and a starbucks voting free coffee in the evening and I felt happy. So today at noon I had another g33k b33r, but it's still not making me feel not tired, I feel horribly tired, and now I'm afraid to take more caffeine because I'm just going to fall asleep. I feel awful.

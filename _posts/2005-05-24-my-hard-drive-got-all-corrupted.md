@@ -1,0 +1,9 @@
+---
+layout: post
+title: "My hard drive got all corrupted"
+date: 2005-05-24 00:59:00 +0000
+categories: ["Uncategorized"]
+tags: ["computer"]
+---
+
+My hard drive got all corrupted again, so rather than reformat once more and continue to crash I'm sending it in for a warranty replacement. This means I'm quite WoWless. It is very, very sad.

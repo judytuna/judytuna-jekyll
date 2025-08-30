@@ -1,0 +1,10 @@
+---
+layout: post
+title: "hi im kind of drunk well"
+date: 2008-02-18 09:15:00 +0000
+categories: ["Uncategorized"]
+---
+
+hi! i'm kind of drunk. well, happily tipsy, i guess. don't worry, i don't feel sick at all. just kind of weightless and floppy and like my hands aren't really attached to my body. at albatross: lisa, tomasso, ramon, robert, krishna, danny, alan. i had a black...something with raspberry cassis and it was yummy and i drank half of it before i found two ants in it. i went back and said "hey there are ants in my drink" and the pretty bartender with black hair was like "oh no!!!!!!" and opened a new bottle of raspberry stuff (she checked and there were ants in the other bottle) and made me a new one and told me to come back and see her for my next drink. so i sipped at that, which was sweet, and watched the "pictures of musicians" round and didn't recognize any musicians, and got some popcorn but did not oversalt it this time alas, and then krishna told me to get a bottled beer that was usually $7 with pink elephants on it so i did, and it was delicious and like, not beer-like at all. krishna kept saying "it's very complex" and "it's a belgian beer" and i think it was called "hallucinogenic trend" or something... no... that's not it... hmm... i'm sure i could look it up... oh [delirium tremens](http://en.wikipedia.org/wiki/Delirium_Tremens_(beer))!!! GREAT SUCCESS!! anyway it was delicious. k, d and i played some noncompetitive boggle and our own version of sort-of-pictionary and are BFFs.
+
+what i really want to say is that i went to mass this morning for the first time in like... a long time. at st joseph's, where father kim is the regular pastor now. it was good to see him in action again. my mom asked me to come home to go to mass this particular sunday because they were celebrating chinese new year. but woah! i just fell asleep on my keyboard so i think i'll post it later. happy 2am!

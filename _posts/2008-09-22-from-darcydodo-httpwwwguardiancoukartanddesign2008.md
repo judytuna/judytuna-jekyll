@@ -1,0 +1,27 @@
+---
+layout: post
+title: "from darcydodo httpwwwguardiancoukartanddesign2008sep18corpusclock time is marching"
+date: 2008-09-22 09:44:00 +0000
+categories: ["Uncategorized"]
+---
+
+from [darcydodo](http://darcydodo.livejournal.com/): http://www.guardian.co.uk/artanddesign/2008/sep/18/corpus.clock
+time is marching on.
+terrifying.
+
+on the bart on friday night, three hipster boys were singing "TIME (CLAP CLAP)... IS MARCHING ON (CLAP CLAP)... AND TIME (CLAP CLAP)... IS STILL MARCHING ON!" i smiled at them.
+
+on the muni after seeing the little mermaid with lisa/tom/kimberley, some boys next to us burst into amazing several-part harmony. i think it they were singing los lonely boys. 
+
+i remember after we sang sea chanties with isaac and company, we too burst into song on the muni. what was it that we were singing? one of the a cappella standards.
+
+sometimes fritz and i sing things (our favorite thing to sing for a while was the beatles song "i've just seen a face") and we get people walking on the street to stop and smile at us and tell us we're beautiful. at the camping trip too, in the morning our neighbors came over and said "we love the beatles. are you singers?"
+
+i am a songbird. i sing mostly to hear myself, i think, to prove to myself that i'm still alive.
+i was thinking last night about how i'm a kelp forest. i sway wherever the current pushes me and i try to touch everything that comes by. i don't go that many places myself but am keenly interested in whatever happens to drift near me, but only for a little while. i need a rock to cling to. uh, many species use me as their home? this is where the party ends the analogy breaks down
+
+i was looking on youtube for the "i've just seen a face" song and found this instead: http://www.youtube.com/watch?v=jmR0V6s3NKk
+it is an incredible interview and it is incredibly animated.
+wow.
+
+"peace."

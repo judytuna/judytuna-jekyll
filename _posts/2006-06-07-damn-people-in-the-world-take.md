@@ -1,0 +1,9 @@
+---
+layout: post
+title: "damn people in the world take"
+date: 2006-06-07 19:25:00 +0000
+categories: ["Uncategorized"]
+---
+
+damn. people in the world take cocktail parties (aka business networking) really seriously. for example, http://www.wcpo.com/news/2004/local/12/05/colosimo_cocktails.html and http://www.epicurious.com/features/entertaining/kbnewyears/look
+geez. the acronym "cbf" comes to mind here. i'm going to use all the votives i feel like, crazy woman. evite takes parties really seriously, too. i guess that's what you do, promote "entertainment is really serious," so that people spend more money on your advertisers, who give more money to you. i just need to find something that isn't being done to death on the internet already and create buzz for it and then i, too, can be filthy-rich. (i just read an article on facebook.) it's so simple

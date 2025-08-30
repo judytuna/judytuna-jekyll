@@ -1,0 +1,46 @@
+---
+layout: post
+title: "This is the highestquality video of"
+date: 2006-07-13 05:10:00 +0000
+categories: ["Uncategorized"]
+tags: ["football", "obsessions", "soccer", "the internet", "world cup", "zidane"]
+---
+
+This is the highest-quality video of the Zidane interview I've found on youtube: http://www.youtube.com/watch?v=PSA_I-nFXOU
+BBC did a segment on it with some translations http://www.youtube.com/watch?v=pWY9QLbeIxc
+
+All I can understand is "parce que" and "les enfants" and "sur tout pas" and "la maman, la soeur." 
+
+God, he's such a beautiful man.
+
+.....
+
+This video made me say "what the crap?" out loud: http://www.youtube.com/watch?v=EpG4AHlZrL4&search=materazzi
+Yeah, lots of people commit fouls, but is everyone as bad as this guy?
+Here's another, shorter one: http://www.youtube.com/watch?v=dlaqsOPlt-0&mode=related&search=Materazzi
+
+There are tons of Zidane compilation videos on youtube. Here's a pretty popular one that has a bunch of clips of him and Ronaldinho: http://www.youtube.com/watch?v=gjM06i54s3s&search=zidane%20ronaldinho
+
+"Why are you so obsessed with this?" Ryan asks. I dunno. I feel like I haven't been this drawn to something since the x-files. Oh, besides warcraft. Hmm. I guess I slip into relative obsession pretty easily, and always because of some small thing. My love of the backstreet boys was 100% the fault of [krdogstar](http://krdogstar.livejournal.com/), who called (or maybe it was over IM?) me to demand that I turn on the TV to watch them perform at the end of SNL. My love of the new yorker is 100% the fault of [mercuryfading](http://mercuryfading.livejournal.com/) who brought a copy to school to read, and mike cut it up during vertigo to use a cartoon in his layout. I heard of the x-files because of--and this is truly embarrassing--some retarded Newsweek article on the movie (I told you it was embarrassing. In chatrooms and forums ever after, when people asked "what season/episode turned you on to the xfiles" and I'd answer "the movie," people would respond with shock because the movie was so unlike the series and they didn't know anyone who was converted to loving the series after being exposed to the movie. I'm sure, like always, that there exists a more elegant way of saying that, but I'm too lazy to find it.) And I hadn't even heard of Zidane until Alan said "look at Zidane, he's playing like a madman because he's going to retire." And there you have it.
+
+slate has a bunch of articles, some include [how to headbutt like a pro](http://www.slate.com/id/2145424), [wtf magic spray](http://www.slate.com/id/2144194/), [this article is funny](http://www.slate.com/id/2142554/)
+
+i'll just deposit links here as i find them
+
+.gif
+[something awful](http://forums.somethingawful.com/showthread.php?s=12e9f4b1c9ba34bf7829886aa3ae7b8c&threadid=1950611&perpage=40&pagenumber=1) - animated .gif fever... wow. just wow.
+[video](http://www.youtube.com/watch?v=uw8B4zBRFlA) - one of many compilations of the animated .gifs
+[more smartassity](http://victoriatutorial.blogspot.com/2006/05/cup.html) - photos with captions
+
+zidane compilations
+[this one is my favorite](http://www.youtube.com/watch?v=9b7Yk7tpY64&mode=related&search=zidane) - compilations r fun.  this one has lots of dancing around; many of the others focus on goals. it also has some dives and misses and fouls. he totally taunts two guys at 2:13, it's funny. also, this compliation uses a muse song in the middle. yay muse
+[this one is good too](http://www.youtube.com/watch?v=dYUtKKbBTkw&eurl=http%3A%2F%2Fwww%2Erosieyatch%2Ecom%2F) - found it via looking at random people whose blogs link to the above video. ah, youtube options
+[zidane compilation](http://www.youtube.com/watch?v=1OOWTTV5dRU) - seems to be exclusively from the 2006 world cup, and also seems to be put together by a tv station?
+[goals and stuff](http://www.youtube.com/watch?v=a2-vX4-6-lo) - the music choice is hilariously terrible. i like the one at 3:35 that gets replayed a couple of times. apparently put together by an asian (chinese?) real madrid fan website?
+
+in general
+[dives from all over](http://www.youtube.com/watch?v=BrvRGTVkv6Y) - this is funny
+[this commentator is awesome](http://www.youtube.com/watch?v=Qe_-JhL97P0&mode=related&search=). henry is too
+[how the italy team trains](http://www.youtube.com/watch?v=RygKjA_8qio&search=italy%20football) HAHAHA
+
+YOUTUBE IS THE BANE OF MY EXISTENCE

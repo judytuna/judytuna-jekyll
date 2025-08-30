@@ -1,0 +1,24 @@
+---
+layout: post
+title: "I was browsing flickr the other"
+date: 2005-08-06 10:07:00 +0000
+categories: ["Uncategorized"]
+tags: ["ikea"]
+---
+
+I was browsing flickr the other day and followed links to www.43folders.com . I have learned, among other things, that the square plastic things you use to keep bread-bags closed are great to label cords, what a Moleskine is, and that GTD stands for "Getting Things Done" which is a [book](http://www.amazon.com/exec/obidos/tg/detail/-/0142000280/qid=1123317177/sr=8-1/ref=pd_bbs_sbs_1/102-0543866-6760943?v=glance&s=books&n=507846) by a dude called David Allen.
+
+http://www.davidco.com/individuals.php - Awesome! Now I can procrastinate by reading about how not to procrastinate! Now I can not every do anything important by learning how to create environments and best practices for work and home to avoid burn-out! Now I can be worried, drained, unfocused, and antiproductive by learning to keep myself relaxed, refreshed, focused, and productive! All these things to try! For example...
+http://www.davidco.com/tips_tools/tip17.html - Big old file system to organize every paper thing in your life, forever!
+http://www.douglasjohnston.net/weblog/archives/2005/06/11/diyp2_hipsterpda/ - A system that you print onto index cards! It is so very hip! So what if I just found out about this? I'm not hip. But it is all customizable and there are all these systems to keep track of things for you! A page for every little thing! And if you drop it, it won't break!
+http://shared.snapgrid.com/gtd_tiddlywiki.html#WikiOnAStick - Hell, I don't need paper! I've got a USB thumb drive!!
+
+Man, this stuff is hilarious. 
+
+I feel like a small mouse entering a giant, pointless maze that I will eventually die inside just like every other nondescript mouse. I am very excited and happy to be entering. I will settle into a routine and try to be more like all the other little mice, because they are better and happier than me. I will learn to dress better. I will learn to 
+
+In case you couldn't figure it out, maze = respectable life wherein you do not miss every appointment you make and graduate from college, 
+
+I am in this very strange, desperately happy, terrible mood because I just watched the movie *Grave of the Fireflies*. It's Studio Ghibli (not Miyazaki). We reached a consesnsus that this is the saddest movie in the universe. It's got no competition. It makes me want to crawl into a hole and die. No, I cannot describe to you just how much of a downer this film was. You will just have to watch it yourself,
+
+Dude, my [bed](http://www.ikea.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10101&storeId=12&productId=10918&langId=-1&parentCats=10103*10144) just broke. Fuck you, Ikea. Ryan leaned on it to open the window and CRAAAAACK... the leg came off. And then he leaned it sideways to inspect it and CRAAAAAAAACK another leg came off. [What the Flux?](http://wow.allakhazam.com/db/quest.html?wquest=7722) I no longer have the morale to continue the post and now you can all get a glimpse into my writing process because I often start writing my next paragraph before I'm done with the one I'm currently stream-of-conscious-ly typing. I want to crawl into a hole and die.

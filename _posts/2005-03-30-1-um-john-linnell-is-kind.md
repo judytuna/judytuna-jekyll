@@ -1,0 +1,20 @@
+---
+layout: post
+title: "1 Um John Linnell is kind"
+date: 2005-03-30 22:09:00 +0000
+categories: ["Uncategorized"]
+---
+
+1. Um, John Linnell is kind of cute. Well, at least he was when he was young. Younger. Or something. Alas, I mourn for R's camera. Hi Lisa, who knows that I like bands that are composed of cute-ish boys. Which I do. But it's not the only reason.
+
+2. Today I walked into Urban Outfitters because I walk by there all the time and I'm always admiring the things they have in the windows. Upon walking in, I found that I admired their neatly laid out rows of tumblers but did not admire in the least bit their price tags. But I did find a whole ARRAY of Rainbow Brite shirts that I ABSOLUTELY MUST HAVE. That cost $28 each. Alas (which Alan keeps saying in world of warcraft and has thusly rubbed off onto me). So I bought a cute black shirt on sale for $15 and a cute pink shirt for $5, both with ruffly sleeves, because I like ruffly sleeves, even though my mom says they really don't look good on me because I have particularly wide shoulers so instead of accentuating them with decorative sleeves I should wear tank tops or shirts with boat necks to draw attention away from my wide frame. Scoop necks. Whatever they're called. Hey, vote here:
+
+3. I don't sing high, or loud, very much. The only times I ever hear myself seriously sing high or loud is for auditions for things. Like last night, I wasn't going to audition for "rainbow connection" but I did anyway and I'd never practiced it before, and I surprised myself with my volume up there but I wasn't surprised at all and was actually disappointed with myself at the same time. And then later I was thinking about it and how this process of Singing is this Huge Ordeal, like I have to scroll through all my action bars making sure the right abilities are within quick reach and that I'm hitting the right hotkeys and assist-targeting off the right party member and attacking the right mob and making sure I have enough breath (yes, the last was the only one that had to do with actual singing, though it, too, relates to WoW). I dunno, I need to listen to myself sing more, or something. Yeah the last time I surprised-not-surprised myself was in u chorus auditioning for a christmas solo (Darcy said something to the effect of "I've never heard you sing loud." 
+
+4. George said to me, "I feel bad for giving you world of warcraft," in that almost-joking halfwaylaugh-infused manner that he uses when he is serious. Now, if I wasn't playing world of warcraft, I would be doing something else that is Not School, and I would have withdrawn before the eighth week anyway, but nevertheless he says "...well... why don't you just get to 60, and then... taper it off a bit." I guess if I were to graduate, I should. At pi(e) day, I muttered "wave of babies" and made George chortle "wave of babies" even though he was in another conversation, bahaha.
+
+5. Chortle is a good word. 
+
+6. DeCadence made some money on tour. We also saw a huge dead squid on the beach. And Quinn has a slightly scary fan in high school from Las Vegas. And there were rainbows on the car ride back and Matt and I discussed them for like 2 hours. I don't think I'd ever seen a rainbow stretch all the way from horizon to horizon like I saw on the car ride back. That was really cool. Carolyn tried to take pictures of it, but it was too big. Rainbows are pretty cool. http://my.unidata.ucar.edu/content/staff/blynds/rnbw.html ... Also, matt told me about this: http://www.gethappy.com/more1.html
+
+7. Hey. You should preorder DeCadence's upcoming CD. We've recorded Summertime and Falling, and are going to begin recording Say Goodbye, Let Her Cry, and You Gotta Be soon, like in the next week or something. http://decadence.berkeley.edu ... also say that Judy told you to preorder it, because every one of us has a quota to fill of 10 preorders. Also if you want "a zebra heard" we're selling it for $5 now instead of $10. Yeeha. Also come to our concert. It is next next weekend.

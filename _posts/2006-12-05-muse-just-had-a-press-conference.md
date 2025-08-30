@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Muse just had a press conference"
+date: 2006-12-05 04:23:00 +0000
+categories: ["Uncategorized"]
+tags: ["muse"]
+---
+
+Muse just had a press conference: they're the first musical act announced to play at the newly reopened [Wembley Stadium](http://en.wikipedia.org/wiki/Wembley_Stadium) hooray! Now someone buy me a plane ticket to england next June =( I bet the stage setup is going to be incredible. And how cool would it be if they got another Glastonbury headline slot! haa
+
+edited to add: coming back in march! http://www.aolmusicnewsblog.com/2006/12/01/muse-plan-their-summer-vacation/

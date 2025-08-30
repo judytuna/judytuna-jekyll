@@ -78,20 +78,32 @@ class WordPressXMLToJekyll
         return
       end
       
-      # Skip if no title or content
-      if title.nil? || title.strip.empty? || content.nil? || content.strip.empty?
-        puts "Skipping post with missing title or content"
+      # Skip if no content
+      if content.nil? || content.strip.empty?
+        puts "Skipping post with missing content"
         @skipped_count += 1
         return
       end
       
-      # Parse date
+      # Parse date first
       begin
         date = DateTime.parse(pub_date)
       rescue => e
-        puts "Error parsing date for '#{title}': #{e.message}"
+        puts "Error parsing date: #{e.message}"
         @skipped_count += 1
         return
+      end
+      
+      # Generate title if missing
+      if title.nil? || title.strip.empty?
+        # Use first few words of content as title, or date-based title
+        first_words = content.gsub(/<[^>]+>/, '').strip.split(/\s+/)[0..5].join(' ')
+        if first_words.length > 10
+          title = first_words.gsub(/[^\w\s]/, '').strip
+        else
+          title = "Post from #{date.strftime('%B %d, %Y')}"
+        end
+        puts "Generated title for post: #{title}"
       end
       
       # Check if we already have this post

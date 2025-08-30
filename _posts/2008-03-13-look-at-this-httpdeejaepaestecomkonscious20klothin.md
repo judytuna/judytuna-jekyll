@@ -1,0 +1,12 @@
+---
+layout: post
+title: "look at this httpdeejaepaestecomKonscious20KlothingGalleryhtml beautiful some"
+date: 2008-03-13 05:35:00 +0000
+categories: ["Uncategorized"]
+---
+
+look at this! http://deejaepaeste.com/Konscious%20Klothing/Gallery.html
+
+beautiful!
+
+some guy was wearing a shirt that had had a girl's profile and a g clef and i loved it and he told me it was his friend's design (he then amended it to ex's brother or somesuch, but "friend" was just easier) and i asked for the website and they're so pretty. look at the koi!!!!

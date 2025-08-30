@@ -1,0 +1,20 @@
+---
+layout: post
+title: "I set up a new Spot"
+date: 2010-09-03 03:38:00 +0000
+categories: ["Uncategorized"]
+---
+
+I set up a new Spot blog: http://www.spottheoctopus.com/blog 
+Just added Kristina's Splot the Octopus as the favicon lol
+Take special notice of the VIDEO ARCHIVES section! All of our performances in one menu! 
+
+Also, I have set up an LJ-syndication feed: http://syndicated.livejournal.com/feedtheoctopus/
+
+Add feedtheoctopus to your LJ friends now!! Hooray!!
+
+Also, Spot members, do you want posting access to the spot blog? Please let me know what you want your username to be and I will create an account for you. 
+
+I'm loving this.
+
+Edited to ask: if you know of any way to tweak how Wordpress sets up the RSS feed, let me know. Right now, all the entries have two long links going to the blog on the top.

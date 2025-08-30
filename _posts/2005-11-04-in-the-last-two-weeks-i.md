@@ -1,0 +1,10 @@
+---
+layout: post
+title: "In the last two weeks I"
+date: 2005-11-04 19:18:00 +0000
+categories: ["Uncategorized"]
+---
+
+In the last two weeks, I have dreamt about my retainer more than once. In one dream, it shredded my tongue, filling my mouth with blood (in real life, it does make my tongue sore, but it hasn't actually cut my tongue yet). I have also dreamed that when I took my retainer out after wearing it for a day, my back molars came out with it. I held my white, cubic molars in my hand and rolled them around, counting my remaining teeth with my tongue. My entire face hurt when I woke up. And I wasn't wearing my retainer.
+
+I looked in the mirror the other day and everything about my face is unbalanced. And my teeth, the only part that got fixed, are horribly crooked again, again, again, because I didn't wear my retainer reliably again, again, again. I have taken my dreams as my subconscious desperately reminding me to wear it so I have worn it all day yesterday and today (the first time in four months). I hate myself. So much.

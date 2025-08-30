@@ -1,0 +1,28 @@
+---
+layout: post
+title: "A lot has happened in the"
+date: 2009-06-23 00:17:00 +0000
+categories: ["Uncategorized"]
+---
+
+A lot has happened in the last three weeks. 
+
+June 5-7: kayaking on the Russian River for Lisa's birthday and pre-wedding celebration.
+![Image](http://farm4.static.flickr.com/3339/3652476742_6929122155_m.jpg)
+- Kayaking is fun.
+- I'm a sprinter.
+- We're getting old. Almost everybody we hang around is paired off.
+- Tree swallows are kind of blue on their backs. You can tell they're swallows cuz they dip over the water.
+- A Merganser has the body of a duck, a longer and thinner bill, and a crest! The boys have a brown head and the girls have a more tawny head. You can remember this ducky's name like this: Mer is for Mermaid, Gan is for Gandalf, and -zer is for Zergling. I learned too late that it is spelled with an S instead of a Z, but it still works for what it sounds like.
+- Mike said "I'm understanding Judy's style more, now. She didn't just make a representation of Lake Merritt... she made LAKE MERRITT. And here, we're working on THE RUSSIAN RIVER." My LAKE MERRITT was complete with its strings of pearls and some Scaups with one single Tufted Duck. Our THE RUSSIAN RIVER had three kayakers in 2 kayaks, a misplaced pine tree, two turtles on a log, and the golden gate bridge.
+- Tom said "If there was ever a time when there was only one set of toes being sucked ... never mind" and Lydia giggled for like 10 minutes.
+
+June 13: went to Santa Cruz for F's cousin's graduation. Met some grandparents and hung out with his mom and stuff.
+
+June 20: Lisa and Tommaso got married! It was perfectly lovely.
+![Image](http://farm4.static.flickr.com/3386/3647360421_87f3cfed3d_m.jpg) ![Image](http://farm4.static.flickr.com/3624/3648231486_85d3ffd18b_m.jpg) ![Image](http://farm4.static.flickr.com/3385/3647438629_865f47c344_m.jpg)
+and more: http://www.flickr.com/photos/judytuna/sets/72157620277767660/
+If you would like to see Angela and Alan's ancient sinoceltic proverb, [click here](http://www.flickr.com/photos/judytuna/3647379381/), but you won't be able to hear it very well because of how hard I was laughing.
+June 21: Kimberley hosted a kickass bbq to celebrate the summer solstice.
+
+Speaking of weddings, Ramon and Robert got married one year ago. Can you believe it? I can't. I'm looking at my Facebook "posted items" and only noticed because it says "posted more than one year ago."
