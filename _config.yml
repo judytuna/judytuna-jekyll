@@ -22,8 +22,8 @@ title: tuna says
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   tuna sings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/judytuna-jekyll" # the subpath of your site, e.g. /blog
+url: "https://judytuna.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: judytuna
 github_username: judytuna
 
@@ -31,6 +31,9 @@ github_username: judytuna
 theme: minima
 plugins:
   - jekyll-feed
+
+# Permalink structure (excludes categories from URL)
+permalink: /:year/:month/:day/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
