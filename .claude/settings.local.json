@@ -44,7 +44,8 @@
       "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
       "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
       "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
-      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)"
+      "Read(/Users/judytuna/src/judytuna-dot-com/judytuna.com/**)",
+      "WebFetch(domain:judytuna.com)"
     ],
     "deny": [],
     "ask": []
