@@ -3,6 +3,16 @@ layout: post
 title: "there is a flood in iowa."
 date: 2008-06-15 02:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2105
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2008-06-27 00:30:41"
+    content: |
+      <p>What could be more right than an army of [slowly] flying turtles?</p>
+      <p>Deep Blue: AHHHHH! It's the turtles!</p>
+      <p><i>Kasparov runs his little piggy legs off</i><br />
+      Kasparov: I'm free again, you fuckers!</p>
 ---
 
 I took this picture in 2005:

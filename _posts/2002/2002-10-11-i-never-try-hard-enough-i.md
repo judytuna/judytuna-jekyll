@@ -3,6 +3,13 @@ layout: post
 title: "i never try hard enough i"
 date: 2002-10-11 11:34:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 533
+    author: "Anonymous"
+    date: "2002-10-19 22:43:44"
+    content: |
+      <p>You are magnificent.</p>
+      <p>Feel good about yourself. You're lovely. You're sweet. You care about people. You're genuine and you're brilliant. K?</p>
 ---
 
 i never try hard enough.

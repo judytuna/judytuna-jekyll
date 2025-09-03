@@ -3,6 +3,14 @@ layout: post
 title: "i still got beat up after class"
 date: 2003-04-30 08:45:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 613
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2003-04-30 06:27:14"
+    content: |
+      <p>I was sent to the City of Dis for being a heretic.</p>
+      <p>Also, I got "Very High" in the Lustful category.</p>
 ---
 
 The Dante's Inferno Test has sent you to *Purgatory!*

@@ -4,6 +4,28 @@ title: "imogen heap concert!"
 date: 2006-12-05 03:09:00 +0000
 categories: ["Uncategorized"]
 tags: ["concert", "imogen heap", "san francisco", "warfield"]
+comments:
+  - id: 1792
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2006-12-05 03:44:38"
+    content: |
+      <p>Darn it!  Now I really really want to go to her show here in Denver!  But I have a final the next morning, and a flight home that afternoon.  Curse you, oh singing gods!</p>
+  - id: 1793
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-12-05 03:50:16"
+    content: |
+      <p>oh no! i wish you could go, she's so great to see live! what a personality, what an entertainer, what a musician! =(</p>
+      <p>at least there is youtube =) check out the acoustic version of let go!</p>
+    parent: 1792
+  - id: 1794
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-12-05 03:55:37"
+    content: |
+      <p>have you seen kid beyond live? it was so cool to see him perform with immi! man, i really wish you didn't have to miss it =( because they'll probably not tour together again, you know? haha, sorry for prodding you with temptation</p>
+    parent: 1792
 ---
 
 The Imogen Heap concert was fantastic! She's really someone awesome to

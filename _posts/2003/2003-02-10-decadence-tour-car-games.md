@@ -3,6 +3,25 @@ layout: post
 title: "decadence tour car games."
 date: 2003-02-10 21:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 572
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-02-10 14:29:27"
+    content: |
+      <p>EGREM!</p>
+      <p>i know the two about me:<br />
+      "elanor is in the shower/ she'll be in there for an hour."<br />
+      "elanor expressed a preference/ keep her handy just for reference."</p>
+      <p>i have a journal, too!  do not plunge too heavily into its depths; i get stupider the further back you go.</p>
+  - id: 573
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-02-11 11:56:59"
+    content: |
+      <p>Re: EGREM!</p>
+      <p>yay! an elanor-journal. how come you don't show up on my "friends" page? since you know it's SO much work to click over to your actual livejournal, like, yeah. mine goes back to summer after 1st year of college; i haven't read those for a long time. fun times. </p>
+    parent: 572
 ---
 
 yuukai (11:46:42 PM): Exploding Starred and feath-herd of cattle-pult-er-geiced-tea-ring wheel 

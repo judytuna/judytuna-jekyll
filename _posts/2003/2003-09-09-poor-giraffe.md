@@ -3,6 +3,20 @@ layout: post
 title: "poor giraffe"
 date: 2003-09-09 08:21:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 723
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2003-09-09 01:08:12"
+    content: |
+      <p>Hey! I was there on Saturday at the Centre, IN American Eagle for hours too! </p>
+      <p>Too bad I didn't see you. We wanted to go to the Chocolate Festival too. </p>
+  - id: 724
+    author: "joegarlic"
+    author_url: "http://joegarlic.livejournal.com/"
+    date: "2003-09-09 17:19:47"
+    content: |
+      <p>yummmmmmmmm. Oh, my gosh, can I just say that there is no one I would rather live vicariously through than fellow DeCadence alumni?</p>
 ---
 
 ryan (12:02:54 AM): i can't wait til my new powerbooky

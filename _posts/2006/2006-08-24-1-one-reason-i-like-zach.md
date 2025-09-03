@@ -3,6 +3,56 @@ layout: post
 title: "1 One reason I like Zach"
 date: 2006-08-24 19:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1642
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-08-24 18:53:44"
+    content: |
+      <p>I think I'm going to have to subscribe to your very all-encompassing theory of Coming-of-Age movies.</p>
+  - id: 1643
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-08-24 19:08:52"
+    content: |
+      <p>I'm trying to think of a movie that can't be a coming-of-age story. I'm having a hard time. I know that as soon as I say this, people will be like "duh, here is a list of a million movies that aren't coming-of-age stories!" but still.</p>
+    parent: 1642
+  - id: 1644
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-08-24 19:11:05"
+    content: |
+      <p>Damn, I'm going to have to think about that one. So far everything in my arsenal is now a coming-of-age movie!</p>
+    parent: 1643
+  - id: 1645
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-08-24 19:11:58"
+    content: |
+      <p>Cheech and Chong's Up In Smoke? DaVinci Code? The Italian Job?</p>
+    parent: 1643
+  - id: 1646
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-08-24 19:16:48"
+    content: |
+      <p>I've never seen those D:</p>
+      <p>But I've read the DaVinci Code. Coming-of-age-story-if-you-are-a-young-cryptographer-searching-for-understanding-your-father's-strange-actions-and-also-finding-love-wooha! ?</p>
+    parent: 1645
+  - id: 1647
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-08-24 20:21:24"
+    content: |
+      <p>Oh yeah, that counts!</p>
+    parent: 1646
+  - id: 1648
+    author: "wubbakraken"
+    author_url: "http://wubbakraken.livejournal.com/"
+    date: "2006-08-27 06:31:45"
+    content: |
+      <p>Monty Python's Meaning of Life</p>
+    parent: 1643
 ---
 
 1. One reason I like Zach Braff is how he dives into the internet. 

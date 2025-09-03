@@ -3,6 +3,20 @@ layout: post
 title: "ryangiraffe 10456 PM where did you"
 date: 2002-10-20 21:57:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 534
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2002-10-20 18:15:01"
+    content: |
+      <p>those happy tree things?  yeah those are terrible.</p>
+  - id: 535
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2002-10-29 21:13:40"
+    content: |
+      <p>Michael Moore is brilliant!</p>
+      <p>I just saw "Bowling" too.  See my journal for my reaction.  Man, what a picture.</p>
 ---
 
 ryangiraffe (1:04:56 PM): where did you went away to?

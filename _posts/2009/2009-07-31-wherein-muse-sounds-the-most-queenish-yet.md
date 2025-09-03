@@ -3,6 +3,22 @@ layout: post
 title: "Wherein Muse sounds the most Queenish yet!"
 date: 2009-07-31 00:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2236
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2009-07-31 04:18:05"
+    content: |
+      <p>WE ARE THE CHAMPIONS MY FRIENDS..... i mean i mean... THERE CAN BE ONLY OOOOONNNEEE...<br />
+      hehe!</p>
+  - id: 2237
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2009-07-31 19:38:58"
+    content: |
+      <p>THUNDERBOLTS AND LIGHTNING ... i mean i mean ... UNITED STAAAAAAAAAIIIAAAIIIAIIIIIITES...</p>
+      <p>On the forums, someone commented "as i was listening to this song, i was afraid my mom would hear it and think i finally turned patriotic =(" and a couple of other people said "yeah, here in britain, i'm afraid someone will hear only a part of it and think i'm pro-USA =(" and someone else said "you are all bananas." ROFL</p>
+    parent: 2236
 ---
 
 Muse gets Quennier than ever, with a huge side helping of Chopin! http://www.youtube.com/watch?v=6S83tuz8000

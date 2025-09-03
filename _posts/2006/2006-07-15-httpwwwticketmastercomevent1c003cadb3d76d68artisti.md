@@ -3,6 +3,20 @@ layout: post
 title: "httpwwwticketmastercomevent1C003CADB3D76D68artistid844066ampmajorcatid10002ampminorcatid207 RENT july 29 at golden"
 date: 2006-07-15 01:23:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1611
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-07-21 17:44:00"
+    content: |
+      <p>Have you bought rent tickets yet? A friend and I may be interested in going.</p>
+  - id: 1612
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-07-21 19:00:04"
+    content: |
+      <p>yes we bought tickets already</p>
+    parent: 1611
 ---
 
 http://www.ticketmaster.com/event/1C003CADB3D76D68?artistid=844066&majorcatid=10002&minorcatid=207

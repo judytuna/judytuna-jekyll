@@ -3,6 +3,29 @@ layout: post
 title: "I cant believe I used the"
 date: 2004-05-26 11:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 945
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-05-26 19:31:53"
+    content: |
+      <p>FYI, the word <i>meme</i> was coined by <a href="http://www.world-of-dawkins.com/index.shtml" rel="nofollow">Richard Dawkins</a> in his book, <i>The Selfish Gene</i>.</p>
+      <p><i>Examples of memes are tunes, ideas, catch-phrases, clothes fashions, ways of making pots or of building arches.  Just as genes propagate themselves in the gene pool by leaping from body to body via sperms or eggs, so memes propagate themselves in the meme pool by leaping from brain to brain via a process which, in the broad sense, can be called imitation.  If a scientist hears, or reads about, a good idea, he passed it on to his colleagues and students.  He mentions it in his articles and his lectures.  If the idea catches on, it can be said to propagate itself, spreading from brain to brain.  As my colleague N.K. Humphrey neatly summed up an earlier draft of this chapter: `... memes should be regarded as living structures, not just metaphorically but technically.(3)  When you plant a fertile meme in my mind you literally parasitize my brain, turning it into a vehicle for the meme's propagation in just the way that a virus may parasitize the genetic mechanism of a host cell.  And this isn't just a way of talking -- the meme for, say, "belief in life after death" is actually realized physically, millions of times over, as a structure in the nervous systems of individual men the world over.'</i></p>
+  - id: 946
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-05-26 19:36:55"
+    content: |
+      <p><a href="http://www.rubinghscience.org/memetics/dawkinsmemes.html" rel="nofollow">More on memes…</a></p>
+    parent: 945
+  - id: 947
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2004-05-27 01:45:39"
+    content: |
+      <p>Memes also feature heavily in the book <i>Snow Crash</i> by Neal Stephenson.</p>
+      <p>That's how I learned of 'em.</p>
+    parent: 945
 ---
 
 I can't believe I used the word "meme."

@@ -3,6 +3,13 @@ layout: post
 title: "engrish advertising copy"
 date: 2008-11-22 10:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2180
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-11-22 17:25:46"
+    content: |
+      <p>I certainly am astonished and beaten! </p>
 ---
 
 http://www.finechineseclothing.com/eng/Product/detail.aspx?productID=1712

@@ -3,6 +3,13 @@ layout: post
 title: "once i read that sometimes children"
 date: 2002-12-01 22:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 548
+    author: "Anonymous"
+    date: "2002-12-03 21:53:35"
+    content: |
+      <p>yeah that happened in Shine.  i never understood it.  but now i do.<br />
+      J.</p>
 ---
 
 once i read that sometimes children will pee in their pants or have bowel movements onto the floor in reaction to strict parents because their waste something that only they have control over, so they'll exercise that control when they feel not-in-control because it will make them feel in-control again. 

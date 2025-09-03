@@ -3,6 +3,63 @@ layout: post
 title: "EARTHQUAKE!"
 date: 2005-09-24 12:59:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1302
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2005-09-24 15:08:33"
+    content: |
+      <p>it woke me up!</p>
+  - id: 1303
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2005-09-24 17:43:35"
+    content: |
+      <p>I felt it too - but for some reason I thought that it was after midnight last night.  I almost forgot about it until I saw this post.</p>
+  - id: 1304
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2005-09-24 21:59:33"
+    content: |
+      <p>It scared the poop out of me! Then I went back to sleep and forgot about it this morning.</p>
+  - id: 1305
+    author: "poetic27license"
+    author_url: "http://poetic27license.livejournal.com/"
+    date: "2005-09-24 22:31:16"
+    content: |
+      <p>hhahaha. i feel so special (and shaky) :)</p>
+  - id: 1306
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2005-09-25 05:49:15"
+    content: |
+      <p>Also, why were you up at 4:32 in the morning already?  Sleep, Judy, Sleep!</p>
+    parent: 1303
+  - id: 1307
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2005-09-25 07:09:08"
+    content: |
+      <p>Somehow my cousins in Milpitas felt a 3 earthquake taking place 40 miles or so away. I only wake up for 4's that take place right under me.</p>
+  - id: 1308
+    author: "directdk"
+    author_url: "http://directdk.livejournal.com/"
+    date: "2005-09-25 10:31:47"
+    content: |
+      <p>since when did you start referring to me as "D"? =)</p>
+  - id: 1309
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-09-25 15:31:49"
+    content: |
+      <p>She started referring to everyone by first initial.</p>
+    parent: 1308
+  - id: 1310
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2005-09-25 15:55:26"
+    content: |
+      <p>I hate earthquakes. Especially since I live under 1,000 tons of bricks. </p>
 ---
 
 http://pasadena.wr.usgs.gov/shake/ca/STORE/X40179595/ciim_display.html

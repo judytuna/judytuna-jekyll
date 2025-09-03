@@ -4,6 +4,13 @@ title: "1 DO NOT WANT 2 You"
 date: 2007-07-06 21:59:00 +0000
 categories: ["Uncategorized"]
 tags: ["4th", "bbq", "computer woes", "daemon", "dream", "muse", "the internet", "youtube"]
+comments:
+  - id: 1925
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2007-07-08 00:27:47"
+    content: |
+      <p><img src="http://a123.g.akamai.net/f/123/12465/1d/media.canada.com/idl/vitc/20070625/2192-640.jpg"></p>
 ---
 
 1) **DO NOT WANT**

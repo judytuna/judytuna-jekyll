@@ -3,6 +3,69 @@ layout: post
 title: "Five Questions from babybixler .... finally answered!"
 date: 2010-02-10 12:22:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2264
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-02-11 03:44:18"
+    content: |
+      <p>Ok yeah! Interview me! MEEEEEEEEE! </p>
+      <p>Also: I liked Portal too! It's basically the ONLY game of my last 5 years (other than consume feces thou feline...). </p>
+  - id: 2265
+    author: "babybixler"
+    author_url: "http://babybixler.livejournal.com/"
+    date: "2010-02-12 20:44:29"
+    content: |
+      <p>Excellent. :) </p>
+      <p>I need to reread His Dark Materials but I can't find my copies - I think I put them in storage?!</p>
+  - id: 2266
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-02-12 20:57:31"
+    content: |
+      <p>Want to borrow mine?<br />
+      Thanks for the questions. It was fun =)</p>
+    parent: 2265
+  - id: 2267
+    author: "babybixler"
+    author_url: "http://babybixler.livejournal.com/"
+    date: "2010-02-13 00:32:09"
+    content: |
+      <p>I like your answers! You always have good posts, J. :)</p>
+    parent: 2266
+  - id: 2268
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-02-23 00:25:23"
+    content: |
+      <p>Sorry these took so long to get to you!</p>
+      <p>1. When did you first know you loved birds?</p>
+      <p>2. If you were going to start a company, what would it do?</p>
+      <p>3. Are you going to stay in the SF bay area to live?</p>
+      <p>4. What is the biggest thing you learned from your trip to Costa Rica? </p>
+      <p>5. I remember when you went to France, too, and I have always admired your independence. When you go to Far Away Places by yourself, are you afraid? What do you want to find when you're out there?</p>
+    parent: 2264
+  - id: 2269
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-02-23 00:25:46"
+    content: |
+      <p>OMG. 22 minus 10 is 12. I am 12 days late. I am so sorry.</p>
+    parent: 2264
+  - id: 2270
+    author: "babybixler"
+    author_url: "http://babybixler.livejournal.com/"
+    date: "2010-02-23 05:21:21"
+    content: |
+      <p>Oh also, I got The Subtle Knife at the library. I forgot how good it is!!! I also got Once Upon a Time In The North...have you read it? Is it any good?</p>
+    parent: 2266
+  - id: 2271
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-02-24 02:36:50"
+    content: |
+      <p>:D I think "late" doesn't apply when it comes to internet... anyway now it'll take me that long to think of good answers!</p>
+    parent: 2269
 ---
 
 5 Questions Meme from M! 

@@ -3,6 +3,21 @@ layout: post
 title: "I am an imaginary number1iI dont"
 date: 2003-03-22 22:28:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 595
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-03-23 00:26:17"
+    content: |
+      <p>I was sleeping?  Way sad.</p>
+  - id: 596
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-03-23 23:44:04"
+    content: |
+      <p>*sniff*</p>
+      <p>your roommate said you had an appointment early the next morning, and we decided to be nice kidnappers and not drag you out.</p>
+    parent: 595
 ---
 
 I am an imaginary number

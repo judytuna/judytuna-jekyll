@@ -3,6 +3,18 @@ layout: post
 title: "the joys of speaking on the phone with ryan part one"
 date: 2003-07-16 06:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 705
+    author: "flyingbear"
+    author_url: "http://flyingbear.livejournal.com/"
+    date: "2003-07-16 02:41:01"
+    content: |
+      <p>hahahahhahahahaha</p>
+      <p>this happened way back in high school:</p>
+      <p>friend: Hey George, we didn't do so hot in our performance today<br />
+      me: yeah, we sure didn't<br />
+      friend: we should practice more.<br />
+      me: cactus war??</p>
 ---
 
 ryan: the vice president of marketing is giving the keynote at macworld

@@ -3,6 +3,29 @@ layout: post
 title: "Want to see xrays of my left foot and ankle?"
 date: 2011-06-17 04:56:28 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2399
+    author: "maiki"
+    author_email: "maiki@interi.org"
+    author_url: "http://interi.org"
+    date: "2011-06-17 07:59:28"
+    content: |
+      <blockquote>
+      Words I don’t know! Thank you, internet! Thank you especially, wikipedia! Thepedia.
+      
+      I feel pretty sorry for myself. =(
+      </blockquote>
+      
+      I feel sorry for whichever bone of yours that is responsible for switching into manic mode! ^_^
+  - id: 2400
+    author: "judytuna"
+    author_email: "judytuna@gmail.com"
+    date: "2011-06-17 13:22:51"
+    content: |
+      I think that is all of my bones. hahahah
+      
+      I just updated the post with all of the xrays (5 more than the 1 that was up when you posted your comment!). I have a bad habit of simply publishing my posts instead of previewing them, and then wandering off into the void instead of finishing inserting photos into my post. It probably shows up in rss readers as the old unedited one? I should check...
+    parent: 2399
 ---
 
 I went to the Chinatown NEMS location today for my appointment to enroll in [Healthy San Francisco](http://www.healthysanfrancisco.org/). While I was there, I stopped by the medical records desk & the radiology clinic (conveniently (for me) located on the same floor!) to get a copy of my xrays from my appointment with them two months ago. I'm going to bring them to the specialist I have an appointment with at the [Arbor Free Clinic](http://arbor.stanford.edu/) on Father's day. No brunch for you! Only slow-healing ankles! 

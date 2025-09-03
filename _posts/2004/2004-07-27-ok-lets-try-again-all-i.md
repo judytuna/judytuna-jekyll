@@ -3,6 +3,41 @@ layout: post
 title: "Ok lets try again All I"
 date: 2004-07-27 05:36:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 968
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2004-07-26 18:47:54"
+    content: |
+      <p>Hahaha... the meat-dialogue hella made me crack up.  This one time my family went to Loon Wah (the place on Sunnyvale-Saratoga) and the guy my sister was dating at the time couldn't eat pork, so my dad was trying to ask if there was pork in the fried rice.  And she was like "yeah, but just a little, he can pick it out."  </p>
+  - id: 969
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2004-07-26 18:57:03"
+    content: |
+      <p>Hi Judy! I just wanted to thank you for your updates, because I'm enjoying reading about your experience (not in the taking pleasure in your misfortunes way, though).</p>
+  - id: 970
+    author: "joegarlic"
+    author_url: "http://joegarlic.livejournal.com/"
+    date: "2004-08-01 13:59:29"
+    content: |
+      <p>Welcome to the club. ^_^ Glad you're having a good time.</p>
+  - id: 971
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-19 14:57:02"
+    content: |
+      <p>hehe. i'm so... disorganized and scattered... i'm running around all day, and then i run into an internet cafe and type as fast as i can for several hours and my brain gets totally mired in it and i forget what reality is, and i keep complaining about the same things. but i guess it's ok, as long as i'm telling the truth about what i'm feeling, or whatever, right? hehe. i'm glad that you're enjoying them. thanks steve-o. =)</p>
+    parent: 969
+  - id: 972
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-19 14:59:41"
+    content: |
+      <p>wilson, a guy from lynbrook class of 2000 is the son or nephew or something of the people who own loon wah. hee hee. </p>
+      <p>at least she said "yeah, he can pick it out." once (in america!) we (my family plus ryan) went to a sichuan restaurant and asked for VEGETARIAN mapo tofu or whatever, and it came with meat cuz... yeah, he was supposed to pick it out and make it vegetarian himself. hehe</p>
+      <p>i have taken to telling people at restaurants that he is like a monk. at least that makes them laugh.</p>
+    parent: 968
 ---
 
 Ok, let's try again. All I want to do is record what I've done, roughly. It's all I can do to not spiral into being angry about everything, because I could type for several hours straight and not even be done with the tip of the iceberg.

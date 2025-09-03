@@ -3,6 +3,36 @@ layout: post
 title: "A 1 I really liked it"
 date: 2004-12-21 22:10:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1054
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2004-12-21 23:28:04"
+    content: |
+      <p>Buck up!</p>
+      <p>You're not a failure; you'll make level 50 yet!<br />
+      Mike's joining WoW, and he's got time-management skills to spare. Just ask him to lend you a few (or better yet, quest with you?).</p>
+      <p>By the way, <a href="http://www.mnzoo.com/guests/ZooNews/tigercam.asp" rel="nofollow">these</a> <a href="http://www.tigerhomes.org/cam/baby-white-tiger.cfm" rel="nofollow">are</a> <a href="http://www.skfriends.com/shepherd-bengal-tiger.htm" rel="nofollow">pretty cute</a> <a href="http://www.cnn.com/2004/TECH/science/01/07/argentina.tigers.ap/" rel="nofollow">too</a>. </p>
+  - id: 1055
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2004-12-22 02:22:37"
+    content: |
+      <p>wow, they come out so small!!  think of how big a panda is, and how small the baby comes out.  lots of growing to do.</p>
+  - id: 1056
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2004-12-22 07:29:52"
+    content: |
+      <p>Need shoes?? Come see me, I'll hook you up. Plus I already know all about arch supports and comfort!</p>
+  - id: 1057
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-12-22 10:06:10"
+    content: |
+      <p>Re: Buck up!</p>
+      <p>wow. those are pretty cute! wow =)</p>
+    parent: 1054
 ---
 
 A. 

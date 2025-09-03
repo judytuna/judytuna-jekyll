@@ -3,6 +3,29 @@ layout: post
 title: "A lot has happened in the"
 date: 2009-06-23 00:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2231
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2009-06-24 01:36:46"
+    content: |
+      <p>Yaaaay! Also, I do not remember the toe-sucking thing? </p>
+  - id: 2232
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2009-06-27 03:08:33"
+    content: |
+      <p>I realized much more slowly than Lydia that he was referencing "Footsteps in the Sand," a poem that I actually have engraved on a mirror. It was a gift from my godmother. Ahahah</p>
+      <p>I hope you guys are enjoying mooning about! In that stuff bees make! You know!</p>
+      <p>Also I love your CD, I really do. It is the sweetest thing. Yay Lisa &amp; Tom! /happydance</p>
+    parent: 2231
+  - id: 2233
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2009-06-27 05:15:35"
+    content: |
+      <p>Hurray! and Yay! </p>
+    parent: 2232
 ---
 
 A lot has happened in the last three weeks. 

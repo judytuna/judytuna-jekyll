@@ -3,6 +3,13 @@ layout: post
 title: "httpwwwecologycenterorgrecyclingindexhtml  I always used to"
 date: 2007-02-19 04:24:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1847
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-02-20 05:04:25"
+    content: |
+      <p>Berkeley is so so so so particular!  it made my head hurt when i first moved there and there were 5 different bins with very specific guidlines.   in anaheim, we threw everything in one can.</p>
 ---
 
 http://www.ecologycenter.org/recycling/index.html !

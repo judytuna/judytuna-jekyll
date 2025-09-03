@@ -4,6 +4,54 @@ title: "orange juice"
 date: 2008-02-10 00:51:00 +0000
 categories: ["Uncategorized"]
 tags: ["intestines", "mornings", "orange juice", "walking to work"]
+comments:
+  - id: 1992
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-02-10 05:55:05"
+    content: |
+      <p>Cheaper to buy a bunch of it from a market, or do you have to drink it within 5 minutes of leaving the orange?</p>
+  - id: 1993
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-02-10 05:59:20"
+    content: |
+      <p>i don't like to go into my kitchen. i don't like to generate dishes because it's hard to wash my own dishes when the sink is totally full. also i'm far too lazy to wash even my own dishes, much less everybody else's every week. i like to carry it with me while i walk and in the morning at work; if i made and drank orange juice at home i would have to... also get my own cups? i dunno. OH! do you mean a bunch of orange juice? you know, i have to say, i really like it when it's only left the orange 5 minutes ago. it's pretty delicious. i wonder if buying larger bottles of fresh orange juice (as opposed to tropicana etc) is any cheaper at all than just buying it every day, anyway. it probably isn't. </p>
+    parent: 1992
+  - id: 1994
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-02-10 06:11:15"
+    content: |
+      <p>yeah, i understand convenience.  It is why I keep saying I'm going to cook more cuz it's cheaper and probably healthier, but end up eating out.  all the time.</p>
+    parent: 1993
+  - id: 1995
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2008-02-10 17:43:57"
+    content: |
+      <p>I love People's Cafe! Never had their juice but I love that they have 4 different kinds of chocolate to make drinks from. I used to go there way more than Yali's, which is where everyone else in my program went. </p>
+      <p>Speaking of juice, juice isn't as healthy as people think because you get a very dense form of the calories and vitamins from the fruit without most of the fiber. I used to think that the pulp counts but most of the good stuff is thrown away. You should eat whole oranges! They are really cheap now and really good and probably better for you in the long term than buying so much juice! (Just my opinion) =)</p>
+  - id: 1996
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-02-11 03:06:15"
+    content: |
+      <p>omg, but then she has to peel them!</p>
+    parent: 1995
+  - id: 1997
+    author: "Anonymous"
+    date: "2008-02-11 06:32:10"
+    content: |
+      <p>I used to just get large orange juices from Peets.  I think they use Odwalla, but it's still reasonably cheap.</p>
+  - id: 1998
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2008-02-15 20:10:22"
+    content: |
+      <p>spicy tuna sandwich at people's cafe = win.</p>
+      <p>jamba juice = lose.  except possibly for the like two yogurt-based smoothies they have tucked away on the menu, pretty much the only things that don't have more sugar than coke.  reading their nutrition facts book makes me sad.</p>
+      <p>I think that, even after 7 years in berkeley, I've never been to juice appeal =/</p>
 ---
 
 I have started to drink orange juice every morning. It is expensive. 

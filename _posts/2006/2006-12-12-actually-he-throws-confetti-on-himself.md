@@ -4,6 +4,19 @@ title: "actually he throws confetti on himself"
 date: 2006-12-12 07:07:00 +0000
 categories: ["Uncategorized"]
 tags: ["goddamn it", "muse", "vienna teng", "youtube"]
+comments:
+  - id: 1795
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-12-12 07:21:23"
+    content: |
+      <p><a href="http://www.google.com/search?q=.89GBP+in+USD" rel="nofollow">Google is your friend for foreign currency conversion</a>, although the rule of thumb is 1 pound ~= 2 dollars (and 3 euros is 4 dollars)</p>
+  - id: 1796
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-12-13 00:51:16"
+    content: |
+      <p>Confetti! We're as genius as a famous band! Woo! </p>
 ---
 
 actually he throws confetti on himself on "sleep in peace/ when the day is done"

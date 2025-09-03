@@ -3,6 +3,34 @@ layout: post
 title: "if you want to know how"
 date: 2003-04-23 10:25:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 608
+    author: "hsiao"
+    author_url: "http://hsiao.livejournal.com/"
+    date: "2003-04-23 11:40:50"
+    content: |
+      <p>... but i had her on the sofa<br />
+      (it wasnt me)<br />
+      but i had her in the something<br />
+      (it wasnt me)<br />
+      i even had her in the shower<br />
+      (it wasnt me)<br />
+      she even caught me on camera</p>
+  - id: 609
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-04-23 18:47:49"
+    content: |
+      <p>on the counter. </p>
+      <p>hehehehehe.</p>
+    parent: 608
+  - id: 610
+    author: "hsiao"
+    author_url: "http://hsiao.livejournal.com/"
+    date: "2003-04-24 14:39:40"
+    content: |
+      <p>mmm... kinky</p>
+    parent: 609
 ---
 
 if you want to know how to fly high then go now to the place where all the concubines--

@@ -3,6 +3,13 @@ layout: post
 title: "Sins of a solar empire is"
 date: 2008-09-07 03:50:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2129
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-09-06 20:13:08"
+    content: |
+      <p>That sounds interesting....</p>
 ---
 
 Sins of a solar empire is DRM-free. http://forums.sinsofasolarempire.com/post.aspx?postid=303512

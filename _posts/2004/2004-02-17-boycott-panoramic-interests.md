@@ -3,6 +3,37 @@ layout: post
 title: "BOYCOTT PANORAMIC INTERESTS"
 date: 2004-02-17 23:22:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 858
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2004-02-18 04:54:48"
+    content: |
+      <p>that sucks.</p>
+      <p>melinda and jenny will be able to sympathize with you on this one.  they have mold, too.  even without PI as a landlord.</p>
+  - id: 859
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-02-18 07:21:25"
+    content: |
+      <p>Re: that sucks.</p>
+      <p>At least you don't have a $1200/month 1 bedroom apartment with asbestos ceilings, leaking windows, thin walls, and a filthy basement laundry room. I had Reddy Realty to thank for that, no offense to .</p>
+    parent: 858
+  - id: 860
+    author: "ill_reflectz"
+    author_url: "http://ill_reflectz.livejournal.com/"
+    date: "2004-02-18 11:05:57"
+    content: |
+      <p>Evan and I had some maintenance problems at the ArTech (no one would answer our maintenance requests after a month) but after Evan sent a lovely lil e-mail directly to Mr. Patrick Kennedy they cleaned up their act pretty quick...</p>
+      <p>Hopefully your apt gets better. Try mailing Mr. Kennedy maybe?</p>
+  - id: 861
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-02-21 06:49:33"
+    content: |
+      <p>Re: that sucks.</p>
+      <p>I guess housing sucks everywhere (lisa and steve had mold too). But PI buildings are <i>brand new</i>. And they're hailed by newspapers and the mayor (at least they were in 2001) as the bringers of a beautiful new Berkeley. Oh glorious innovative PI with brand-new fancy multi-use buildings, enabling small-businesses and residents to share space! So that's why I'm annoyed I guess.</p>
+    parent: 859
 ---
 
 THERE IS **STILL** A FUCKING **LEAK** IN MY FUCKING ROOM.

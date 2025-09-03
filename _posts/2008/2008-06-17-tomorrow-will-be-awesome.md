@@ -3,6 +3,13 @@ layout: post
 title: "tomorrow will be awesome!"
 date: 2008-06-17 01:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2106
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-06-17 02:36:35"
+    content: |
+      <p>hahahaha you guys are so funny. </p>
 ---
 
 *Scene: Berkeley Bowl. Checkout line. A girl runs up to her two friends to join them in conversation.*

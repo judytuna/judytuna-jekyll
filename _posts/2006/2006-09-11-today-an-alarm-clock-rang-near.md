@@ -3,6 +3,52 @@ layout: post
 title: "Today an alarm clock rang near"
 date: 2006-09-11 19:25:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1695
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-09-12 16:03:47"
+    content: |
+      <p>'smores!!!</p>
+      <p>We can work on resumes together.</p>
+      <p>And I'm not voting.  I enjoy thinking that it is 'cause damn!  But I'm not certain.</p>
+  - id: 1696
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2006-09-12 16:54:50"
+    content: |
+      <p>Loud noises</p>
+      <p>When I was in India this past winter, we stayed at a resort for a couple of days. Unfortunately there was some workers' festival going on then (across the small valley we were in) and they played UNBELIEVABLY LOUD music from 6am-11pm every day. Yes, literally from your first waking moment (clearly since it was the thing that woke you up) till your last fading breath at night. 17 hours a day, every day, non stop. Even with all the windows closed and a pillow over your head, it was loud and clear.</p>
+      <p>The other thing was that the music was also UNBELIEVABLY IRRITATING, probably the most heinous sound you could imagine. Luckily I captured 30 seconds of it on my camera. </p>
+      <p>For your listening pleasure: <a href="http://www.cs.berkeley.edu/~aj/lj/1-21-2006/images/pict3409.avi" rel="nofollow">ear murder</a>.</p>
+      <p>Anyway, point is, I sympathize ;)</p>
+  - id: 1697
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-09-12 19:12:41"
+    content: |
+      <p>The number one important thing about fashion is that you feel good in it.  If you feel awkward wearing something, you won't pull it off no matter how good it looks on the rack. With the purple boots if you want to wear them more, I would start with nice-fitting boot-cut jeans and a purple top.  For when you want to totally show them off, I would go with a more structured, heavier skirt that's fairly straight.  The top should have some purple in it, and the skirt should match the top.  Judy!  I can say this without being creepy:  you have an awsome body and clothes look good on you, you just need to find your "style", and find what you feel good in.</p>
+  - id: 1698
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-09-12 19:34:45"
+    content: |
+      <p>Re: Loud noises</p>
+      <p>Wow. And to top it off the music is so... frenetic. !!!!!!!</p>
+    parent: 1696
+  - id: 1699
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-09-12 19:50:07"
+    content: |
+      <p>Me too. That is why I created a poll! How come nobody is voting in it?!??!?!?!?!?!?!?</p>
+    parent: 1695
+  - id: 1700
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-09-14 00:18:10"
+    content: |
+      <p>I think you should totally go fabulous! It would rock. I have a pimped out coat you can borrow to start. </p>
 ---
 
 Today, an alarm clock rang near my room from 4pm to 8pm. Closing my windows helped to reduce the noise, but I didn't want to since I'd accidentally left a candle burning all night and it's kind of warm in here. (I haven't turned off my computer since I had to reinstall windows on it last Sunday. They tell me to buy a new motherboard since I've already replaced the ram and the hard drive, or to try different things, like telling windows not to wipe the page file on shutdown. Instead, I don't shut down my computer since it's at that point my registry keeps getting corrupted. I think.) At one point there were two intermittent noises; was the second a cricket or another errant alarm? What are the chances of two people in different apartments setting and forgetting about alarms at the same time? I tried for about fifteen minutes to record the sound because that's the only way to make you believe how annoying the noises were together, but my mic could not pick them up. 

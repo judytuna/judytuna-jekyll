@@ -3,6 +3,28 @@ layout: post
 title: "Things that I love: Spring 2010 edition"
 date: 2010-05-04 05:32:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2296
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2010-05-04 04:42:45"
+    content: |
+      <p>Do you love strawberry jam?</p>
+  - id: 2297
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-05-04 04:52:05"
+    content: |
+      <p>YES, YES I DO</p>
+    parent: 2296
+  - id: 2298
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-05-04 06:35:10"
+    content: |
+      <p>finished the post =)</p>
+      <p>&lt;3&lt;3 soooooo yummy!</p>
+    parent: 2296
 ---
 
 1. "Always" by Erasure. See last post. Hey, I had never heard of Erasure until now, but I just found out they do this song: (wow) http://www.youtube.com/watch?v=XH0SoZNdozs which I only know from some all-male a cappella group. I thought it was the same song as another song sung by a boy that goes really high forever but it has a girl's name I think, like Aileen or something (not come on aileen) AUUUGHH I can't think of it and it's really bugging me

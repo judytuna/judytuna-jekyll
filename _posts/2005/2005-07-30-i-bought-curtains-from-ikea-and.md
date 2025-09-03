@@ -4,6 +4,27 @@ title: "I bought curtains from Ikea and"
 date: 2005-07-30 08:49:00 +0000
 categories: ["Uncategorized"]
 tags: ["curtains", "warcraft"]
+comments:
+  - id: 1224
+    author: "hsiao"
+    author_url: "http://hsiao.livejournal.com/"
+    date: "2005-07-30 16:03:33"
+    content: |
+      <p>wow... </p>
+  - id: 1225
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-07-30 16:51:21"
+    content: |
+      <p>This is what I got out of your post:</p>
+      <p>"IKEA Shirley dwarven priests homophobia Chinese people ass dog hate crimes kitchen duty<br />
+      Thus, MMOs are the great equalizer."</p>
+  - id: 1226
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2005-07-30 23:39:26"
+    content: |
+      <p>a lot of people on irc and any other program are just stupid.  anonnymity lets people say lots of stuff, without fear of reprisal.  ignore them.</p>
 ---
 
 I bought [curtains](http://www.ikea.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10101&storeId=12&langId=-1&productId=52963) from Ikea and a tension-rod from Target (I'd acquired the rod a month and a half ago). The curtains are red in my mind, but in reality they are pink. I see them as red because they were displayed with yellow and blue ones of the same style, and red goes with yellow and blue, not pink. At any rate, there are whitish bits in the weave. It was when I felt a strong pull toward the red (pink) that I realized that I just really like weave that is mostly red with a bit of white. No, not striped like a Dr. Seuss scarf, but white interspersed sparsly among the red. I feel like "interspersed sparsly" feels funny because they are both words that come from some kind of root-word "sparse" or something so it feels redundant. Anyway, there is a red and white sweater-jacket I bought from Wet Seal when I went with Shirley when I was a freshman that I absolutely adored but everybody told me it was ugly so I stopped wearing it. And my teddy bear Pinky wears a red and white sweater-vest that nai nai (paternal grandmother) knitted becuase she had some yarn left over after knitting identical sweater-vests for me and my brother. My brother and me. They had pockets that my hands fit in, just so. [Edit: after looking them up on Ikea, I found that their official color is Light Red. So I am not crazy)

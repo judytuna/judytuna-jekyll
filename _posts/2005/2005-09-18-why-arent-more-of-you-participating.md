@@ -3,6 +3,34 @@ layout: post
 title: "Why arent more of you participating"
 date: 2005-09-18 14:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1273
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2005-09-18 17:46:16"
+    content: |
+      <p>because only his friends can respond to the poll.</p>
+  - id: 1274
+    author: "darcydodo"
+    author_url: "http://darcydodo.livejournal.com/"
+    date: "2005-09-18 18:39:41"
+    content: |
+      <p><i>Why aren't more of you participating in Ryan's pasta poll?</i></p>
+      <p>Because he doesn't allow non-friends to post!</p>
+      <p>Therefore, my answer is posted here:</p>
+      <p>Well, I like shells (<img src="http://www.foodsubs.com/Photos/conchiglie.jpg" align="middle" width="184" height="135">) for when I make tuna noodle casserole or macaroni and cheese, but I think that orecchiette (<img src="http://www.foodsubs.com/Photos/orecchiettepasta3.jpg" align="middle" width="242" height="171">) are awfully cute. (And then angel hair is probably the tastiest.)</p>
+  - id: 1275
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-09-18 22:28:06"
+    content: |
+      <p>I changed my LJ to allow non-friends comments.</p>
+  - id: 1276
+    author: "directdk"
+    author_url: "http://directdk.livejournal.com/"
+    date: "2005-09-19 07:39:22"
+    content: |
+      <p>I can drive you to ikea =)</p>
 ---
 
 Why aren't more of you participating in Ryan's [pasta poll](http://www.livejournal.com/users/rwclark/79674.html)?

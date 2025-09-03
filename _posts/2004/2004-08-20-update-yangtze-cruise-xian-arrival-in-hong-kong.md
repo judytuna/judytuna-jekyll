@@ -3,6 +3,65 @@ layout: post
 title: "update: yangtze cruise, xi'an, arrival in hong kong"
 date: 2004-08-20 06:50:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 974
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2004-08-19 15:40:53"
+    content: |
+      <p>Yay for a bunch of tea</p>
+      <p>Judy, I've loved reading your travel stories while you've been gone. Thanks for posting them!</p>
+  - id: 975
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2004-08-19 17:06:36"
+    content: |
+      <p>You know what's really weird?  Daniel's been in china for a week or so.  He's just on holiday.  But still.  He was in Beijing and Shanghai, though.</p>
+  - id: 976
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2004-08-19 20:42:03"
+    content: |
+      <p>sichuan</p>
+      <p>yes, you got it right.</p>
+  - id: 977
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2004-08-19 20:59:11"
+    content: |
+      <p>PS Chinese restaurants always seem to spell it "szechuan," right or wrong as that may be.</p>
+    parent: 974
+  - id: 978
+    author: "joegarlic"
+    author_url: "http://joegarlic.livejournal.com/"
+    date: "2004-08-23 02:14:15"
+    content: |
+      <p>Your stories are so much fun to read, Judy! Really captivating! It sounds like you are having a good time, overall. Sorry about all the shallow, sweeping generalization-based comments. Having been asked, "So, you must have a huge penis, right?" more times than I can count, I totally sympathize. Sure you don't wanna swing by Japan? ^_^</p>
+  - id: 979
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-23 09:26:02"
+    content: |
+      <p>Yay for a steve</p>
+      <p>=D</p>
+      <p>I got 1 kg of jasmine, .5 kg of rose, .5 kg chrysanthemum, .5 red tea, .5 oolong. and some "tieh guan ing," which falls under the same general category as oolong, but is not oolong. (the five categories are: green, red, black, oolong, and flower. i like flower tea. and what the chinese call "red" tea the americans call "black" tea, since in American "red" tea is a kind of african tea, or so R says.)</p>
+    parent: 974
+  - id: 980
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-23 09:26:43"
+    content: |
+      <p>Guess I'm glad I don't have a penis. =D</p>
+    parent: 978
+  - id: 981
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-23 09:41:28"
+    content: |
+      <p>is he having a good time? </p>
+      <p>how awesome would it have been if i'd gone to beijing/shanghai like some others in our group and run into him?</p>
+      <p>when can i run into you?</p>
+    parent: 975
 ---
 
 The following section is copy/pasted from an email I sent to my family. It says what I did on the three-day boat tour I took down the Yangtze River to see the 3 Gorges and the big dam and a bunch of temples. 

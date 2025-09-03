@@ -1,21 +1,81 @@
 ---
 layout: post
 title: "2 philip pullman-related links mentioned on"
-date: 2006-01-15 06:28:00 +0000
+date: 2006-01-15 14:28:00 +0000
 categories: ["Uncategorized"]
 tags: ["blather", "hdm", "links", "philip pullman", "the internet"]
+comments:
+  - id: 1415
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-01-16 04:23:10"
+    content: |
+      <p>It's "To a T"</p>
+      <p>Here's some background I found from The Phrase Finder (www.phrases.org.uk):</p>
+      <p>TO A T - "We use this expression very commonly in the sense of minute exactness, perfection; as, the coat fits to a T; the meat was done to a T. It is easy to dismiss the origin of the expression as, I am sorry to say, some of our leading dictionaries do, by attributing it to the draftsman's T-square, which is supposed to be an exact instrument, but the evidence indicates that the expression was in common English use before the T-square got its name. 'To a T' dates back to the seventeenth century in literary use and was undoubtedly common in everyday speech long before any writer dared to or thought to use it in print. But it is likely that the name of the instrument, 'T-square,' would have been in print shortly after its invention, yet the first mention is in the eighteenth century. The sense of the expression corresponds, however, with the older one, 'to a tittle,' which appeared almost a century earlier, and meant 'to a dot,' as in 'jot or tittle.' Beaumont used it in 1607, and it is probably that colloquial use long preceded his employment of the phrase." From "2107 Curious Word Origins, Sayings &amp; Expressions from White Elephants to a Song and Dance" by Charles Earle Funk (Galahad Books, New York, 1993).</p>
+      <p>There is another possible origin, based on the fact that the saying was in use in the 17th century, before the T square was invented. This one suggests that the T stands for "Title", a minute and precisely positioned pen stroke or printer's mark. A tiny brushstroke was all that distinguished the Hebrew letter "dalet" from "resh". "Title" was the word chosen by Wycliffe to translate references to this tiny difference in his version of the New Testament. Thus the mark was perfectly suited to its task.</p>
+  - id: 1416
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-01-16 04:25:40"
+    content: |
+      <p>P.S. The other two are <em>travesty</em> and <em>calamity</em>. But you knew that, right? I'm not sure I understand where you were going with those...</p>
+  - id: 1417
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2006-01-17 03:59:06"
+    content: |
+      <p>where else would judy go with them?</p>
+      <p>to the land of bad puns!</p>
+      <p>golden pearls are found in clams the naga drop, hence a clam-i-ty.<br />
+      if you have an accident traversing the grand canyon, it's a travers-ty.</p>
+    parent: 1416
+  - id: 1418
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-01-17 04:58:03"
+    content: |
+      <p>Re: where else would judy go with them?</p>
+      <p>Haha</p>
+    parent: 1417
+  - id: 1419
+    author: "wubbakraken"
+    author_url: "http://wubbakraken.livejournal.com/"
+    date: "2006-01-17 08:45:47"
+    content: |
+      <p>Toenotes</p>
+      <p>Toenotes (footnotes to footnotes) are perfectly acceptable.  I used them myself in my undergraduate thesis.  I don't know what footnotes to footnotes' footnotes should be called though.  Toenailnotes?  And beyond that might be pushing it.</p>
+  - id: 1420
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-01-20 03:40:31"
+    content: |
+      <p>Re: Toenotes</p>
+      <p>How did you order your toenotes? That is, did you insert and number them immediately following its footnote, or at the end of the footnote section? It seems intuitive to shove it in right after the footnote it references, but then you'll have the problem of skipping numbers of footnotes in the text itself. Hmm</p>
+    parent: 1419
+  - id: 1421
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-01-20 04:51:58"
+    content: |
+      <p>Re: where else would judy go with them?</p>
+      <p>Sadly, Ryan doesn't remember the 15 minutes we spent with , , , and both of 's brothers in a coffee shop on the second floor of a smallish book store in San Mateo, Halloween 2004, taking refuge from the cold and dark and saying things like "that flower is pretTEEEEEEE" and shouting "THEY LEEEEEFT" at... Incidentally, he was dressed up as an iPod. If you have never seen pictures, I think you ought to.</p>
+    parent: 1417
+  - id: 1422
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-01-21 06:34:29"
+    content: |
+      <p>Re: Toenotes</p>
+      <p>i would think they alternate numbers and letters for the levels of notes</p>
+    parent: 1420
 ---
 
 **Numero uno**: From the New Yorker:
-
 [FAR FROM NARNIA](http://www.newyorker.com/printables/fact/051226fa_fact)
-
 by LAURA MILLER
-
 Philip Pullman’s secular fantasy for children.
-
 Issue of 2005-12-26 and 2006-01-02
-
 Posted 2005-12-19
 
 Every year at the University of East Anglia, in Norwich, England, a guest is invited to speak on the subject of religion and education. Sometimes, a prominent bishop is asked to deliver a lecture, but, as a rule, the event isn’t exactly a big draw. This year, the auditorium was filled, and another room, with a video feed, had to be set up for those who couldn’t fit into the main hall. The speaker, Philip Pullman, is fervently admired for his sophisticated trilogy of children’s novels called, collectively, “His Dark Materials.” In Britain, his books have sold millions of copies, and his often contentious essays on subjects ranging from censorship to education—“We need to ensure that children are not forced to waste their time on barren rubbish” is a typical declaration—appear regularly in the London papers.
@@ -108,17 +168,16 @@ Pullman tipped the bacon into some split-pea soup that he had made earlier, and 
 
 A few minutes later, Pullman came bounding back into the kitchen, waving a letter. It had arrived at his door despite the fact that the correspondent didn’t know the street address. He was beaming. The envelope read “Philip Pullman, The Storyteller, Oxford.” “I couldn’t ask for anything better,” he said.
 
-—
+--
 
-I had to look up “avuncular” and “protean.” I was startled at how specifically appropriate the word “protean” is for the context in which it was used. Words do that sometimes–fit situations to a tee.1
+I had to look up "avuncular" and "protean." I was startled at how specifically appropriate the word "protean" is for the context in which it was used. Words do that sometimes--fit situations to a tee.1
 
 **Numero dos**:  http://alagaesia.com/news_interview.htm  is a conversation between three writers of fantasy (Philip Pullman, Tamora Pierce, and Christopher Paolini).2
 
-—————–
+-----------------
+1I tried a very small bit of google searching (I am not cool enough to use Google as a verb) and could not verify the correctness of this phrase. To a tee? To a T? To a tea? If you are crossing the Grand Canyon by tightrope and suffer a misstep is that a trave(r)sTEE? If you farm naga for 10 hours and get no golden pearls is it a c'lamiTEE? Hey look they LEEEEEFT
 
-1I tried a very small bit of google searching (I am not cool enough to use Google as a verb) and could not verify the correctness of this phrase. To a tee? To a T? To a tea? If you are crossing the Grand Canyon by tightrope and suffer a misstep is that a trave(r)sTEE? If you farm naga for 10 hours and get no golden pearls is it a c’lamiTEE? Hey look they LEEEEEFT
-
-2Do you like how I left item dos as a raw link with a short description, but I made the title of item uno into a link? How’s that for inconsistency?3
+2Do you like how I left item dos as a raw link with a short description, but I made the title of item uno into a link? How's that for inconsistency?3
 
 3I do not like this inconsistency. I also do not like the overall shabbiness of my livejournal. I vow to make fewer typos and to sound more coherent. To that end, I have employed footnotes as a blather-cutting-measure. Now blather is in a separate section, instead of embedded with the content4 of my post.
 

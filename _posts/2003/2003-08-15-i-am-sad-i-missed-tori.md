@@ -3,6 +3,20 @@ layout: post
 title: "i am sad i missed tori"
 date: 2003-08-15 02:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 715
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2003-08-14 22:55:07"
+    content: |
+      <p>Me!!! Mememememememe!!!<br />
+      <img src="http://www.animationshow.com/forums/style_images/1/headericon1.gif"></p>
+  - id: 716
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-08-15 17:19:56"
+    content: |
+      <p>i do!</p>
 ---
 
 i am sad. i missed tori amos and ben folds' "lottapianos" tour. 

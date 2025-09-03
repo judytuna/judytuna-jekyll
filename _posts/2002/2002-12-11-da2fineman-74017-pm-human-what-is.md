@@ -3,6 +3,20 @@ layout: post
 title: "Da2fInEmAn 74017 PM Human What is"
 date: 2002-12-11 03:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 551
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2002-12-10 20:21:32"
+    content: |
+      <p>did you go to mediterrene?  he likes that place a helluva lot, he's always trying to get people to go there... but i live right by it so i convince him to go elsewhere!</p>
+  - id: 552
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2002-12-12 05:12:42"
+    content: |
+      <p>no, we're going on the 19th... =)</p>
+    parent: 551
 ---
 
 Da2fInEmAn (7:40:17 PM): Human: What is your shoe size? 

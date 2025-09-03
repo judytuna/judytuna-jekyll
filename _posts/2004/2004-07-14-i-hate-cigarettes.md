@@ -3,6 +3,49 @@ layout: post
 title: "i hate cigarettes"
 date: 2004-07-14 07:15:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 957
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2004-07-13 17:12:58"
+    content: |
+      <p>ryan's with you?!  awesome!</p>
+  - id: 958
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2004-07-13 17:13:57"
+    content: |
+      <p>oh - when you smoke, it's (normally) filtered!  that's what makes it easier for us than second handers.  i mean, i've been smoke free for over a year, but i remember what it's like.  there's nothing like smoking and gaming at the same time...</p>
+  - id: 959
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2004-07-13 18:56:26"
+    content: |
+      <p>i have no idea who you are</p>
+      <p>but that's the greatest user pic ever.</p>
+    parent: 958
+  - id: 960
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2004-07-13 20:44:28"
+    content: |
+      <p>Hi Judy!  I saw your WC3 comment, I went to Blizzard the other day for the first time.  I was like going crazy, especially at the life size Diablo that was guarding the front door.  </p>
+      <p>And Miriam's icon is really rad.</p>
+  - id: 961
+    author: "poetic27license"
+    author_url: "http://poetic27license.livejournal.com/"
+    date: "2004-07-13 21:21:23"
+    content: |
+      <p>china was a huge shock for me. big time.<br />
+      you're teaching??</p>
+  - id: 962
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2004-07-14 07:15:15"
+    content: |
+      <p>Re: i have no idea who you are</p>
+      <p>i'm miriam, and thank you!  it's a japanese ad.</p>
+    parent: 959
 ---
 
 So I'm sitting in another internet cafe. The one we went to yesterday was this kind of upscale one where you had to order something and you were each in this booth. The one we're in now is on the third floor of some huge hotel close to ours with like 500 computers. This is where all the boys go to play counterstrike and smoke cigarettes and blow smoke that wafts into Judy's face, like the guy next to me. Goddammit. I can't breathe. At least it's way cheap. I saw one person playing war3. That made me happy. 

@@ -4,6 +4,13 @@ title: "kitten and crow"
 date: 2008-03-02 11:04:00 +0000
 categories: ["Uncategorized"]
 tags: ["elephants", "emotions", "interspecies relationships", "trauma"]
+comments:
+  - id: 2045
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-03-03 00:32:08"
+    content: |
+      <p>Maybe you need a special yellow dot to peck? </p>
 ---
 
 Look at this video.

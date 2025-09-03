@@ -3,6 +3,20 @@ layout: post
 title: "hellotoast is funny hellotoast 51624 AM"
 date: 2003-03-13 13:53:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 584
+    author: "caldivine510"
+    author_url: "http://caldivine510.livejournal.com/"
+    date: "2003-03-13 12:06:03"
+    content: |
+      <p>ohh! u kno kevin? He used to live on my floor during my fall sem my first year.  He's a cutie.</p>
+  - id: 585
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-03-18 13:57:03"
+    content: |
+      <p>yeah! =) he lived kinda near me in foothill freshman year. when i brought up my computer i forgot to unshare my C drive (cuz all our hard drives are shared on my network at home in san jose). the first week of school, i found a piece of paper from my printer that said "hi, just warning you that you're sharing your entire C drive on the network, which isn't a good idea" and i totally freaked out, because that's what you do when pieces of paper mysteriously come out of your printer like that. so i found the corresponding word doc saved to my desktop and looked at the properties of the doc and the author was ksimler, and i met him later through cs61a which everyone from lynbrook and mission was taking. it was funny.</p>
+    parent: 584
 ---
 
 hellotoast is funny. 

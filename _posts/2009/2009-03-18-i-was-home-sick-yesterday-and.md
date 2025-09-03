@@ -3,6 +3,21 @@ layout: post
 title: "I was home sick yesterday and"
 date: 2009-03-18 07:07:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2207
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2009-03-18 23:40:09"
+    content: |
+      <p>The weird points are where I, though an intelligent and independent woman, find myself oddly sympathizing with Sally Jupiter's attitude.  I personally have at least one major instance of irresistable interest in the manly horrible.  And it's hard to blame him for an interest that is strong within my own warped mind.</p>
+      <p>Ah well.</p>
+  - id: 2208
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2009-03-20 21:45:27"
+    content: |
+      <p>Maybe that's why so many people have responded to it so positively -- I can see anything I want in it, and we are drawn to deeply flawed, emotional, morally ambiguous characters, ones that know better and still fuck up (for we can say "yes, I have felt that way") or that don't know better (for we can say "ha-ha, I am better than that") or that, if unsure, at least pretend to be sure except in front of Big Blue Dongs (for we can say "yes, action is always better than weeping in indecision"). As they are simultaneously one-dimensional and easily identified as good or evil. Haha?</p>
+    parent: 2207
 ---
 
 I was home sick yesterday and today. What comes out of my nose when I bend over and blow salt water through it is dark and bloody. There is a rattle deep in my chest. Coughing makes me cry, which makes everything in my nose get inflamed, which makes everything worse.

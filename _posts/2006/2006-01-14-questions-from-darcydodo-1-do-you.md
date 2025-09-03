@@ -3,6 +3,18 @@ layout: post
 title: "Questions from darcydodo 1 Do you"
 date: 2006-01-14 23:47:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1414
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-01-15 06:46:18"
+    content: |
+      <p>My answers to these are kind of boring.</p>
+      <p>1. No.<br />
+      2. No. I used to try not to step on cracks when I was little.<br />
+      3. I don't know.<br />
+      4. Sprinkle salt on your phone if a telemarketer calls in order to ward off other telemarketers.<br />
+      5. No. But there was a weird episode of Rocketboom for the 13th.</p>
 ---
 
 Questions from [darcydodo](http://www.livejournal.com/users/darcydodo/324463.html).

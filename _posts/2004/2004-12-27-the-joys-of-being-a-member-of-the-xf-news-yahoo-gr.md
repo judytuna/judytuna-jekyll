@@ -3,6 +3,27 @@ layout: post
 title: "the joys of being a member of the xf-news yahoo group"
 date: 2004-12-27 09:11:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1059
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2004-12-27 17:27:32"
+    content: |
+      <p>if only ...</p>
+      <p>... it had been invented by duchovny.</p>
+  - id: 1060
+    author: "xtopolop"
+    author_url: "http://xtopolop.livejournal.com/"
+    date: "2005-01-14 00:12:03"
+    content: |
+      <p>hey judy, don't know if you remember me but i was at derek's birthday when you showed us WoW.  i was just wondering what server you were on.  i have a 38 pally on spinebreaker (pvp).</p>
+  - id: 1061
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-02-19 05:06:51"
+    content: |
+      <p>hey evan. hehe. my mains are alliance on lightbringer (pve)--41 druid, 40 warlock, 27 warrior. i have a baby pally on dragonmaw that i rarely play, heh. tell me if you ever feel like starting a horde character--there are some people in my lord of the rings decal who started horde characters recently, so i might jump in with them, too, at some point, since i've never played any horde character past level 10. i forgot what server they're on, though.</p>
+    parent: 1060
 ---
 
 New Gadget Prevents Laptop-Induced Infertility in Men; X-Files Actor 

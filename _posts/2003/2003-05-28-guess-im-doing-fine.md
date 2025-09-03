@@ -3,6 +3,20 @@ layout: post
 title: "guess i'm doing fine."
 date: 2003-05-28 10:24:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 654
+    author: "rawkvixen"
+    author_url: "http://rawkvixen.livejournal.com/"
+    date: "2003-05-30 13:22:14"
+    content: |
+      <p><i>Wow</i>, Connie's living with you???  That sounds like so much fun!!!</p>
+  - id: 655
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-06-01 10:53:35"
+    content: |
+      <p>not connie park! connie chen! hahahaha =) she went to my high school. living with connie park <i>would</i> be fun though. =)</p>
+    parent: 654
 ---
 
 today, connie moved in. she let me eat some of her sushi, watermelon, and chocolate cake. we watched the food network and got hungry. then i went to starbucks with hsiao, but since it was closed we actually went to ben and jerry's. and since it was ben and jerry's we ate ice cream. and since we're like that we didn't actually do any work. hehe. yay gab sessions with hsiao. =)

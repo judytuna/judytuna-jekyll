@@ -4,6 +4,52 @@ title: "i want a vocoder and a"
 date: 2006-11-06 16:28:00 +0000
 categories: ["Uncategorized"]
 tags: ["cal", "football", "imogen heap", "lotr"]
+comments:
+  - id: 1766
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-11-06 19:19:35"
+    content: |
+      <p>I don't know what foot pedal is used, but you can use a laptop with <a href="http://www.ableton.com/_common/downloads/pages2/artist_kid_beyond/kid-beyond.mov" rel="nofollow">Ableton Live</a> software with MIDI Translator to do the live-looping thing (there's some slightly technical info about halfway into that vid).</p>
+      <p>For card stunts, students each have a sheet of paper custom printed for the individual seat, that says things like:<br />
+      1. Green<br />
+      2. Blue<br />
+      3. Red<br />
+      ...and so on. Then the mic man(/woman) calls out the numbers.</p>
+      <p>Sneak into the student section and do the card stunts one game. It's fun!</p>
+      <p>Live 105 is playing Starlight. Live 105 has an online stream, which I believe can be listened to anywhere in the U.S....</p>
+  - id: 1767
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2006-11-06 22:37:05"
+    content: |
+      <p>Is that picture Imogen Heap?  Cause that piano/electronics box is way cool.</p>
+  - id: 1768
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-11-06 22:47:14"
+    content: |
+      <p>yeah!</p>
+      <p>for a show on halloween she flew in on strings and a broom whilst controlling samples via a mini midi keyboard, too. she's quite the awesome.</p>
+    parent: 1767
+  - id: 1769
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2006-11-07 23:31:21"
+    content: |
+      <p>If you liked the appendices, you should check out the Silmarillion (sp?).<br />
+      Reams and <i>reams</i> of fantasy history all gussied up as old english/saxon lit.</p>
+  - id: 1770
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-11-08 00:01:37"
+    content: |
+      <p>yeah, that's what elanor tells me. i think i will borrow them from her.</p>
+      <p>hey, how many Jewels did Feanor fill with the radiance of Telperion and Laurelin?<br />
+      a Silmarillion<br />
+      (really 3)<br />
+      in fact i'm going to tell  <i>right now</i></p>
+    parent: 1769
 ---
 
 i want a vocoder, and a whatever-it-is that enables live-looping (laptop connected to footpedals?), and a sparkly box full of electronic equipment shaped like a piano

@@ -4,6 +4,22 @@ title: "wembley 1 (edited to add 2)"
 date: 2007-06-17 04:16:00 +0000
 categories: ["Uncategorized"]
 tags: ["muse", "wembley"]
+comments:
+  - id: 1907
+    author: "shapka_shapka"
+    author_url: "http://shapka_shapka.livejournal.com/"
+    date: "2007-06-17 18:20:04"
+    content: |
+      <p>hahahaa<br />
+      those weird muse dreams</p>
+      <p>i once rode a bus to oakland with dom</p>
+  - id: 1908
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-06-18 20:51:49"
+    content: |
+      <p>hahaha. what color trousers was he wearing?</p>
+    parent: 1907
 ---
 
 http://www.muselive.com/forums.php?m=posts&p=764927#764927

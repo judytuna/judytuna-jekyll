@@ -3,6 +3,13 @@ layout: post
 title: "ive come down with something im"
 date: 2006-09-19 09:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1708
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2006-09-19 17:22:46"
+    content: |
+      <p>Not <i>Vienna Tengk - Harbor</i>?</p>
 ---
 
 i've

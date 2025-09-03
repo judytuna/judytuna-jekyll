@@ -3,6 +3,34 @@ layout: post
 title: "wherein derek is FUCKING LEET"
 date: 2008-08-14 01:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2116
+    author: "phoenix8"
+    author_url: "http://phoenix8.livejournal.com/"
+    date: "2008-08-14 02:36:47"
+    content: |
+      <p>aw.  i haven't talked to derek in forever.  i'm glad he's still performing and i loved his video.</p>
+      <p>are you still singing with him?</p>
+  - id: 2117
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-08-17 02:39:48"
+    content: |
+      <p>hi connie! =D</p>
+      <p>i'm not singing with him, no. i think he has new material in the works, though, and as far as i can tell he's still performing as magnetic north and solo-ly. i actually haven't spoken with him much either, or seen him for months... i miss that kid; he was fun to live with.</p>
+      <p>so... where are you? how's life? i feel like we have this bit of livejournal commenting a few times a year, haha. anything to not lose contact! i like the picture of us on miriam's facebook. haha.</p>
+      <p>i'm still in berkeley.</p>
+    parent: 2116
+  - id: 2118
+    author: "phoenix8"
+    author_url: "http://phoenix8.livejournal.com/"
+    date: "2008-08-18 04:22:39"
+    content: |
+      <p>aw.  well, if you ever talk to derek, tell him i say 'hi'.</p>
+      <p>i'm in socal and i'm doing well.  what are you up to in berkeley?  do you still live on college/dwight or wherever the apt was?</p>
+      <p>i don't have a facebook :o(  which picture is it?  i wanna seeeeeeeee!</p>
+      <p>keeping in touch is difficult.  i only talk to a few people from berkeley regularly.  i am trying to be better though.  what's your email address?</p>
+    parent: 2117
 ---
 
 RENT is winding down, so they had a competition for a fan video tribute. Derek won. Yes. My old roommate. I used to live with this guy. FUCKING LEET I'M TELLING YOU. He won a chance to meet the cast/RENT team and maybe go to the final Broadway performance, but he already has a gig on that night. But still. Congratulate him and, in his own words, his newfound "lowered street credibility.  Hah!  Who cares about that anyways =P."

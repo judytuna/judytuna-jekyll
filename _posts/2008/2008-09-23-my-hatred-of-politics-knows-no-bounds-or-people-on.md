@@ -3,6 +3,20 @@ layout: post
 title: "my hatred of politics knows no bounds, or people on the internet are awful"
 date: 2008-09-23 04:10:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2142
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-09-23 07:19:33"
+    content: |
+      <p>I often wonder what it would be like to live in a "swing state" with a whole bunch of undecideds.  Undecideds, really?  I don't understand that.</p>
+  - id: 2143
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-09-24 16:30:19"
+    content: |
+      <p>Rule #1 of the internet: Never read the comments! :) (unless it's LJ, natch!)</p>
+      <p>My dad gave me some perspective on "undecided" voters (or as Tom calls them low-information voters). Basically my dad is sort of a Populist and then sort of a Libertarian... so he thinks it's bad that big corporations rip off the little guy, unless the little guy is a *gasp* illegal immigrant (or actually anyone who isn't white... but he won't admit that he's that racist). So, he agrees with McCain on immigration and Obama on healthcare and can't decide who to vote for. So I get why he's undecided (but I still think he's WRONG! haha).  </p>
 ---
 
 Stardock has a game called "The Political Machine." There's a free version focusing on McCain and Obama.

@@ -3,6 +3,32 @@ layout: post
 title: "i love movies"
 date: 2002-06-08 09:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 521
+    author: "Anonymous"
+    date: "2002-06-08 23:19:07"
+    content: |
+      <p>16!</p>
+      <p>Well apparently I'm 16--only four years too old. Sigh. Lala. Ice cream.</p>
+      <p>Ryan</p>
+  - id: 522
+    author: "Anonymous"
+    date: "2002-06-10 00:59:04"
+    content: |
+      <p>Re: 16!</p>
+      <p>Ryan-</p>
+    parent: 521
+  - id: 523
+    author: "Anonymous"
+    date: "2002-06-10 01:01:33"
+    content: |
+      <p>Re: 16!</p>
+      <p>Ryan-<br />
+          4 years too old for what?<br />
+      Judy-<br />
+          It says that I act 21, which is great, because I am 21. If anyone ever accuses me of not acting my age, I now have proof that I do.<br />
+          -jw</p>
+    parent: 521
 ---
 
 i will start off this post with a quiz result. 

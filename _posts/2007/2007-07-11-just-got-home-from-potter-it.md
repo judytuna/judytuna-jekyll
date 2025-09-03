@@ -3,6 +3,13 @@ layout: post
 title: "just got home from potter it"
 date: 2007-07-11 11:18:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1929
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2007-07-12 21:20:12"
+    content: |
+      <p>So what's the verdict? Did you like it? Is it worth seeing in the theaters?</p>
 ---
 
 just got home from potter. it was fun.

@@ -3,6 +3,13 @@ layout: post
 title: "My sister created a The Defenestrators"
 date: 2006-04-10 03:02:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1531
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-04-10 20:18:17"
+    content: |
+      <p>yeah, the "no going back" part is a bit unsettling.  Once you make the transfer, you can't go back or send yourself stuff from one character to another. If we went went we'd be like, y'know, the orcs.</p>
 ---
 
 My sister created a "The Defenestrators + Knights of the VegeTable" forum. http://organic.thephoenixfeather.net/forums/index.php

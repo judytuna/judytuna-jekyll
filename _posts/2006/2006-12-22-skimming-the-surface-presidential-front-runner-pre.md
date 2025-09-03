@@ -4,6 +4,15 @@ title: "skimming the surface: presidential front-runner preferences"
 date: 2006-12-22 00:35:00 +0000
 categories: ["Uncategorized"]
 tags: ["politics"]
+comments:
+  - id: 1820
+    author: "wubbakraken"
+    author_url: "http://wubbakraken.livejournal.com/"
+    date: "2006-12-30 21:14:04"
+    content: |
+      <p>rigged!</p>
+      <p>Is anyone able to NOT get Barack Obama?</p>
+      <p>Angela &amp; I both got him as a 100% match...but we answered differently.  Hmm...</p>
 ---
 
 Not in-depth, obviously, but fun nevertheless: http://selectsmart.com/plus/select.php?url=08frontrunners

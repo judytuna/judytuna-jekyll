@@ -3,6 +3,62 @@ layout: post
 title: "hooray for livejournal"
 date: 2008-02-22 11:20:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2009
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-02-22 16:33:52"
+    content: |
+      <p>For 1, it's a reference to an Eddie Izzard sketch.  The relevant quote is "I like my coffee like I like my women - covered in bees!"</p>
+  - id: 2010
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-02-23 21:34:32"
+    content: |
+      <p>does that mean you are feelin' good?</p>
+  - id: 2011
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-02-23 21:43:12"
+    content: |
+      <p>no. i left that lyric out on purpose. OMG /WRISTS</p>
+    parent: 2010
+  - id: 2012
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-02-23 21:43:39"
+    content: |
+      <p>My coffee is full of bees? He says something with a bunch of syllables!</p>
+    parent: 2009
+  - id: 2013
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-02-23 22:39:24"
+    content: |
+      <p>No, the usual joke is the last bit: "It's covered in bees!"</p>
+    parent: 2012
+  - id: 2014
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-02-23 22:42:42"
+    content: |
+      <p>But but... what is that which is covered in bees??!! Or does he simply say "it's covered in bees" ??!!</p>
+    parent: 2013
+  - id: 2015
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-02-23 22:47:19"
+    content: |
+      <p>Anyway, what he actually says is "My epiglottis is full of bees."  Meaning, I think, his throat.</p>
+    parent: 2012
+  - id: 2016
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-02-23 23:25:27"
+    content: |
+      <p>ahhhhhhhhhhhhhhhhhhhhhhhhhhhh</p>
+      <p>elanor suggested chassis. i can't understand him D:</p>
+    parent: 2015
 ---
 
 Sometimes after I don't sit by myself in my room and read all of your livejournals for a few days, all the links seem to catch up to me and I feel I must put them all in one place.

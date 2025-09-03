@@ -3,6 +3,52 @@ layout: post
 title: "ChuZhu1 moms surname is the 16th"
 date: 2004-08-25 19:54:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 992
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2004-08-25 19:33:52"
+    content: |
+      <p>OK, I don't know too much about Chinese, but why do some of the chinese words have numbers after them?  Like "duan4" - what's the 4 for? </p>
+  - id: 993
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-25 19:54:22"
+    content: |
+      <p>In Chinese there are four tones. 1 is a straight tone, high in pitch (straight line). 2 is a "rising" tone that goes from low to high (diagonal line, sloping upwards to the right). 3 is a low tone that kind of goes middle-low-middle in pitch (looks like a checkmark). and 4 is a "falling" tone that goes from high to low (diagonal line, sloping downwards to the right). (Ok, and then you have the "dot" thing, which is kind of another tone, and then you kind of have "no tone" which is another thing, but I won't get into those cuz I don't even really know that much about them.)</p>
+      <p>In real pinyin, the tones are denoted by "accents" on top of the vowels. But I am too lazy to go to the character map and find the right accent, so putting the number of the tone after the pinyin is my ghetto way of telling what the tones are. (Cuz the tone of the word is a crucial part of the word's pronounciation. If I showed you four characters, and they were pronounced Ma1 and Ma2 and Ma3 and Ma4, they would all be very very different words with very different meanings; not only that, there are many different characters that are pronounced Ma1 and such... yeah). </p>
+      <p>Though in documents and passports and stuff, they don't put the accents in, just the pinyin romanization. </p>
+      <p>My last name in English is Tuan. That's because I guess my paternal grandfather used the Wade-Giles romanization (before pinyin became the standard... and anyway in Taiwan they don't all use pinyin, some of them still use W-G and some of them make up their own bastardized romanization for stuff). But it should be Duan (well, if pinyin is how things "should" be romanized, and that depends on who you ask). And Duan is what it sounds like in Chinese, anyway. Just like how "Beijing" (pinyin) sounds more like how it's actually said in Chinese than "Peking" (W-G) does.</p>
+    parent: 992
+  - id: 994
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2004-08-25 19:55:09"
+    content: |
+      <p>PinYin is currently the fashion du jour for translating Chinese Words into English, though the Wade-Giles method is still in use amoing some academics (especially Brits).  For place names, however, there is a different form called simply the Postal Form in place of PinYin rules.</p>
+  - id: 995
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2004-08-25 19:55:59"
+    content: |
+      <p>Ha ha you just said what I said</p>
+  - id: 996
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-25 20:02:17"
+    content: |
+      <p>hee hee =)</p>
+      <p>the postal form??????? i don't know about that one</p>
+    parent: 995
+  - id: 997
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2004-08-25 21:51:21"
+    content: |
+      <p>Just for place names and USUALLY (but not always) matches the PinYin.</p>
+      <p>I HATED going between w-g and PinYin. </p>
+      <p>Like, what the fuck?  If it's pronounced "Dung" write that way, not "Tung"!</p>
+    parent: 996
 ---
 
 [Chu/Zhu1](http://en.wiktionary.org/wiki/%E6%9C%B1) (mom's surname) is the 16th most common Chinese surname, and [Tuan/Duan4](http://en.wiktionary.org/wiki/%E6%AE%B5) (dad's) is the 118th most common Chinese surname, according to http://zhongwen.com/xingshi.htm which I found from http://en.wikipedia.org/wiki/Chinese_family_name

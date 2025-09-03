@@ -3,6 +3,26 @@ layout: post
 title: "i did an essay yesterday i"
 date: 2003-05-24 00:22:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 648
+    author: "poetic27license"
+    author_url: "http://poetic27license.livejournal.com/"
+    date: "2003-05-23 17:00:49"
+    content: |
+      <p>haha!</p>
+  - id: 649
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2003-05-23 22:42:23"
+    content: |
+      <p>Hey, was this 117??</p>
+  - id: 650
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-24 12:22:03"
+    content: |
+      <p>no, 131! and i just had the final for that class at 8am! i got my paper back too! I GOT AN A ON THE PAPER! AN A! she said it was fun for her to read, too! =)</p>
+    parent: 649
 ---
 
 i did an essay yesterday. i ended up with 12 full pages. i did the last 10 pages in about 8 hours. it was also--you guessed it!--two weeks late.

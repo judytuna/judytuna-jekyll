@@ -3,6 +3,45 @@ layout: post
 title: "my friends respond when i call for opinions:"
 date: 2010-02-09 01:53:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2253
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2010-02-09 06:05:14"
+    content: |
+      <p>Well, if you're going out for coffee you MUST find a place that serves cafe cubano (REAL cafe cubano; a lot of places won't do it properly) because it'll make you a coffee lover.</p>
+      <p>Otherwise, in terms of ground coffee, I gotta endorse Peet's.</p>
+      <p>I dunno about that aeropress thing...a regular French press is better :-P  But Judy likes gadgets!</p>
+  - id: 2254
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2010-02-09 06:05:45"
+    content: |
+      <p>PS - I KNOW CUZ I LIVE IN SEATTLE NOW.</p>
+      <p>No but seriously.  I have been drinking coffee since I was 10.</p>
+  - id: 2255
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2010-02-09 15:49:16"
+    content: |
+      <p>Cubano: tasty.  Too sweet for me usually (no fanks Turkish, I'm swee' enouf alrea'y), but I can see the appeal.  I know a few places in south bay that make a good one, but I haven't encountered one in SF yet.  Probably because if I'm in SF I just get Blue Bottle.</p>
+    parent: 2253
+  - id: 2256
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-02-10 10:46:21"
+    content: |
+      <p>look at you and your coffee cup!!!!</p>
+      <p>let's go to some in the south bay sometime.</p>
+      <p>ferny mentions Barefoot Coffee Roasters on stevens creek; have you been there?</p>
+    parent: 2255
+  - id: 2257
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2010-02-10 15:10:31"
+    content: |
+      <p>Yes.  In fact, Barefoot makes the best Cubano that I've had.</p>
+    parent: 2256
 ---
 
 me: novice coffee drinker; please dispense advice

@@ -3,6 +3,12 @@ layout: post
 title: "i am an uppity fish"
 date: 2002-12-31 09:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 555
+    author: "Anonymous"
+    date: "2003-01-11 23:28:41"
+    content: |
+      <p>you're a wonderful fish</p>
 ---
 
 books: finished first two of the "his dark materials" trilogy by philip pullman. will embark on third soon. philip pullman also wrote puss in boots. mrs. jeffries liked that book. she showed it to us in class. 

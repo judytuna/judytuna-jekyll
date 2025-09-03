@@ -3,6 +3,14 @@ layout: post
 title: "The 5th line of my 23rd"
 date: 2004-04-30 12:10:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 929
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2004-04-30 22:51:47"
+    content: |
+      <p>Ok, well, I'm really sorry about the scary noise. That suxorz. But the concert was the opposite of suxoring. In other words, PAWSOME! Basically, any event that unites monkey and squirrel is a 100% success in my book. And those pineapples, those freaking pineapples. I could..not..tear my eyes away. And Judy, I was very envious of your wings. You made them quite cleverly. I was thinking to myself, "If I had made those wings, they would have ripped by now." But yours NEVER RIPPED. And the concert NEVER DIDN'T ROCK. (ok, poor try at paralellism). The first DeCadence concert ever to have such elaborate scenery. Oh yeah and also the,uh, songs were good. Angel without wings is still one of my favorites. Certain arrangements just work, and you forget that it's acapella, you forget about the backs going "doot deet", and it's just lovely music. Likewise the Jewel song. Anyway. I guess I could write my own durn LJ post about it if I liked it so much. </p>
+      <p>Squir'L!   </p>
 ---
 
 The 5th line of my 23rd livejournal entry is as follows:

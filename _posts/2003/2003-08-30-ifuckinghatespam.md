@@ -3,6 +3,22 @@ layout: post
 title: "i....fucking....hate....spam"
 date: 2003-08-30 00:03:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 718
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2003-08-30 00:54:05"
+    content: |
+      <p>wow, I've never seen you use so many swear words in such a short space before.  Judy's pissed, everyone!  No really?!? yes, really.</p>
+  - id: 719
+    author: "lordkrishna"
+    author_url: "http://lordkrishna.livejournal.com/"
+    date: "2003-08-30 02:53:33"
+    content: |
+      <p>That's exactly what I was thinking  -- I've neer heard Judy swear so much!! I totally thought it was Angry 1337 H@X0RZ, but no! it was our own sweetness, Judy!</p>
+      <p>Alas, that the spam demons should so vex our friend!<br />
+      -K</p>
+    parent: 718
 ---
 
 User-Agent: Mozilla/5.001 (windows; U; NT4.0; en-us) Gecko/25250101 

@@ -3,6 +3,53 @@ layout: post
 title: "hailing from guangzhou."
 date: 2004-07-13 06:31:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 951
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2004-07-12 16:32:52"
+    content: |
+      <p>Thanks for updating! It is fun to read what you are doing.</p>
+  - id: 952
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2004-07-12 16:37:19"
+    content: |
+      <p>hey judy!</p>
+      <p>sounds fun/complicated.. hope you're not frying too much there! have fun!</p>
+      <p>luv ~ sues</p>
+  - id: 953
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2004-07-12 17:41:14"
+    content: |
+      <p>oooh, i'm jealous.  what does "mer" mean?  as in xiao mer?  have a great time and i hope you find more computers to update on!</p>
+  - id: 954
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-07-13 15:16:29"
+    content: |
+      <p>"mer!" = "peekaboo!"</p>
+      <p>There might be other meanings to it too. I dunno why they call him that. They call him "hong-hong" cuz his name is "miao jing hong" ... =)</p>
+      <p>And thanks!</p>
+    parent: 953
+  - id: 955
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-07-13 15:21:09"
+    content: |
+      <p>thanks sues =)</p>
+      <p>not frying, but we're getting completely drenched by the rain!! and eaten alive by bugs! or maybe it's just me... ugh i have so many bites. and the rain--one second it's fine, and then all of a sudden the world gets completely dark, almost like it's night, and then you go from being normal and dry to feeling like you're swimming cuz the rain's so heavy. </p>
+      <p>be well!</p>
+    parent: 952
+  - id: 956
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-07-13 15:21:32"
+    content: |
+      <p>unsubstantive comment</p>
+      <p>=D</p>
+    parent: 951
 ---
 
 So guess what. I'm in Guangzhou, in Guangdong, in the south of China. 

@@ -3,6 +3,28 @@ layout: post
 title: "1 ROFLROFLROFLROFL httpantisporecomHAHAHAHAHAHAHAHAHHAAAAAAAAAAAAAAAAHAHAHHAHAHAH2 There are a"
 date: 2008-09-12 09:04:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2131
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-09-12 16:41:12"
+    content: |
+      <p>It resembles tree juice, but it still tastes like deer! </p>
+      <p>Tom made a superhero joke like that in the Squelch, about the superhero "Can't Stand Man" (who has to always sit down) and his arch enemy, "Can't Stand Can't Stand Man Man."</p>
+  - id: 2132
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-09-12 19:13:06"
+    content: |
+      <p>OMG! It was Tom all along!!!</p>
+    parent: 2131
+  - id: 2133
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2008-09-13 02:40:36"
+    content: |
+      <p>One of the three Squelch jokes I remember.</p>
+    parent: 2131
 ---
 
 1. ROFLROFLROFLROFL ![Image](/DOCUME~1/EUDEMO~1/LOCALS~1/Temp/moz-screenshot.jpg)http://antispore.com/

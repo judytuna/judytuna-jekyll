@@ -3,6 +3,26 @@ layout: post
 title: "i hate auditions, no matter how small"
 date: 2003-10-14 03:02:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 753
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2003-10-13 22:04:24"
+    content: |
+      <p>You have a lovely voice Judy, it's a joy to hear :)</p>
+  - id: 754
+    author: "poetic27license"
+    author_url: "http://poetic27license.livejournal.com/"
+    date: "2003-10-14 04:29:30"
+    content: |
+      <p>i love your voz, sweetie.</p>
+      <p>was jenessa being a poo?</p>
+  - id: 755
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2003-10-14 17:41:26"
+    content: |
+      <p>i think it's funny that I know what the second "la la" is.  congrats on foolish games!</p>
 ---
 
 last week when auditioning solos for mendelssohn's laudate pueri i auditioned for both the alto and the 2nd sop parts. we all sang two parts twice each, once with and once without piano. so i did alto first and after completely botching the second part with the piano, prof flight said "ok, ok, i have a good idea" and didn't have my group do it again. WAAAH, i suck that much? he said he'd email the people who got it soon, or something. i didn't get an email.

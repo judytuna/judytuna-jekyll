@@ -3,6 +3,27 @@ layout: post
 title: "I set up a new Spot"
 date: 2010-09-03 03:38:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2350
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2010-09-03 15:58:44"
+    content: |
+      <p>Judy, Fritz's mouse is a possum!</p>
+  - id: 2351
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-09-21 19:05:55"
+    content: |
+      <p>oops. i'll fix it.</p>
+    parent: 2350
+  - id: 2352
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2010-09-21 20:26:10"
+    content: |
+      <p>I neglected to mention that I. Love. This. </p>
+    parent: 2351
 ---
 
 I set up a new Spot blog: http://www.spottheoctopus.com/blog 

@@ -3,6 +3,81 @@ layout: post
 title: "long weekend"
 date: 2005-07-05 23:32:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1178
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-07-06 08:42:19"
+    content: |
+      <p>Please let me know if you go hiking again?</p>
+      <p>Also, I thought you might like this coke <a href="http://www.tokyo-genki.com/wp-content/images/coke_wow_commercial.mov" rel="nofollow">tie-in with WoW</a>.</p>
+  - id: 1179
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-07-06 20:30:27"
+    content: |
+      <p>Ok. Do you go backpacking too? Have a pack and sleeping bag and pad? Also my tent is only 2-person, and the one that Ryan has is actually his parents' and is at his home... so you'd have to have a tent too? hehe. Besides that, let's go dayhiking someday!</p>
+      <p>I love that tie-in. I don't really understand it: "sex sells!" "no it doesn't! we're going to turn into sexy world of warcraft avatars that wear tight clothing now!" ... but I still love it. Thanks =)</p>
+    parent: 1178
+  - id: 1180
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-07-06 21:40:21"
+    content: |
+      <p>A real backpacking pack? Mine's still at home, but I should have a 2-person tent in another week or so. I have a pad and sleeping bag.</p>
+      <p>I go day hiking on a regular basis, I'll let you know the next time I go.</p>
+      <p>Don't forget, the director is mostly naked afterwards... and it's not sexy at all. Clearly, tight elvish clothing solves both problems in one fell stroke.</p>
+    parent: 1179
+  - id: 1181
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2005-07-07 09:34:55"
+    content: |
+      <p>You know what's more sad than leaving highly anticipated veggie sticks at home?  leaving them in the car, which is waht i did.<br />
+      day hike! day hike!  can we go searching for banana slugs?</p>
+  - id: 1182
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-07-07 16:27:10"
+    content: |
+      <p>Foot Firmly in Mouth.</p>
+      <p>So, I've been told I'd probably be a third wheel on a camping trip with you guys.<br />
+      To which I replied, "OOPS!"</p>
+      <p>I thought it was a group thing, probably because of your 4th pics.<br />
+      My bad.</p>
+    parent: 1179
+  - id: 1183
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-07-07 19:24:09"
+    content: |
+      <p>Re: Foot Firmly in Mouth.</p>
+      <p>Hahahahaha!! I would not mind. But it's true; sadly, we haven't gone backpacking with Other People. Hahaha. The last people we invited declined emphatically, and usually it's so much of a last-minute thing that... well.. see... we arrive after sundown. HAhaha. I guess I should do some organizing then, huh? We can get more people to come if it makes it better, hehe. Where do you want to go? Mike wants to go to yosemite... So do my siblings, actually....</p>
+    parent: 1182
+  - id: 1184
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-07-07 19:25:05"
+    content: |
+      <p>when and where do you want to go?</p>
+      <p>We saw a lot of banananana slugs at Muir Woods. They have a big hole on one side(?).</p>
+      <p>Horseback riding! Horseback riding!</p>
+    parent: 1181
+  - id: 1185
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-07-07 21:42:43"
+    content: |
+      <p>Re: Foot Firmly in Mouth.</p>
+      <p>I'd be down with that. I've wanted to hike Yosemite Falls for literally months. If I can camp in the bargain as well, I'm sold.</p>
+    parent: 1183
+  - id: 1186
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2005-07-08 00:53:37"
+    content: |
+      <p>If you tag along with Lisaur on a Monday you could see so many different kids of dead animals!</p>
+    parent: 1181
 ---
 
 Friday: "Let's go backpacking." "Ok." I set up the tent in the living room to make sure I knew how to do it, and I lit the stove outside on the porch to make sure I hadn't forgotten how to do that. I let too much fuel go into the priming cup and didn't turn the fuel off before lighting it, which is very bad. But nothing burned down. Went to sleep at 3am. "But where should we go?" "Um... I dunno"

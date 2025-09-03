@@ -3,6 +3,42 @@ layout: post
 title: "sunday yosemite"
 date: 2006-06-21 03:44:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1577
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-06-21 06:01:36"
+    content: |
+      <p>Guy Smiley - game show host.  Jim Henson used the voice to entertain his kids.</p>
+  - id: 1578
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-06-21 15:29:49"
+    content: |
+      <p>Dude, I need to go to Yosemite STAT! </p>
+  - id: 1579
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-06-21 15:32:37"
+    content: |
+      <p>ok let's go! when are you free?</p>
+    parent: 1578
+  - id: 1580
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-06-21 15:36:32"
+    content: |
+      <p>who was the news anchor?</p>
+      <p>you know what? i probably just didn't know the difference between a game show host and a news anchor. they both wear a, like, suit, and both stand behind a counter, sometimes with a microphone.</p>
+    parent: 1577
+  - id: 1581
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-06-22 01:48:52"
+    content: |
+      <p>ALL THE TIME! HOORAY! </p>
+      <p>Ok but actually, i need to figure out what days i'll be "interning" and then we can totally plan! </p>
+    parent: 1579
 ---
 
 6:43am - left guy smiley1

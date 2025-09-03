@@ -4,6 +4,21 @@ title: "internet meme depravity"
 date: 2010-09-03 01:56:00 +0000
 categories: ["Uncategorized"]
 tags: ["day9fandom", "starcraft2"]
+comments:
+  - id: 2348
+    author: "doubtingtom"
+    author_url: "http://doubtingtom.livejournal.com/"
+    date: "2010-09-03 01:43:00"
+    content: |
+      <p>Mormon bubble porn is simultaneously less erotic and more morally questionable than actual porn where the ladies (and men) involved actually agreed to be featured in erotic display.</p>
+  - id: 2349
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-09-03 02:33:27"
+    content: |
+      <p>And also are not 10 years old. -.-</p>
+      <p>However, I fully condone its use on day9 and JP. Because everybody wishes they'd make out. Everybody.</p>
+    parent: 2348
 ---
 
 first, you have to know what [mormon bubble porn](http://slog.thestranger.com/slog/archives/2010/09/02/meet-the-bubbleator) is (no actual nudity, but eh, not really sfw still i guess, it's really creepy. don't put images of yourselves at the beach on the internet guys)

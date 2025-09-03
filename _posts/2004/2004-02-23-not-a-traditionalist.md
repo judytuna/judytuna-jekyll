@@ -3,6 +3,34 @@ layout: post
 title: "not a \"traditionalist\""
 date: 2004-02-23 08:19:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 862
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2004-02-23 17:40:54"
+    content: |
+      <p>Awesome. And I really understand the frustration. Sometimes, although never when I'm at Newman, I forget that non-traditional (or whatever we're called) Catholics make up alot of the church. And I think that's really important what you said - it is a living institution - and there is enough in the community (i.e. people like you guys) to make me believe in the future of the church and still feel like a part of the community. But so many of us feel alone, and think about leaving because we think everyone buys the official docrine. What do we do about them? How do we make other young Catholics know that doctrine isn't what makes up the Church (contrary to what some people still say), but the people in it? Are non-traditional Catholics just too silent? What does the rest of the church think of us?</p>
+      <p>In our marriage prep class someone (Laura?) told me that the church has to evolve with the larger society, and larger society evolves with the church, and while it may be that the church is behind in some aspects, that doesn't mean it won't change, and soon. </p>
+  - id: 863
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-02-23 18:14:35"
+    content: |
+      <p>The polar ice caps are definitely melting. There is no question of that. All you have to do is compare a picture of Glacier National Park taken 20 years ago with a picture taken today. The only uncertainty is what the underlying cause of this melting is. While the majority of scientists believe it is due to global warming, a vocal minority have other theories which makes it "controversial." So...global warming in a nutshell for you.</p>
+  - id: 864
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2004-02-23 18:49:41"
+    content: |
+      <p>unfortunately, if there was a voting in the catholic church, the traditionalists would outweigh us!  in africa and other third world areas, the converts are primarily super-conservative.  there have been reports of catholic witch burnings in africa.  europe and the U.S. probably have the most liberal catholics around!</p>
+      <p>what does orkut mean?</p>
+  - id: 865
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2004-02-23 20:44:07"
+    content: |
+      <p>Catholic witch burnings? </p>
+    parent: 864
 ---
 
 I posted 

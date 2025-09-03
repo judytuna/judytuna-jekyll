@@ -3,6 +3,26 @@ layout: post
 title: "birthday, ucce halloween concert, annie's wushu performance"
 date: 2003-10-28 01:47:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 779
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2003-10-27 21:51:53"
+    content: |
+      <p>That's so cool that Annie is doing wushu!  I want to watch sometime!</p>
+  - id: 780
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2003-10-27 23:45:39"
+    content: |
+      <p>happy B!</p>
+  - id: 781
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-10-28 00:36:35"
+    content: |
+      <p>thanks yo! =D</p>
+    parent: 780
 ---
 
 wednesday--after people left for a bar, [rwclark](http://rwclark.livejournal.com/), [andeja](http://andeja.livejournal.com/), alan, [flyingbear](http://flyingbear.livejournal.com/) and i played curses! i have newly acquired [lies and the lying liars who tell them](http://www.amazon.com/exec/obidos/tg/detail/-/0525947647/qid=1067304125/sr=8-1/ref=sr_8_1/102-1522670-4360114?v=glance&n=507846) and [life of pi](http://www.amazon.com/exec/obidos/tg/detail/-/0156027321/qid=1067304165/sr=1-1/ref=sr_1_1/102-1522670-4360114?v=glance&s=books) (thanks r!), and ALL FOUR war3 mousepads from korea (thanks g!).

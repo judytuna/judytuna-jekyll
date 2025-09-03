@@ -4,6 +4,24 @@ title: "if this post isn't trying to be pretentious, my beard is made of green s
 date: 2007-04-24 00:46:00 +0000
 categories: ["Uncategorized"]
 tags: ["joshua bell"]
+comments:
+  - id: 1864
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-04-24 22:47:32"
+    content: |
+      <p>yeah, the writer of the article was pretty lame, but the idea was really interesting, though the results were not surprising at all to me.  </p>
+      <p>When I visited Austria there were voilinists on the streeet that people stopped to listen to.  But it was Salzburg, so I guess people are more prone to stop and listen to classical music.  I'm curious to see the difference if they put Bell in Europe in the same kind of setting, since they kept commenting about it.</p>
+  - id: 4366
+    author: "judytuna"
+    author_email: "judytuna@gmail.com"
+    date: "2013-05-30 18:04:54"
+    content: |
+      I had forgotten how much I loved that wapo article. I have always loved extravagant, unapologetic writing. I mean, look at this: <i>Bell's a heartthrob. Tall and handsome, he's got a Donny Osmond-like dose of the cutes, and, onstage, cute elides into hott.</i> Elides! Hott, with two Ts! And I totally know what they mean about watching someone on stage, or watching someone do anything at the top of their craft.
+      
+      I must have made a conscious decision not to comment on that part of the article. I think I was more attracted to the sadness of nobody stopping to listen, and how much everybody in the know wrung their hands about it. 
+      
+      Also, leaving comments on myself-from-SIX-years-ago is hilarious!
 ---
 
 [http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html](http://www.washingtonpost.com/wp-dyn/content/article/2007/04/04/AR2007040401721.html)

@@ -3,6 +3,54 @@ layout: post
 title: "\"admire the God-fearing and politically conservative man\""
 date: 2004-03-04 05:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 889
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2004-03-03 22:13:53"
+    content: |
+      <p>Partially (actually, mostly) urban legend.<br />
+      http://snopes.com/glurge/noface.htm</p>
+  - id: 890
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2004-03-03 22:30:18"
+    content: |
+      <p>HAHAHAHA!!! You're awesome, and quick.</p>
+      <p>Are you going to send that link to your mom, Judy?</p>
+    parent: 889
+  - id: 891
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-03-03 23:51:27"
+    content: |
+      <p>Yes haha. thanks mike. =)</p>
+    parent: 890
+  - id: 892
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-03-04 12:21:08"
+    content: |
+      <p>Yep.</p>
+      <p>http://urbanlegends.about.com/library/weekly/aa071200a.htm</p>
+      <p>Microsoft has implanted a tracking device in this comment and will send everyone who replies a check for $250 and certificate good for a trip to DisneyLand.</p>
+  - id: 893
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-03-05 01:08:11"
+    content: |
+      <p>Re: Yep.</p>
+      <p>The AOL trakc an email which saying Don't go to movie theaters be Cause people with AIDS needles will STAB u! ! ! ! and Say they will give 1000 fReE hours 4 evr1 u send it 2. I haven't been 2 Disnylande for a long time</p>
+    parent: 892
+  - id: 894
+    author: "lordkrishna"
+    author_url: "http://lordkrishna.livejournal.com/"
+    date: "2004-03-09 12:53:12"
+    content: |
+      <p>I am seized with an insurmountable urge to throttle you. </p>
+      <p>(Good job imitating my most hated of foes)</p>
+      <p>-K</p>
+    parent: 893
 ---
 
 My mom sent me this email forward. ALL EMAIL FORWARDS EVERYWHERE MUST DIE

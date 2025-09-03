@@ -4,6 +4,35 @@ title: "speaking of women in gaming"
 date: 2008-03-31 00:50:00 +0000
 categories: ["Uncategorized"]
 tags: ["anger", "gaming culture", "girls"]
+comments:
+  - id: 2081
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2008-04-01 00:11:28"
+    content: |
+      <p><i>real insidious sexism that never goes away</i></p>
+      <p>Welcome to our wonderful modern world.</p>
+      <p>:(</p>
+  - id: 2082
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-04-01 03:09:21"
+    content: |
+      <p>It says a lot about how sheltered I've been that I have to play an <i>online game</i> in order to see it.</p>
+    parent: 2081
+  - id: 2083
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-04-02 14:21:25"
+    content: |
+      <p>Why are you still playing alliance with all the 15-year-olds?  Come to horde where there's more adults.  Seriously, someone was saying the average age of alliance is 16, while the average age of horde players is 21.  Weird, huh?</p>
+  - id: 2084
+    author: "roundhousefreak"
+    author_url: "http://roundhousefreak.livejournal.com/"
+    date: "2008-04-07 08:04:45"
+    content: |
+      <p>I hate stereotype of women who play video games. I'm tired of it.</p>
+      <p>Though, I have not experienced Barrens chat, and I just usually ignore the drama that goes on in general and trade and LFG chats.</p>
 ---
 
 http://community.livejournal.com/wow_ladies/4954297.html

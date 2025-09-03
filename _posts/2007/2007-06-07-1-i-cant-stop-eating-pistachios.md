@@ -3,6 +3,13 @@ layout: post
 title: "1 i cant stop eating pistachios"
 date: 2007-06-07 02:58:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1872
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2007-06-07 04:18:16"
+    content: |
+      <p>*Hugs*</p>
 ---
 
 1. i can't stop eating pistachios.

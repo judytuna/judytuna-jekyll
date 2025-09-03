@@ -3,6 +3,13 @@ layout: post
 title: "There are many more ways in"
 date: 2010-06-11 09:48:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2320
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-06-12 15:24:24"
+    content: |
+      <p>Aw, poor Rosinante! She's like the velveteen rabbit, so loved that she finally became Real... The handlebars thing: actually I think it can be fixed by unbolting them with a special tool that undoes the center bolt thingy, and then twisting them around a bit. Derailleur: hmm, if it's actually bent (like the metal part) it might have to be replaced, but if it's just become twisted, you can unscrew it and wiggle it around until it works. This is an annoying process that takes about a million tries. Same for fixing the brake cable. I have some tools but not a cable trimmer. If you go to Missing Link they let you use everything free in their little workshop, so I'd try there first. Wheel out of true: there is a spoke tool you can use to fix that but it's super hard. I could never do it and always just paid them. It was like $30. </p>
 ---
 
 There are many more ways in which Rosinante is broken. Alas. It is from being stored in Arch house's garage sideways (she started out on a hook, but when I moved out and went to get her, I found that the hook had fallen down... so she was laying every which way across some other bikes. Scandalous behavior!) Let me enumerate some of her sicknesses:

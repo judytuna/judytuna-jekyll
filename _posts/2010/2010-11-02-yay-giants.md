@@ -3,6 +3,35 @@ layout: post
 title: "yay giants"
 date: 2010-11-02 03:36:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2362
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2010-11-02 02:41:24"
+    content: |
+      <p>Go out there!</p>
+  - id: 2363
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-11-02 02:47:08"
+    content: |
+      <p>i'm kinda scared. i wish i wasn't sick, or i would feel more inclined to run outside</p>
+      <p>wow it's really crazy outside.... really really crazy</p>
+    parent: 2362
+  - id: 2364
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-11-02 02:59:42"
+    content: |
+      <p>holy fuck it's batshit insane out there. i'm getting my camera hahaha</p>
+    parent: 2362
+  - id: 2365
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2010-11-02 03:31:35"
+    content: |
+      <p>Post pics later!!</p>
+    parent: 2364
 ---
 
 holy shit! i hear horns, people screaming, firecrackers... it's really crazy out there, and i'm sick in my room with stuffy sinuses and the windows closed. this is totally nuts.

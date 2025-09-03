@@ -3,6 +3,13 @@ layout: post
 title: "Blizzard and Real ID"
 date: 2010-07-07 08:13:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2324
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2010-07-14 09:35:59"
+    content: |
+      <p>Alan told me Blizzard is dropping the real name in forums thing just like you predicted. Also in terms of privacy, yeah, facebook is not private. Only put stuff there you don't mind others seeing.  It surprises me that some people put their addresses in there. You'd think it'd be a no-brainer.</p>
 ---
 
 Blizzard is under fire for their announcement that starting with the release of Starcraft 2 on July 27, the only way to post on the offical Blizzard forums is with your REAL NAME. They have a new thing called "Real ID" that's tied to your real name (which is part of your account+billing information and not changeable once you've made your account already). You can add someone as a "Real ID friend" ingame, using their battle.net account email address, and if they accept, you can see them if they're online on ANY character associated to their account in world of warcraft (allowing for cross-server, cross-faction whispering), as well as other blizzard games (cross-game whispering). That's pretty cool, since it's turning battle.net into a chat client, and I don't mind doing that with people I know in real life. The only reservation is that I'll never be able to "hide" from anyone (sometimes, I just feel like playing by myself for a while or something, but this way, my Real ID friends will see that I'm online no matter what I do) but I'm pretty much just OK with that since it's a multiplayer game anyway, and I have to learn to just say no if I don't feel like doing something at that moment or have to leave or something. So that's pretty ok.

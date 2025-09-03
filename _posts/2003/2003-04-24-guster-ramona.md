@@ -3,6 +3,22 @@ layout: post
 title: "guster - ramona"
 date: 2003-04-24 11:57:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 611
+    author: "Anonymous"
+    date: "2003-04-26 23:11:14"
+    content: |
+      <p>mindless drivel</p>
+      <p>mindless drivel.  mindless drivel.  mindless drivel.  that IS a good phrase.</p>
+      <p>-Jenny</p>
+  - id: 612
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-04-28 17:06:13"
+    content: |
+      <p>Re: mindless drivel</p>
+      <p>it rolls of the tongue well. mindless drivel. mindless drivel. mindless drivel. maybe the repeated "l" and "d" and "i" sounds, and the two trochees...</p>
+    parent: 611
 ---
 
 ramona. 

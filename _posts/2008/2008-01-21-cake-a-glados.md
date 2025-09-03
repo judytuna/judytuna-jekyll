@@ -4,6 +4,20 @@ title: "cake a GLaDOS"
 date: 2008-01-21 04:08:00 +0000
 categories: ["Uncategorized"]
 tags: ["cake", "portal"]
+comments:
+  - id: 1981
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-01-21 08:15:39"
+    content: |
+      <p>The cake is a lie!!!!</p>
+  - id: 1982
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-01-21 08:17:13"
+    content: |
+      <p>GAH did you end up finishing the game? CRAP! maybe i should amend my youtube links for spoiler alerts? I'M SORRY! well they're not really REAL spoilers or something? GAH</p>
+    parent: 1981
 ---
 
 http://www.youtube.com/watch?v=U3WF-5-o2KA

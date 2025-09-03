@@ -3,6 +3,22 @@ layout: post
 title: "gettysburg. bullets in the ground. virgin land. (prof hollinger)"
 date: 2003-05-05 05:12:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 620
+    author: "Anonymous"
+    date: "2003-05-05 13:05:47"
+    content: |
+      <p>"instransigent"</p>
+      <p>Uh Judy, sorry, but it means "uncompromising," not "mobile." I was not thinking correctly when I told you that. Also, it's "reactionary" that means "ultraconservative," not "intransigent."</p>
+      <p>-Ryan</p>
+  - id: 621
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-08 05:32:54"
+    content: |
+      <p>Re: "instransigent"</p>
+      <p>ok. i fixed it. </p>
+    parent: 620
 ---
 
 ryan's chinese history book says that the communists would have said that my grandparents were in the group that they (the communists) termed the "intransigent reactionaries" (meaning "uncompromising ultraconservatives" ... m-w says intransigent means "refusing to compromise or to abandon an extreme position or attitude"). was this supposed to be derogatory or something? haha

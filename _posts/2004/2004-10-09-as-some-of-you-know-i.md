@@ -3,6 +3,20 @@ layout: post
 title: "As some of you know I"
 date: 2004-10-09 20:16:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1007
+    author: "Anonymous"
+    date: "2004-10-11 13:06:50"
+    content: |
+      <p>Can I recommend using a text editor? I used to have the same annnnoying problem all the time, but if you use an editor, or even type your postings in Word, and then copy and paste, it will never happen again (^_^)</p>
+  - id: 1008
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2004-10-12 17:46:03"
+    content: |
+      <p>hey ju,</p>
+      <p>im gonna in cal on thurs.. we should meet up with steph and con or something on fri? if u have time.. lemme know </p>
+      <p>~ Sues</p>
 ---
 
 As some of you know, I am not doing Berkeley this semester. But I am taking one online class via Foothill College. Intro to the Global Economy.

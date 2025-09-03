@@ -3,6 +3,15 @@ layout: post
 title: "we procrastinate."
 date: 2003-01-28 06:42:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 571
+    author: "Anonymous"
+    date: "2003-02-25 18:40:19"
+    content: |
+      <p>c'mon now!</p>
+      <p>Someone post a comment!  i'm interesting!  someone has something to say about me!</p>
+      <p>p.s. the image that i chose... isn't that the guy on the cover of hgttg?  cool!</p>
+      <p>p.p.s. you cut off the bit where i gush about cinnamon crackers.</p>
 ---
 
 Jennnykins (10:36:16 PM): AHH

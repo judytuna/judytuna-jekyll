@@ -3,6 +3,19 @@ layout: post
 title: "from darcydodo httpwwwguardiancoukartanddesign2008sep18corpusclock time is marching"
 date: 2008-09-22 09:44:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2140
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2008-09-22 15:07:29"
+    content: |
+      <p>And sea otters use you to keep themselves from floating away while asleep. And sea urchins eat you. And... And... And you're actually related to algae and not so much plants!?!??!</p>
+  - id: 2141
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2008-09-23 07:13:55"
+    content: |
+      <p>But I thought songbirds sing to intimidate the other songbirds so they don't go near their pristine songbird territory</p>
 ---
 
 from [darcydodo](http://darcydodo.livejournal.com/): http://www.guardian.co.uk/artanddesign/2008/sep/18/corpus.clock

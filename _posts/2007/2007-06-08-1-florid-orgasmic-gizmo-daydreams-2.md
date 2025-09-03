@@ -3,6 +3,13 @@ layout: post
 title: "1 florid orgasmic gizmo daydreams 2"
 date: 2007-06-08 21:12:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1906
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-06-12 07:22:32"
+    content: |
+      <p>I'm going on a cruise and it leaves aug 3, so alas, i cannot go =(</p>
 ---
 
 1. ["florid orgasmic gizmo daydreams"](http://www.sfgate.com/cgi-bin/article.cgi?f=/gate/a/2007/06/08/notes060807.DTL).

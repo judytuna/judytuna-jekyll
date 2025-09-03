@@ -3,6 +3,28 @@ layout: post
 title: "i dont drink enough water i"
 date: 2003-05-22 12:38:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 645
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2003-05-22 07:18:05"
+    content: |
+      <p>I think the more concerning thing is not his obssession with that controller, but the fact that you were FREAKING CHATTING ON IM AND POSTING ON LJ AT 4 IN THE MORNING!!!! :-)</p>
+  - id: 646
+    author: "ridgemit"
+    author_url: "http://ridgemit.livejournal.com/"
+    date: "2003-05-22 16:17:42"
+    content: |
+      <p>That's not so weird. Apparently my bedtime is at sunrise. (see post)</p>
+    parent: 645
+  - id: 647
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-24 15:29:11"
+    content: |
+      <p>haha. yay! vampires unite!</p>
+      <p>mike, it's not like you've never chatted on AIM at 4am!</p>
+    parent: 646
 ---
 
 i don't drink enough water. i don't get enough sleep. i don't feed myself regularly. a schedule for myself i don't keep. oh shut up judy and stop trying to rhyme your complaints. 

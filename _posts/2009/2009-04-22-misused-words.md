@@ -3,6 +3,13 @@ layout: post
 title: "misused words"
 date: 2009-04-22 22:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2215
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2009-04-23 06:27:48"
+    content: |
+      <p>I always pictured livid as more of a purplish color, perhaps because of the last definition.  Though I suppose I could see how it could be kind of a burst of pale/whiteness, like lightning.</p>
 ---
 
 I have a lot of words that I use mostly-correctly, but when pressed to define them, I find myself unable to. Now whenever I use one, I am struck with self-doubt, so I always look it up ("define: profligacy" in the search window cuz google is awesome!) in another tab as I'm writing. Thank you, Internet. Thinternet.

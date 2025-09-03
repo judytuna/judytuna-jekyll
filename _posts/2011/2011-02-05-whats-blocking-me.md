@@ -3,6 +3,25 @@ layout: post
 title: "what's blocking me"
 date: 2011-02-05 04:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 503
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2011-02-06 01:09:27"
+    content: |
+      <p>Do you want me to cut your hair?  I can't guarantee it will be amazing.  But it will be free and mostly even.  haha. Free on Sunday if you're not superbowling and the weekday evenings this week.</p>
+  - id: 504
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2011-02-06 03:05:11"
+    content: |
+      <p>Also, you know that David Foster Wallace (who wrote that story) committed suicide, right?  He suffered from depression for like 20 years.  If anything, it's an argument that depression in fact, does exist and can afflict anyone, including the highly admired and acclaimed. I'm sure he must have pulled a lot of that form his own personal struggle with depression.</p>
+  - id: 505
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2011-02-11 16:23:08"
+    content: |
+      <p>Moving is totally stressful! I sympathize completely. I have a giant pile of boxes to go through in the garage that I'm avoiding like mad. Then I thought the only way to trick myself into actually doing it was to make it seem like it wasn't that big a deal, instead of a giant overwhelming pile! I'm thinking I might be able to do it by making myself look at one box a week, or get rid of one bag of stuff a month, or something like that to break it up. 2 weeks for everything (like your roomate said) might be kind of fast! How much stuff exactly are you and Fritz trying to get rid of? Enough to have a clear path to things, or enough for a certain amount of new stuff to have room... ? It might help to clarify that so you don't feel you have to throw every single memory away...? </p>
 ---
 
 My fingernails are too long. My toenails are unacceptably too long. My hair is too long. I want bangs again, but I'm afraid to go get a haircut because I'm afraid it'll go wrong. My grown-out bangs are irritating my eyes.

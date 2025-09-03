@@ -4,6 +4,60 @@ title: "On \"Gravity\" by Vienna Teng"
 date: 2005-10-24 01:36:00 +0000
 categories: ["Uncategorized"]
 tags: ["vienna teng"]
+comments:
+  - id: 1326
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2005-10-24 02:02:04"
+    content: |
+      <p>subjunctive, imperative, yes. They're moods; though in the plural it's best to call them modals. That seems to make it make a little more sense. </p>
+  - id: 1327
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-10-24 08:46:59"
+    content: |
+      <p>I'm curious, do you read through your entries after/as you're writing them?<br />
+      I do (I can't really help it), and I find myself editing quite a lot.</p>
+      <p>While it's interesting to look directly into someone's mind through the viewing port of LJ, I think I aim more for a distilled practical upshot rather than a blow-by-blow... except when I ramble, and then god help anyone reading.</p>
+      <p>You can use "such" as a noun. I'm not sure about the phrase "such like that", but that's probably because the structure I've always seen built around the noun use of "such" implies the "like" without saying it.<br />
+      You know: examples, and such. The structure's just an abbreviated version of the same thing.</p>
+      <p>Oh look, I'm rambling again.</p>
+  - id: 1328
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2005-10-24 17:48:10"
+    content: |
+      <p>tense/mood</p>
+      <p>yeah, confusing; there's actually yet another tense/mood-like type of language object that linguists like to talk about: "aspect", which is, i suppose, more tense-like than mood is.  it's pretty tricky to explain to western european language speakers what an aspect is; those languages don't have aspect.  fortunately, since you know chinese, it's easy: chinese doesn't have tenses, so all your favorite particles that affect the meaning of verbs (like "le", the "past tense" of mandarin) are either moods or aspect words.... now that you know what a mood is ("ma" (question marker), for example, is a mood marker), all the ones that aren't moods are aspect markers.</p>
+      <p>lisa, feel free to put the smack down; i have a linguistics degree, but my focus was much more on semantics and computational issues than on good 'ol "what do we call this damn stuff" linguistics.</p>
+  - id: 1329
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2005-10-24 17:50:25"
+    content: |
+      <p>Re: tense/mood</p>
+      <p>lest i lead anyon a-stray, note that there are also languages that have both tense *and* aspect; south african bantu languages, for examples (which also have mood, just to make it really exciting).</p>
+    parent: 1328
+  - id: 1330
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2005-10-24 23:00:40"
+    content: |
+      <p>"Kristinesque"!  I'm an adjective!</p>
+      <p>Your asides are never irrelevent.</p>
+  - id: 1331
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2005-10-25 02:44:25"
+    content: |
+      <p>i've noticed that a lot of people that speak English as not their first language use "such" in interesting ways... one of my old students, Shinya, would say "such kind" in practically every sentence.  "he uses such kind of knives" "she goes to such kind of school"</p>
+  - id: 1332
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2005-10-25 22:59:50"
+    content: |
+      <p>The lyrics may be more simple than you think.  I haven't heard the song, but the lyrics seem like she is talking about real love and infatuation, one where she beleives she is really in love, despite critics who want to discount it as  "puppy love".  The phrase "falling in love" comes to mind as "the gentle fall".  And it seems to hurt the speaker that she can't call it love due to society's ideas of who can be in love and what love is, and what should be taken seriously.</p>
+      <p>But, i think your interpretation is very interesting in what it says about YOU. =)</p>
 ---
 
 So--I'm listening to Vienna Teng's "Gravity," right, and there are the lines, and here I will do a Kristinesque italicization in the places I wish to call attention to--

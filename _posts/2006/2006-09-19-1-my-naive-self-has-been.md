@@ -3,6 +3,15 @@ layout: post
 title: "1 My naive self has been"
 date: 2006-09-19 21:57:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1709
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-09-20 05:49:13"
+    content: |
+      <p>your post made of think of rap lyrics</p>
+      <p>"well, if kurupt gave a fuck about a bitch i'd always be broke.  i'd never have no motherfucking endo to smoke."</p>
+      <p>so, it turns out, your motherboard is into ganstarap.</p>
 ---
 
 1. My naive self has been under the misconception that "royal canadian blended/ the spicy aroma has mended me" referred to coffee after a hangover, or drinking coffee instead of alcohol. But you don't drink coffee in glasses, after all. Also, thank you wikipedia, though I couldn't find "Arberlour." (Aside: If I could piratize my speech, I would.) Here is the sarcastically titled "Sober" :

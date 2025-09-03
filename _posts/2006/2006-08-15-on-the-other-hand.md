@@ -3,6 +3,20 @@ layout: post
 title: "on the other hand"
 date: 2006-08-15 10:11:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1638
+    author: "ill_reflectz"
+    author_url: "http://ill_reflectz.livejournal.com/"
+    date: "2006-08-17 00:40:23"
+    content: |
+      <p>hahahahaha. oh yoshi.</p>
+  - id: 1639
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-08-17 09:50:44"
+    content: |
+      <p>i bow down before you. you are a genius. please have my babies.</p>
+    parent: 1638
 ---
 
 my roommate derek is FUCKING AWESOME. i could explain to you why, but a picture is worth a thousand words: http://www.xanga.com/magneticnorthhiphop

@@ -3,6 +3,32 @@ layout: post
 title: "1 ice cream party was fun"
 date: 2006-07-03 01:55:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1582
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-07-03 05:41:56"
+    content: |
+      <p>they might be giantsquids!</p>
+  - id: 1583
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2006-07-03 16:33:59"
+    content: |
+      <p>I have that exact same problem with pants.  It's not so much my waist as it is my thighs.</p>
+  - id: 1584
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2006-07-03 16:34:36"
+    content: |
+      <p>eminemu.</p>
+    parent: 1582
+  - id: 1585
+    author: "henshu"
+    author_url: "http://henshu.livejournal.com/"
+    date: "2006-07-06 05:35:16"
+    content: |
+      <p>aarrrghh!! of all the crazy things that can happen here, we get ground fogging! :P  boring! hahahah :)</p>
 ---
 
 1. ice cream party was fun. you can never eat too much lactaid. i like suzanne. i contributed "metallicat" and "notorious p.i.g." and "mc hammerhead shark" to lisa's list, which got a little out of hand. someone said that my belt didn't look like it would hold up my pants, which was ironic (IS THIS CORRECT USAGE OF THE WORD?) because i bought that belt three or four years ago for the specific purpose of holding up the very pair of pants i was wearing with said belt, which, three or four years ago, was (the pair of pants, if you've lost track of the subject of this phrase) unacceptably too big at the waist (but very well-fitting everywhere else. i have this problem a lot--wide ass, comparatively small waist. if a pair of pants fits my ass, the waist will flop around; if it fits my waist, i cannot fit my thighs into it comfortably. that is why i only wear extra-low-rise jeans, which bring underwear/asscrack-showing problems of their own. i can't win). it is no longer, but in my mind that pair of pants is not complete without that belt so i must wear it. the end.

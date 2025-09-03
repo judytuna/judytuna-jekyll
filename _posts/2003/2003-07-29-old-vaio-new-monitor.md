@@ -3,6 +3,47 @@ layout: post
 title: "old vaio, new monitor"
 date: 2003-07-29 19:27:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 709
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2003-07-29 09:21:38"
+    content: |
+      <p>yay for new computer parts!</p>
+  - id: 710
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2003-07-31 10:19:26"
+    content: |
+      <p>Hi, Judy! I added you to my friends list, if that's okay. It was really fun singing with you last night - I hope I see you at the next function soon! :) --Maria</p>
+  - id: 711
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-07-31 11:11:29"
+    content: |
+      <p>yay! i added you too. =)</p>
+    parent: 710
+  - id: 712
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2003-07-31 11:14:47"
+    content: |
+      <p>Thanks! :) Did you have a good time last night?</p>
+    parent: 711
+  - id: 713
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-07-31 17:22:59"
+    content: |
+      <p>yeah! thanks for hosting yo. </p>
+    parent: 712
+  - id: 714
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2003-07-31 18:01:31"
+    content: |
+      <p>Fo' shizzle.</p>
+    parent: 713
 ---
 
 fry's had $100 off a hyundai 17" monitor. so my dad got it for me. it's bright. since none of the 4 or 5 keyboards we have lying around at home are usb, my dad went to fry's again to get one. he came home with a logitech wireless set. i'm a spoiled brat. semagic doesn't work in windows ME, so i just downloaded LJ.NET (and also the ".NET framework" from microsoft). i'm using it now. it's not full-featured yet, apparently. it crashed once after i loaded it. it doesn't have "edit" or anything yet. 

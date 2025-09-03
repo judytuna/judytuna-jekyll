@@ -3,6 +3,13 @@ layout: post
 title: "windows xp tweak make the status"
 date: 2002-12-16 14:09:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 554
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2002-12-16 10:12:08"
+    content: |
+      <p>wow. i didnt know that. finally.. i get the status bar back. thanks jud</p>
 ---
 
 windows xp tweak: make the "status bar" appear in new windows of internet explorer.

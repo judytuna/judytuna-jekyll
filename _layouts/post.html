@@ -23,6 +23,31 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <!-- Comments section -->
+  {%- if page.comments and page.comments.size > 0 -%}
+    <section class="comments-section">
+      <h3 class="comments-title">Comments ({{ page.comments.size }})</h3>
+      
+      {%- for comment in page.comments -%}
+        <div class="comment" id="comment-{{ comment.id }}">
+          <div class="comment-meta">
+            <strong class="comment-author">
+              {%- if comment.author_url and comment.author_url != "" -%}
+                <a href="{{ comment.author_url }}" rel="nofollow">{{ comment.author | escape }}</a>
+              {%- else -%}
+                {{ comment.author | escape }}
+              {%- endif -%}
+            </strong>
+            <span class="comment-date">{{ comment.date | date: "%B %-d, %Y at %-I:%M %p" }}</span>
+          </div>
+          <div class="comment-content">
+            {{ comment.content | strip | newline_to_br }}
+          </div>
+        </div>
+      {%- endfor -%}
+    </section>
+  {%- endif -%}
+
   <!-- Post navigation -->
   <nav class="post-nav">
     <div class="post-nav-links">
@@ -50,6 +75,59 @@ layout: default
 </article>
 
 <style>
+.comments-section {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+.comments-title {
+  color: #333;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+.comment {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border-left: 3px solid #ddd;
+  border-radius: 4px;
+}
+
+.comment-meta {
+  margin-bottom: 0.5rem;
+}
+
+.comment-author {
+  color: #333;
+}
+
+.comment-author a {
+  color: #2a7ae4;
+  text-decoration: none;
+}
+
+.comment-author a:hover {
+  text-decoration: underline;
+}
+
+.comment-date {
+  color: #666;
+  font-size: 0.9rem;
+  margin-left: 0.5rem;
+}
+
+.comment-content {
+  line-height: 1.6;
+  color: #444;
+}
+
+.comment-content p {
+  margin: 0.5rem 0;
+}
+
 .post-nav {
   margin-top: 2rem;
   padding-top: 1rem;

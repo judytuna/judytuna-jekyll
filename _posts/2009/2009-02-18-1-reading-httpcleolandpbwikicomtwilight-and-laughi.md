@@ -4,6 +4,59 @@ title: "1 reading httpcleolandpbwikicomTwilight and laughing my"
 date: 2009-02-18 14:58:00 +0000
 categories: ["Uncategorized"]
 tags: ["ballet", "hair", "jumping pixies", "twilol", "twitter"]
+comments:
+  - id: 2187
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2009-02-18 17:59:38"
+    content: |
+      <p>Saw this and thought of you: http://www.theselectseries.com/product/1565/Ninja_Tuna</p>
+  - id: 2188
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2009-02-18 23:13:03"
+    content: |
+      <p>I too refuse to say tweet.</p>
+      <p>On a tangent, Terry Pratchett has been knighted.</p>
+  - id: 2189
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2009-02-19 01:00:58"
+    content: |
+      <p>haha!! who is mr. scruff? is ninja tuna a character??</p>
+    parent: 2187
+  - id: 2190
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2009-02-19 02:25:10"
+    content: |
+      <p>I thought you got a haircut!  I liked it, except, you were all wet from the lake and rain outside my house, so I didn't want to say anything in case it was the water and you thought i was stupid for complimenting you on your rain-soaked hair. Like, "Gee, Judy your hair looks GREAT when you have been walking out in the wind and the rain and feel like crap, can you do that MORE PLEASE?!!"</p>
+  - id: 2191
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2009-02-19 02:28:05"
+    content: |
+      <p>YAYYYYY</p>
+    parent: 2190
+  - id: 2192
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2009-02-19 14:34:09"
+    content: |
+      <p>No idea!  But thought it was kinda cool.</p>
+    parent: 2189
+  - id: 2193
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2009-02-20 03:20:14"
+    content: |
+      <p>Also, check out Shawl-Anderson dance center http://www.shawl-anderson.org  They are on the corner of Alcatraz and College and have classes in ballet, modern, and jazz, and if i could get my lazy butt  in gear, i'd go there more often! </p>
+  - id: 2194
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2009-02-22 06:01:58"
+    content: |
+      <p>I passed by shotgun players' theater and on their marquis was The Vagina Monologues, put on by Berkeley High.  Wow, really?</p>
 ---
 
 1. reading http://cleoland.pbwiki.com/Twilight and laughing my face off. just discovered that the author of the actual books dedicated it to Muse. WTF GOD WHY HAHAHAHAH

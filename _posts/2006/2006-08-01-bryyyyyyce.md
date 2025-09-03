@@ -3,6 +3,62 @@ layout: post
 title: "BRYYYYYYCE"
 date: 2006-08-01 22:59:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1625
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-08-01 22:59:08"
+    content: |
+      <p>I believe it was former Octet member Jake Manabat who was in the Rent touring cast when you last saw it, and he was an understudy for Angel. Ask Paul Hogarth for more info.</p>
+      <p>If that was Bryce as Roger, that means a friend of mine has his autograph, since we were able to meet the cast at the backstage door afterwards on Sunday...</p>
+  - id: 1626
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-08-02 00:53:17"
+    content: |
+      <p>I think what this means is that being in an acapella group predetermines your future as a star performer. Hopefully the bonus goes beyond just roles in Rent! </p>
+      <p>I LOVE LOVE LOVE YOU BRYCE!!!!! </p>
+  - id: 1627
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-08-02 18:49:13"
+    content: |
+      <p>He sang a song that went "I've never been so alone... I've never been so alive"  I think it was a song by a popular group but not a popular song, like Third Eye Blind or something.  But wow.  Just wow.  Did he wear a beanie hat and wallet chain onstage?</p>
+  - id: 1628
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-08-03 01:13:08"
+    content: |
+      <p>It was Motorcycle Drive By by Third Eye Blind.</p>
+    parent: 1627
+  - id: 1629
+    author: "Anonymous"
+    date: "2006-08-04 19:36:57"
+    content: |
+      <p>man, i'd be happy with just roles in rent.</p>
+    parent: 1626
+  - id: 1630
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-08-04 19:39:36"
+    content: |
+      <p>no hat, yes chain. </p>
+      <p>skinny skinny skinny skinny plaid pants. i like roger's "2nd act" outfit better: black sleeveless tee (and pants that weren't A) plaid or B) ridiculously skinny). and i like his hair.</p>
+    parent: 1627
+  - id: 1631
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-08-04 21:23:12"
+    content: |
+      <p>I should contact him on myspace and send him our fan video.  muahahahah.</p>
+    parent: 1630
+  - id: 1632
+    author: "wubbakraken"
+    author_url: "http://wubbakraken.livejournal.com/"
+    date: "2006-08-05 11:38:52"
+    content: |
+      <p>O my god, Bryce does have hair under his beanie.</p>
+    parent: 1630
 ---
 
 This morning Ryan woke me up to tell me: "I just looked at your RENT playbill and Bryce from the SoCal VoCals played Roger!!!!"

@@ -3,6 +3,13 @@ layout: post
 title: "slate article on wow!"
 date: 2006-12-05 01:27:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1791
+    author: "Anonymous"
+    date: "2006-12-16 09:54:42"
+    content: |
+      <p>beta key</p>
+      <p>i got one today... seems hardly worth it to bother putting a character on for 3/4 of a month.  weird that they would even be giving them out so late.</p>
 ---
 
 http://www.slate.com/id/2153757/

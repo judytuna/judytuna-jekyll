@@ -3,6 +3,34 @@ layout: post
 title: "i repeat myself in this livejournal"
 date: 2002-11-06 10:14:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 537
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2002-11-06 07:33:18"
+    content: |
+      <p>in my house back home i had a bookshelf with pegs underneath it, purchased at home depot!</p>
+  - id: 538
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2002-11-07 03:04:06"
+    content: |
+      <p>cool! thanks! wanna take me to home depot?</p>
+    parent: 537
+  - id: 539
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2002-11-07 11:33:33"
+    content: |
+      <p>perhaps if you add me to your friend's list, i might consider it  ;c)</p>
+    parent: 538
+  - id: 540
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2002-11-07 15:31:37"
+    content: |
+      <p>consider it done!</p>
+    parent: 539
 ---
 
 i repeat myself in this livejournal a lot. i repeat myself in this livejournal a lot. ha, i'm funny.

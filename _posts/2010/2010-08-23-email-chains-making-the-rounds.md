@@ -3,6 +3,20 @@ layout: post
 title: "email chains making the rounds"
 date: 2010-08-23 01:14:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2341
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2010-08-23 17:34:51"
+    content: |
+      <p>http://www.snopes.com/language/document/liferule.asp</p>
+  - id: 2342
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-08-25 23:26:17"
+    content: |
+      <p>duh. ty.</p>
+    parent: 2341
 ---
 
 Someone once forwarded me this "advice" that is purportedly from Bill Gates. Do you think Bill Gates said these things? Is there any evidence of this "speech" he gave to high school students, or is this a made-up email-forward-thing?

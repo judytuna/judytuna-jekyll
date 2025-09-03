@@ -3,6 +3,21 @@ layout: post
 title: "i dreamed that i saw two"
 date: 2003-03-10 22:36:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 579
+    author: "rawkvixen"
+    author_url: "http://rawkvixen.livejournal.com/"
+    date: "2003-03-10 15:30:40"
+    content: |
+      <p><i>i remember once in an smt meeting we were talking about priests and father peter commented that there will be married preists before woman priests. i forgot his reasoning for that though.</i></p>
+      <p>It was stated by Pierre.</p>
+      <p>Well, there <i>are</i> actual married priest already!  The reasoning is social surrounding.</p>
+      <p>In some places in Africa, for example, a man is not a respectable person unless he is married, so the priests there <i>need</i> to be married to be socially respected by the culture.</p>
+      <p>Also, another reason the Church would need to allow women to be priestesses or priests to be married is if there were a shortage of clergy--<br />
+      keeping in mind that females are not the dominant gender in some places in the world, the Church would rather have men get married and send them over to those places. </p>
+      <p><i>there can be married preists in episcopalian churches right? what about women?</i></p>
+      <p>Episcopalians/Anglicans have both!!!  They have male and female clergy, and they can <i>all</i> get married!</p>
+      <p>The Religious Studies major has spoken.  Haha.</p>
 ---
 
 i dreamed that i saw two "fishtail" bugs. i got a paper towel and squished the first. i tried squishing the second but its shell was too hard, so when i dropped the paper towel in disgust the second bug ran into the pocket of my jacket, which was lying on the floor, dragging the entire paper towel as well as the other presumably dead bug behind it. i sat there in shock until ryan said "just look in the pocket" and reached in. i imagined the bug eating a hole in my pocket and then eating ryan's hand and i woke up feeling yucky.

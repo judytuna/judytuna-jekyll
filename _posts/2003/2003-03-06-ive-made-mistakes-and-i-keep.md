@@ -3,6 +3,15 @@ layout: post
 title: "ive made mistakes and i keep"
 date: 2003-03-06 13:02:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 576
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2003-03-08 13:04:04"
+    content: |
+      <p>aww.. i suck<br />
+      <img src="http://images.quizilla.com/Y/yourgoodfriend/1041833830_ndthatssad.gif" border="0" alt="you suck, and that's sad"><br />you are the "you suck, and that's sad"<br />happy bunny. your truthful, but can be a bit<br />brutal.<br />
+      <br /><br /><a href="http://quizilla.com/users/yourgoodfriend/quizzes/which%20happy%20bunny%20are%20you%3F/" rel="nofollow"> <font size="-1">which happy bunny are you?</font></a><br> <font size="-3">brought to you by <a href="http://quizilla.com" rel="nofollow">Quizilla</a></font></p>
 ---
 
 i've made mistakes and i keep making the same ones, like not getting out of bed until it's too late to do anything useful. father peter always says "judy, you have this tape playing in your head that says 'i am a bad person, i suck.' you need to get rid of that tape. you are not a 'bad person' just because you do something bad." 

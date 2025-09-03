@@ -4,6 +4,15 @@ title: "arcade fire"
 date: 2007-06-02 07:23:00 +0000
 categories: ["Uncategorized"]
 tags: ["arcade fire", "berkeley", "cold", "concert", "greek theater", "music", "summer"]
+comments:
+  - id: 1871
+    author: "andrea_feldman"
+    author_url: "http://andrea_feldman.livejournal.com/"
+    date: "2007-06-03 22:43:06"
+    content: |
+      <p><em>your fog broke my amp. thanks a lot, motherfuckers... just kidding... it's not your fault... i'ts your... character... if you didn't have fog like this, you wouldn't write all these songs about the california days filled with sunshine... take the good and the bad..." </em></p>
+      <p>:)</p>
+      <p>Glad you enjoyed it!</p>
 ---
 
 the arcade fire was fun. i like concerts. the greek theater was a good venue to see the arcade fire in, because there are a bunch of singalongs. 

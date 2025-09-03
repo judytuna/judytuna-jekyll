@@ -3,6 +3,20 @@ layout: post
 title: "Events over the last few months, and other thoughts"
 date: 2011-12-01 03:26:26 +0000
 categories: ["life"]
+comments:
+  - id: 2411
+    author: "maiki"
+    author_email: "maiki@interi.org"
+    author_url: "http://interi.org"
+    date: "2011-11-30 22:07:38"
+    content: |
+      <blockquote>This sounds like whining.</blockquote>
+      
+      No way d00d, you are just braindumping. It happens. Once we get really decent voice-to-text software that can embed hyperlinks, we will be rocking!
+      
+      Anyhow, there are a lot of things going on in you, physiologically. Even for people who have more white blood cells, worry is not an easy thing to ease.
+      
+      However, you are getting stuff done, so don't forget to take stock and commend yourself on your achievements! And blog more. If you blog more, then you will not feel so compacted when you get around to it. ^_^
 ---
 
 Once I miss one event, I feel like I can't blog before I catch up.

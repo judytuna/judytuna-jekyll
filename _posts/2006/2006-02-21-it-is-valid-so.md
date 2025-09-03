@@ -3,6 +3,19 @@ layout: post
 title: "It is valid so?"
 date: 2006-02-21 02:26:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1472
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2006-02-21 06:50:39"
+    content: |
+      <p>im always expecting a link to a site for you to enter your credit card or ssn # when i see those.</p>
+  - id: 1473
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-02-21 16:26:49"
+    content: |
+      <p>Are you going to take her up on the offer?</p>
 ---
 
 Check out this *awesome* 

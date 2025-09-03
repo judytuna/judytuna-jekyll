@@ -3,6 +3,81 @@ layout: post
 title: "waste of time"
 date: 2004-04-06 11:10:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 913
+    author: "ill_reflectz"
+    author_url: "http://ill_reflectz.livejournal.com/"
+    date: "2004-04-06 04:03:20"
+    content: |
+      <p>you have to watch season 3 of 24!!!! IT'S GETTING SO GOOD&gt;!!!one!!! </p>
+      <p>I have all the VCD's if ya need em. :)</p>
+  - id: 914
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2004-04-06 10:48:54"
+    content: |
+      <p>ragged.  silent.  nice.</p>
+  - id: 915
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-04-06 13:47:50"
+    content: |
+      <p><i>ragged. silent. nice.</i></p>
+      <p>what?</p>
+    parent: 914
+  - id: 916
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-04-06 14:10:34"
+    content: |
+      <p>For me the most interesting part of this survey was reading about what names you like, because I knew most of the other stuff.</p>
+  - id: 917
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-04-06 15:39:23"
+    content: |
+      <p>Huh?</p>
+      <p>Is that what's on page 18 line 4 of the book nearest you?</p>
+    parent: 914
+  - id: 918
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-04-06 15:41:16"
+    content: |
+      <p>Even that I couldn't find my retainer? Darn, I tried to think of something that nobody knew</p>
+    parent: 916
+  - id: 919
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2004-04-06 16:23:54"
+    content: |
+      <p>Prufrock.  Up and to the right.</p>
+    parent: 915
+  - id: 920
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2004-04-06 16:29:17"
+    content: |
+      <p>Re: Huh?</p>
+      <p>No, that would be "looked again he was gone, and", from <u>Illusions: The adventures of a reluctant messiah</u> by Richard Bach.</p>
+    parent: 917
+  - id: 921
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-04-07 02:19:59"
+    content: |
+      <p>OMG!</p>
+      <p>i only watched one episode of season 3, and that was the first episode of 24 i ever saw. i was really confused. i saw jack make out with nina, some people reluctantly leaving behind some tied-up beaten dead person, hushed wispers about a virus, something about mexico, and some shady guy in a room whose wife had an affair with the president's brother. ryan's told me pretty much everything that happens in season 3 so far... but i'll have to watch them anyway. you have season 3 on vcd already? </p>
+      <p>hey! cool icon! =)</p>
+    parent: 913
+  - id: 922
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2004-04-08 16:00:39"
+    content: |
+      <p>Dear Juddie, </p>
+      <p>Since I never see you online anymore, I have to use LJ to ask if I can borrow your Riverside just to make a photocopy. Apparently my Norton is not good enough. Grr! </p>
+      <p>Cindy</p>
 ---
 
 from [mercuryfading](http://mercuryfading.livejournal.com/)

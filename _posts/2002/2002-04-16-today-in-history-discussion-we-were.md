@@ -3,6 +3,14 @@ layout: post
 title: "today in history discussion we were"
 date: 2002-04-16 08:09:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 514
+    author: "Anonymous"
+    date: "2002-04-17 10:03:09"
+    content: |
+      <p>Feminists rule.</p>
+      <p>It's Betty Friedan, dear.  :)  Have you read it?  All women should.  Part of my big paper on 1950s sexuality includes a discussion of Friedan because her book was written in direct response to sexual containment and the "traditional" gender roles that strangely reemerged in the 50s.<br />
+      -Kristin Anne</p>
 ---
 
 today in history discussion, we were talking about betty friedman's *the feminine mystique*. we were discussing definitions of feminism, and the guy sitting next to me commented "yeah some feminist people think that one day it's like, REALLY gonna be equal, like in the workplace, not just a few woman CEOs but actually 50% of the CEOs will be women--which seems totally unreasonable. like, that's never gonna happen" and all i did was shoot him this totally incredulous look. i wish i weren't so introverted when i haven't done the reading/don't know what i'm talking about. i wish i asked him why he thinks that "actual equality" between men and women will ever take place. haha. i could have incited a riot. ah well. 

@@ -4,6 +4,22 @@ title: "Since I am often comatose whilst"
 date: 2006-12-04 13:07:00 +0000
 categories: ["Uncategorized"]
 tags: ["imogen heap"]
+comments:
+  - id: 1789
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-12-04 22:11:33"
+    content: |
+      <p>that was pretty neat!  I wanted the music with it instead of there's, but i supposed that would be a bit too blatant, yeah?</p>
+  - id: 1790
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-12-05 01:07:56"
+    content: |
+      <p>original music but katamari sound effects: http://www.youtube.com/watch?v=t_7cH3tPnAk</p>
+      <p>with a song from the katamari soundtrack: http://www.youtube.com/watch?v=yLjXg01c7Rc</p>
+      <p>=D</p>
+    parent: 1789
 ---
 
 Since I am often comatose whilst normal people are active, I miss packages. I can only hope that this never happens: http://www.wanderingpandacomics.com/mrgoh/comic.php?comic=21

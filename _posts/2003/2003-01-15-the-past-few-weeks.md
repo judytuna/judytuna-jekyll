@@ -3,6 +3,42 @@ layout: post
 title: "the past few weeks"
 date: 2003-01-15 12:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 556
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2003-01-15 13:13:05"
+    content: |
+      <p>you mean like "a wrinkle in time"?</p>
+  - id: 557
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-01-17 02:11:23"
+    content: |
+      <p>oh yeah. the boy (uh, charles???) in "a wrinkle in time" and his father were always poking a model of more dimensions or something, right? more about other dimensions though. right? i don't remember them too well. i just remember the mitochondria, and the many-eyed cherubum. or cherubim. or something. and the kything! and "mad dog" whatever-his-name-was that was going to blow up the world. yeah. the pullman books were more about the "many worlds" theory and stuff. or something. or... yeah.</p>
+    parent: 556
+  - id: 558
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-01-17 02:13:07"
+    content: |
+      <p>worf's hot pants? who's worf?</p>
+    parent: 556
+  - id: 559
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2003-01-17 08:58:35"
+    content: |
+      <p>worf... as in star trek the next generation.  he's the klingon.</p>
+    parent: 558
+  - id: 560
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-01-17 21:50:47"
+    content: |
+      <p>what's a klingon? </p>
+      <p>am i going to get beaten if i ask that?</p>
+    parent: 559
 ---
 
 12/31 - watermark party at the kus' house. it was good to see hank. good ol' hank. lots of high school/college watermarkers. raymond nearly killed us while we were driving there, which put me in a rather nasty mood, but that dissipated gradually. at the party, we did what we do at the watermark new year party every year. 1) eat! potluck! yay! yum! 2) worship. hank and chongai led. ah, i love the sound of two guitars and 40 voices. 3) reflection activity. this year we all wrote a resolution on an index card, folded it, put our name on the outside, and put it in a shoebox. melissa and cathy will keep it safe until next year, when they will pass back our resolutions. 4) game. this year it was a board game called... um, ...  "tri..." i forgot the name. tripods. tribox. tri something. the point of the game was: you were in teams, you wanted to get your piece to the end first, and you took turns. in your turn, hank read you three statements, and your team had to figure out the right link. some that i got were..... "broadway theater, microscope, childbirth" = stage; "a jealous person, the hulk, _[something i can't remember]__" = green; there were some other clever ones that i forgot... oh, one that another team had included "luke skywalker and princess leia" as one of the items, and the link was "movie siblings" ... oh our team got this obscure one that was something like "sage of springfield, the emancipation president, and the [i can't remember... might have been 'railsplitter' or something]" ... and the answer was NICKNAMES OF ABRAHAM LINCOLN, can you believe it? haha. anyway then 5) the skit thing. this year it was "make a music video with a song of your choosing" and my group did a pretty sorry interpretation of pretty woman where 5 girls hit on 2 guys (the guys being the pretty women) and yeah. like, yeah. the best video was made by the group that had my brother in it. they did "we are men" song from mulan. it was funny. 6) gift exchange. i got the game of life. cool. 7) pass out martinelli apple cider. this year there were those fancy disposable plastic cups shaped like champagne glasses. and, finally, 8) watch some happy party on TV. we meant to watch something in san francisco that was live, but we couldn't find it when we turned the tv on at 11:58, so we settled for some other one. or like, something. but then we found the sf one and watched the fireworks. then we went home. yes. this is going to be ONE LONGASS entry. 

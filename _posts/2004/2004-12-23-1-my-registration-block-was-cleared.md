@@ -3,6 +3,13 @@ layout: post
 title: "1 my registration block was cleared"
 date: 2004-12-23 00:30:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1058
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2004-12-23 03:36:32"
+    content: |
+      <p>uh oh... that's what happened to me (being able to sign up for classes via telebears, but then never getting a bill).  And then there was that two semesters of not being official registered-drama... be really careful, it's a huge pain retroactively adding everything.</p>
 ---
 
 1. my registration block was cleared. in bearfacts, it says "released."

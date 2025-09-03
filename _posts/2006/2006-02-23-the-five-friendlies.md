@@ -3,6 +3,124 @@ layout: post
 title: "the five friendlies"
 date: 2006-02-23 13:07:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1474
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-02-23 17:36:42"
+    content: |
+      <p>Whoa, that whole name thing is pretty awesome. They're so cute!! Kudos to the designers - it's a heck of a lot better than the Atlanta mascot:<br />
+      <img src="http://www.mapsofworld.com/olympic-trivia/images/image007.gif"></p>
+  - id: 1475
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2006-02-23 18:05:17"
+    content: |
+      <p>Amen to that. My shame for my home city's idiocy is unending.</p>
+    parent: 1474
+  - id: 1476
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-02-23 19:34:58"
+    content: |
+      <p>There've been some pretty bad <a href="http://www.hickoksports.com/history/olmascots.shtml" rel="nofollow">Olympic Mascots</a>, althought Izzy scares me the most. Take a look at the '68 Winter Olympics mascot.... yikes! Or the '76 Montreal Olympics mascot "The Bleeding Black Blob."</p>
+      <p>I have fond memories of the 88 Olympics Tiger, because I actually had a statuette of it that was battery operated; when you turned it on, an attachment on its head would spin around to make the ribbon go flowing around and around. It was also good for poking out kids eyes.</p>
+    parent: 1474
+  - id: 1477
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-02-23 19:41:39"
+    content: |
+      <p>The Blob is AWESOME!!! Next Olympics: squid.</p>
+    parent: 1476
+  - id: 1478
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-02-23 19:47:35"
+    content: |
+      <p>With a monkey too, right?</p>
+      <p>The next summer Olympics after Beijing would be London... I'm just not seeing them using a squid. Nor do I see Vancouver using a squid either.</p>
+      <p>Ooh ooh, Olympic mascot speculation! Vancouver 2010 = Moose and Squirrel. London 2012 = The Olympic Dentist. (Given that it's Britain, they'll figure out some way to make the queen (who will still be alive in 2012) into the official Olympic mascot.)</p>
+    parent: 1477
+  - id: 1479
+    author: "coolbean98"
+    author_url: "http://coolbean98.livejournal.com/"
+    date: "2006-02-23 19:50:21"
+    content: |
+      <p>MOOSE AND SQUIRREL!!!</p>
+    parent: 1478
+  - id: 1480
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2006-02-24 00:09:56"
+    content: |
+      <p>That reminds me of that Chinese dessert I like a lot... is it ba bei or something?  I just remember it means 8-treasure rice.  Mmm... 8-treasures...</p>
+  - id: 1481
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2006-02-24 09:56:06"
+    content: |
+      <p>thug panda</p>
+      <p>gonna bust a cap in it<br />
+      <img src="http://images.beijing-2008.org/83/02/Img211990283.jpg"></p>
+  - id: 1482
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-02-25 02:21:07"
+    content: |
+      <p>Re: thug panda</p>
+      <p>Hahahaha. That's hilarious. My favorite.</p>
+    parent: 1481
+  - id: 1483
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-02-26 03:29:57"
+    content: |
+      <p>Yes! ba1 bao3   ... literally, eight treasures! Eight even if there aren't actually "eight" ingredients because eight is lucky, and that treasure is the same "bao" in "bao bei" (which means baby, honey, treasure, etc). I guess "bao" is the adjective-like part that means "most dearest" and "bei" is the noun-like part that means "treasure-thing/shell." Yes yes...</p>
+      <p>There is also "eight treasure tea" from Schezhuan (shechuan? shezuan? sechuan?), famous not only for having all kinds of stuff in it--whole chrystanthemum flower heads and longan and weird orange herbs that look like beans and rock sugar!!--but for the way it is served: each person gets their own herb concoction in one of those little cups with a saucer and a lid, and then the waiter (who has to practice, btw, it's very difficult) holds this GIGANTIC teapot with an INCREDIBLY long spout... like, seriously four feet long, and swirls the hot water into your cup with extreme force. Then you wait a while (and the longer you wait the more sugar dissolves!), and sip it holding the little cover at a slanty angle like a seive for the herby stuff. They say the 2nd cup is the best because the stuff has had a chance to get undried out.</p>
+      <p>You could order it in this one restaurant San Jose, and my family actually went there the month before it burned down =O</p>
+      <p>And then we had it in China and Ryan became obsessed with it and bought a bunch of premade packets to bring home =) But it's just not the same without the giant teapot =(  I must find a restaurant with this service and take you all</p>
+    parent: 1480
+  - id: 1484
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-02-26 03:30:36"
+    content: |
+      <p>Bleah.</p>
+    parent: 1474
+  - id: 1485
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-02-26 03:32:17"
+    content: |
+      <p>Re: thug panda</p>
+      <p>but but...<br />
+      <img src="http://images.beijing-2008.org/03/03/Img211990303.jpg"><br />
+      !!!</p>
+      <p>weilding a gun AND a pirate sword... while on a horse!!!!!!!</p>
+    parent: 1481
+  - id: 1486
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-02-26 03:38:10"
+    content: |
+      <p>The Queen is a dentist?</p>
+    parent: 1478
+  - id: 1487
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2006-02-27 22:22:19"
+    content: |
+      <p>Gack! This is what happens when I change from one thought (Gee the Brits have really bad teeth) to another thought (Gee the Brits really love their queen) mid paragraph....</p>
+      <p>Although I'm now having mental images of the queen holding a dental drill and ordering someone to swallow...</p>
+    parent: 1486
+  - id: 1488
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2006-02-28 02:11:45"
+    content: |
+      <p>whoa!  dude that sounds totally awesome!!  I really love tea, especially interesting combinations and lots of fanfare (maybe why I did tea ceremony for a while... the fanfare part).  If you find a place that serves that, definitely I would love to go!!</p>
+    parent: 1483
 ---
 
 A few weeks ago, my mom showed me some articles in the Chinese newspaper about the colorful mascots for the 2008 olympics. They are all over keychains, bracelets, watches, cell phone covers, and other assorted knick-knacks. Now, you, too, can see them in all their glory: [overview](http://en.beijing2008.com/37/03/column211990337.shtml) and [details](http://en.beijing2008.com/80/05/article211990580.shtml)!

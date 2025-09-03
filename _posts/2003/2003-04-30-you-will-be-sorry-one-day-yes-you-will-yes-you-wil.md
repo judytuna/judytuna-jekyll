@@ -3,6 +3,23 @@ layout: post
 title: "you will be sorry one day yes you will yes you will"
 date: 2003-04-30 08:47:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 614
+    author: "Anonymous"
+    date: "2003-05-01 00:07:30"
+    content: |
+      <p>Already out of date</p>
+      <p>Hey, it's <a href="http://xanga.com/mbarrien" rel="nofollow">Mike</a>....</p>
+      <p>Actually, this is already out of date. You got 6 more people since that time, and are now ranked #40.</p>
+      <p>Judy for president!</p>
+  - id: 615
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-05 15:39:12"
+    content: |
+      <p>Re: Already out of date</p>
+      <p>hahaa =) </p>
+    parent: 614
 ---
 
 MBarrien1 (12:45:26 AM): Holy crap... you got 3 more people to add you on buddyzoo...

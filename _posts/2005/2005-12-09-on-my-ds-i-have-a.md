@@ -3,6 +3,37 @@ layout: post
 title: "On my DS I have a"
 date: 2005-12-09 17:08:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1392
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-12-09 17:17:04"
+    content: |
+      <p>Of course you can do it!</p>
+  - id: 1393
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2005-12-09 21:39:43"
+    content: |
+      <p>i thought you were decided on this, and that the counselor didn't know what he was talking about.  yes, you can do it.  it's what you want to do.  now, go do it!</p>
+  - id: 1394
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2005-12-10 03:28:12"
+    content: |
+      <p>Also, on the video of the concert, you didn't LOOK bewildered.</p>
+  - id: 1395
+    author: "flyingbear"
+    author_url: "http://flyingbear.livejournal.com/"
+    date: "2005-12-11 04:05:47"
+    content: |
+      <p>I believe in you, judy!  I know you have it in you</p>
+  - id: 1396
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2005-12-18 08:25:04"
+    content: |
+      <p>I just saw the Vienna Teng concert at Freight and Salvage on channel 9!  She is pretty good.</p>
 ---
 
 On my DS, I have a beagle named Hazel and Elanor has a dachsund named Bike. Hazel has three gold trophies in a row so far from the championship level agility trials in a row, and Bike's getting good at the frisbee competition. We have a pirate hat, a viking hat, a pair of 3d sunglasses, a lily, a ten-gallon hat, two green Luigi hats, ribbons, collars of all kinds (red, purple, black, dot, denim, rainbow, etc), a squeaky mushroom, a bark ball, some balloons, a pull robe, a red frisbee, like five hundred bubble blowers, a white boot, a black boot, a globe, 10 empty juice bottles and tissue boxes and dog photos... which all sucks compared to radio-controlled mario karts. I have unlocked one dog at the kennel--shih tzu--so it seems that there's a lot more to do. Someday... someday...

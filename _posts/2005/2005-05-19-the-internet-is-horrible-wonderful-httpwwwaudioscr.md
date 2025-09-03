@@ -4,6 +4,28 @@ title: "The internet is horrible WONDERFUL httpwwwaudioscrobblercomnbsp"
 date: 2005-05-19 09:07:00 +0000
 categories: ["Uncategorized"]
 tags: ["the internet"]
+comments:
+  - id: 1140
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-05-19 17:57:32"
+    content: |
+      <p>Yes, Dispatch is catchy and lowkey. Some of the tracks drone a bit though. I suggest "The General."</p>
+  - id: 1141
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2005-05-19 22:55:52"
+    content: |
+      <p>um, holy crap~!<br />
+      1) They have <a href="http://pepperberry.shim.net/" rel="nofollow">crocheted octopus hats</a>.<br />
+      2) Damn I want to be that little squirrel. Hop, Hop, Hop, Eat cake! </p>
+  - id: 1142
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-05-20 02:12:35"
+    content: |
+      <p>Crocheted SUSHI! Hahahaha!</p>
+    parent: 1141
 ---
 
 The internet is horrible WONDERFUL.

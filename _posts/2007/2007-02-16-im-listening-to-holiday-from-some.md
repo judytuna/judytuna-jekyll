@@ -3,6 +3,63 @@ layout: post
 title: "Im listening to Holiday from some"
 date: 2007-02-16 18:57:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1839
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2007-02-16 21:08:07"
+    content: |
+      <p>I'd suggest some sheer curtains, kinda the gauzy-looking ones.  If the light source is outside, it's almost impossible to see in, but light comes through clearly.  At night, though, if the light source is inside, they're not as good.  But if you don't have lights on when you sleep, it'd be fine.</p>
+  - id: 1840
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2007-02-16 23:59:57"
+    content: |
+      <p>I just talked to Derek last week; I didn't even realize he'd up and moved to NY!  Where are you living now?  </p>
+      <p>That last paragraph... I feel ya.  Just hang in there, take care of the little crap deadlines one step at a time.  </p>
+  - id: 1841
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-02-17 00:03:01"
+    content: |
+      <p>Yep. It's exciting, isn't it. =) Have you seen the music video and everything? </p>
+      <p>I'm living on College, south of Parker.</p>
+    parent: 1840
+  - id: 1842
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-02-17 00:04:31"
+    content: |
+      <p>Yah! Maybe I can do a double-layer for when I want it to be all closed off or something.</p>
+      <p>Right now on my other window I have paper taped up to it, to let in light but block direct sunlight. (It's high up so I don't have to worry about people seeing in or anything, but the sunlight makes it so I can't see my computer screen.)</p>
+    parent: 1839
+  - id: 1843
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2007-02-17 01:26:59"
+    content: |
+      <p>Yeah, I hope they can do well out there.  I referred him to one of my producer friends who is in the area; hopefully they can meet up or something.</p>
+      <p>Do you like your new place?</p>
+    parent: 1841
+  - id: 1844
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2007-02-17 02:10:17"
+    content: |
+      <p>I am going to stalk you after salsa tonight.  I am bringing my magical baton of 'hit judy over the head until she agrees to come eat dim sum with me.'  Be warned.</p>
+  - id: 1845
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2007-02-17 02:10:17"
+    content: |
+      <p>It is OK to not have rice. Much of the internet does not have rice. Magical wish fulfilment baton does not have rice, although I suppose it could grant you some if that was your wish. </p>
+  - id: 1846
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-02-18 02:24:02"
+    content: |
+      <p>you can have some rice from my place if you want.  i think i have more than i can handle at the moment.<br />
+      Tried calling you yesterday to talk about band-ing.  Meet soon?</p>
 ---
 
 I'm listening to [Holiday](http://www.geekstinkbreath.net/greenday/lyrics/holiday/) from some neighbor's stereo. Windows make a really big difference. Mine are open now (the repair man fixed the one in my room recently) and I can hear everything people in the next houses do. They call for their cats, leave for class, come back from class, listen to extravagantly loud hip hop when they park their cars in the driveway, stomp around, and slam doors. Wow! People! Observe them in their natural habitat.

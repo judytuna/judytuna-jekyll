@@ -4,6 +4,13 @@ title: "social networking for WoW characters"
 date: 2007-07-17 00:39:00 +0000
 categories: ["Uncategorized"]
 tags: ["social networking", "the internet", "web 2.0", "world of warcraft"]
+comments:
+  - id: 1930
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-07-20 21:07:35"
+    content: |
+      <p>AAAAAAAA not more social networking sites, AAAAAAAAAAA!</p>
 ---
 
 www.rupture.com

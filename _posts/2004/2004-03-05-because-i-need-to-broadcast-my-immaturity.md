@@ -3,6 +3,27 @@ layout: post
 title: "Because I need to broadcast my immaturity."
 date: 2004-03-05 08:26:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 896
+    author: "darcydodo"
+    author_url: "http://darcydodo.livejournal.com/"
+    date: "2004-03-05 09:01:54"
+    content: |
+      <p>Why UCLA?</p>
+  - id: 897
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-03-10 00:44:50"
+    content: |
+      <p>CAF (california a cappella festival) hosted by the UCLA Random Voices. =D WE ROCKED THE SHOW!</p>
+    parent: 896
+  - id: 898
+    author: "darcydodo"
+    author_url: "http://darcydodo.livejournal.com/"
+    date: "2004-03-10 01:06:00"
+    content: |
+      <p>Cool. Gonna go down and watch ICCA this weekend?</p>
+    parent: 897
 ---
 
 IMMATURE IMMATURE IMMATURE!

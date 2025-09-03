@@ -3,6 +3,33 @@ layout: post
 title: "because i am bored, just like afternoonjazz!!!"
 date: 2003-10-28 08:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 782
+    author: "darcydodo"
+    author_url: "http://darcydodo.livejournal.com/"
+    date: "2003-10-28 00:53:57"
+    content: |
+      <p>My god, how many dead frogs did you get in total? You could start a collection!</p>
+  - id: 783
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2003-10-28 08:11:37"
+    content: |
+      <p>i believe i gave you the same candy you gave me!</p>
+  - id: 784
+    author: "rawkvixen"
+    author_url: "http://rawkvixen.livejournal.com/"
+    date: "2003-10-28 10:06:39"
+    content: |
+      <p>Dude, what's wrong with me?  I'm a thief!!!</p>
+    parent: 783
+  - id: 785
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-10-29 01:13:52"
+    content: |
+      <p>at least you aren't as bad as ! goodness gracious! =)</p>
+    parent: 784
 ---
 
 [My LiveJournal Trick-or-Treat Haul](http://www.corknut.org/toys/trickortreat/)judytuna goes trick-or-treating, dressed up as a night elf.[afternoonjazz](http://www.livejournal.com/users/afternoonjazz/) gives you 4 blue root beer-flavoured wafers.[alwyzangel](http://www.livejournal.com/users/alwyzangel/) tricks you! You get a piece of string.[andeja](http://www.livejournal.com/users/andeja/) tricks you! You lose 2 pieces of candy![andymancp](http://www.livejournal.com/users/andymancp/) gives you 1 light orange watermelon-flavoured miniature candy bars.[angrymnkey](http://www.livejournal.com/users/angrymnkey/) gives you 16 orange raspberry-flavoured pieces of chewing gum.[ariaofsorrow](http://www.livejournal.com/users/ariaofsorrow/) gives you 4 teal chocolate-flavoured gummy bears.[babygrand](http://www.livejournal.com/users/babygrand/) gives you 16 brown banana-flavoured pieces of bubblegum.[bearhoa](http://www.livejournal.com/users/bearhoa/) tricks you! You get a pen cap.[berkeleyjew](http://www.livejournal.com/users/berkeleyjew/) tricks you! You lose 12 pieces of candy![brandonthomas](http://www.livejournal.com/users/brandonthomas/) tricks you! You get a dead frog.judytuna ends up with 27 pieces of candy, a piece of string, a pen cap, and a dead frog.Go trick-or-treating! Username: Another fun meme brought to you by [**rfreebern**](http://www.livejournal.com/users/rfreebern/).

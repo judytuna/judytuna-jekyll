@@ -25,4 +25,4 @@ First recorded on livejournal: [https://judytuna.com/2005/11/07/609/](https://ju
 
 Pondered again, five years later and six years ago: [https://judytuna.com/2010/09/21/old-posts/](https://judytuna.com/2010/09/21/old-posts/)
 
-I’m still astonished that time passes. And I still find everything I mentioned in the old “old-posts” post to be hilarious.
+I'm still astonished that time passes. And I still find everything I mentioned in the old "old-posts" post to be hilarious.

@@ -3,6 +3,32 @@ layout: post
 title: "it is so fun to write bad poetry"
 date: 2003-05-13 10:38:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 629
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-05-13 07:39:02"
+    content: |
+      <p>I hate that bird.</p>
+  - id: 630
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-13 17:52:49"
+    content: |
+      <p>And a bobolink has pins.</p>
+    parent: 629
+  - id: 631
+    author: "Anonymous"
+    date: "2003-05-13 21:18:56"
+    content: |
+      <p>69% Berkeley</p>
+      <p>(ryan)</p>
+  - id: 632
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2003-05-17 09:55:25"
+    content: |
+      <p>Hey, is this DeCadence Judy?  This is Kris, the guy who sits in your audience on Sproul every week.  I had no idea you had a LJ!</p>
 ---
 
 for english 131. the assignment: write three "parodies" or "imitations" of poets we've read about in class.

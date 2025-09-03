@@ -3,6 +3,43 @@ layout: post
 title: "I have 22 students They are"
 date: 2004-07-27 04:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 963
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2004-07-26 18:16:32"
+    content: |
+      <p>*Hugs*</p>
+  - id: 964
+    author: "dianaca4"
+    author_url: "http://dianaca4.livejournal.com/"
+    date: "2004-07-29 09:17:08"
+    content: |
+      <p>hi judy, sorry about all the shitty stuff that has happened.  How much longer will you be in China?<br />
+      ooooo</p>
+  - id: 965
+    author: "joegarlic"
+    author_url: "http://joegarlic.livejournal.com/"
+    date: "2004-08-01 14:01:01"
+    content: |
+      <p>*hugs* You can hop over here if you ever need to escape.</p>
+  - id: 966
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2004-08-02 16:38:24"
+    content: |
+      <p>hey babe,</p>
+      <p>be strong, you can do it! you're traveling in a foreign country, take advantage of it despite the crappy stuff. </p>
+      <p>much love ~ sues</p>
+  - id: 967
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-08-11 07:56:47"
+    content: |
+      <p>hehe. =) i'll never have to see earnest goodman EVER AGAIN!!!! *rejoices*</p>
+      <p>(yes, that was his name. the evil racist chinese bastard. he chose the name EARNEST GOODMAN. the best part is he said "that is my name, because i am earnest and good!" HA HA HA!!!)</p>
+      <p>i am escaping now...</p>
+    parent: 965
 ---
 
 I have 22 students. They are 11 years old, mostly. They are awfully cute and I'm getting really attached to them. 

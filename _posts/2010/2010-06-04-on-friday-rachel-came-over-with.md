@@ -3,6 +3,13 @@ layout: post
 title: "On Friday Rachel came over with"
 date: 2010-06-04 01:56:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2319
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2010-06-04 04:16:08"
+    content: |
+      <p>Those are awesome shirts!</p>
 ---
 
 On Friday, Rachel came over with her screenprinting stuff. It's a Yudu: http://www.whatdoyudu.com/  She also brought her Print Gocco setup. One-time-use bulbs and all.

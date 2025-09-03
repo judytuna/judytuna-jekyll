@@ -3,6 +3,38 @@ layout: post
 title: "Who am I to be brilliant, gorgeous, talented, fabulous?"
 date: 2012-04-09 06:52:21 +0000
 categories: ["life"]
+comments:
+  - id: 2433
+    author: "kevin"
+    author_email: "kevin@interi.org"
+    author_url: "http://malmater.com"
+    date: "2012-04-09 08:16:44"
+    content: |
+      I know this principle is true! I have experienced it myself. I would like to nominate you as the Huru of Transformative Courage Proga. You could disseminate tips and tricks on what works for you and what to avoid.
+  - id: 2434
+    author: "Parker Higgins"
+    author_email: "parkerhiggins@gmail.com"
+    author_url: "http://parkerhiggins.net"
+    date: "2012-04-09 10:26:31"
+    content: |
+      It's like you're a catalyst. (Or, more than like. You are a catalyst.) And that's better, really, than anything else. People who do cool things are great, but people who bring the best out in others can have a real multiplier effect.
+      
+      By the way, reading that first part about misattribution made me think of William Gibson's concept of "attribution decay".
+  - id: 5547
+    author: "maiki"
+    author_email: "maiki@interi.org"
+    author_url: "http://interi.org"
+    date: "2014-04-15 00:32:18"
+    content: |
+      <p>Serendipity brought me to this post today. I hope my light shines. I hope it gives others permission to shine. ^_^</p>
+  - id: 5779
+    author: "judytuna"
+    author_email: "judytuna@gmail.com"
+    author_url: "https://judytuna.com"
+    date: "2014-04-21 20:07:41"
+    content: |
+      I'm glad, and thank you for saying so! Shine on, maiki.
+    parent: 5547
 ---
 
 From [Marianne Williamson](http://en.wikiquote.org/wiki/Marianne_Williamson):

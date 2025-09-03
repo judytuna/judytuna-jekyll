@@ -3,6 +3,13 @@ layout: post
 title: "httpwwwwiredcomwiredarchive1203googlehtmlpg4 Writers of the past had"
 date: 2004-03-04 14:35:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 895
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2004-03-05 03:33:55"
+    content: |
+      <p>haha!</p>
 ---
 
 http://www.wired.com/wired/archive/12.03/google.html?pg=4

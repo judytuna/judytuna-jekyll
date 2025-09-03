@@ -3,6 +3,20 @@ layout: post
 title: "fone fun (take that, nabokov)"
 date: 2004-04-06 09:59:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 911
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2004-04-07 00:22:19"
+    content: |
+      <p>hey juddie! you have the same phone i have now!</p>
+  - id: 912
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2004-04-07 02:16:37"
+    content: |
+      <p>can i PLEASE take a picture of you with my cameraphone taking a picture of me with your cameraphone? PLEASE?</p>
+    parent: 911
 ---
 
 i have a new phone. [lg vx 6000](http://www.wgamer.com/device/device-142&page=REVIEW) (review written by ryan's friend who works at a magazine on... games on cell phones. amazing).

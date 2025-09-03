@@ -3,6 +3,22 @@ layout: post
 title: "Vi sitter i Ventrilo och spelar DotA"
 date: 2007-12-11 05:50:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1974
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2007-12-11 16:11:43"
+    content: |
+      <p>Yup!  Found out about Basshunter a while ago, thanks to a friend of mine.  Apparently, one of their albums is entitled, ""</p>
+  - id: 1975
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-12-11 16:45:49"
+    content: |
+      <p>it's called LOL </p>
+      <p>hahahhaaa</p>
+      <p>and it's just one dude http://en.wikipedia.org/wiki/Basshunter  !!!!!!</p>
+    parent: 1974
 ---
 
 http://www.youtube.com/watch?v=0OzWIFX8M-Y

@@ -4,6 +4,28 @@ title: "Judy \"Flying\" a Kite"
 date: 2005-07-11 06:46:00 +0000
 categories: ["Uncategorized"]
 tags: ["beach", "flickr", "photo"]
+comments:
+  - id: 1203
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-07-11 22:48:09"
+    content: |
+      <p>In northern ca? Fish, barnacles, crabs, various mollusks. It's the other three that initially attract the fish, so they do occasionally catch things casting off of a pier, I think. I wish I knew which kinds of fish offhand. In fact, judging by the size of the hooks I've seen used, they can catch some reasonably large fish.</p>
+      <p>I *think* they can "sit", but it's not a relaxed position for them. </p>
+  - id: 1204
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2005-07-12 02:06:28"
+    content: |
+      <p>lots of mackerel</p>
+      <p>and other fish, too.  mmmmm, mackerel.  so tasty.</p>
+    parent: 1203
+  - id: 1205
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2005-07-21 15:17:51"
+    content: |
+      <p>awww i miss pacifica... wait im in nor cal... im 15 mins away from it right now... totally forgot. </p>
 ---
 
 ![](http://photos22.flickr.com/25098557_72977736fb_m.jpg) 

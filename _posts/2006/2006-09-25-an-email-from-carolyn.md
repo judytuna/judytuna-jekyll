@@ -3,6 +3,13 @@ layout: post
 title: "an email from carolyn"
 date: 2006-09-25 16:35:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1714
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-09-26 01:45:18"
+    content: |
+      <p>Hey, that's pretty cool. Tight harmony, woo! </p>
 ---
 
 -----

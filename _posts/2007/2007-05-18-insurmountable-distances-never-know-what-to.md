@@ -4,6 +4,39 @@ title: "insurmountable distances never know what to"
 date: 2007-05-18 22:52:00 +0000
 categories: ["Uncategorized"]
 tags: ["annie musical", "elanor", "warcraft", "youtube"]
+comments:
+  - id: 1901
+    author: "misterroboto"
+    author_url: "http://misterroboto.livejournal.com/"
+    date: "2007-05-18 23:00:23"
+    content: |
+      <p>jazz mags!</p>
+  - id: 1902
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-05-19 02:47:03"
+    content: |
+      <p>thank you!</p>
+    parent: 1901
+  - id: 1903
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2007-05-20 01:12:10"
+    content: |
+      <p>I dig this song times a lot.</p>
+  - id: 1904
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-05-20 01:15:08"
+    content: |
+      <p>which one? i rather dig them both.</p>
+    parent: 1903
+  - id: 1905
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-05-21 05:36:20"
+    content: |
+      <p>wow, that npr bit makes me angry, trying to turn game ethics into a mirroring of trade tensions between China and the US.  PLEASE.  The anger towards goldfarmers is not that the "Chinese are taking away resources from the Americans", but that gold farming is providing a way to play the game unfairly and turning a fun, safe space into a giant spamfest where i'm getting marketted to every 10 minutes.  They missed the mark on that one.  "A badly needed service?"  I don't think so.  I am confused as to why they didn't also talk to the gamers.  And farming the farmers events?  That's so awesome.</p>
 ---
 
 insurmountable distances. never know what to say. it's so sunny and so cold.

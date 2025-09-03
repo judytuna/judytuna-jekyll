@@ -3,6 +3,84 @@ layout: post
 title: "i need to get a job so i have money so i can buy a mac"
 date: 2005-09-21 16:04:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1285
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2005-09-21 16:21:28"
+    content: |
+      <p>If that's what your teacher says about private variables, I'd be interested to hear what he says about friend classes....</p>
+  - id: 1286
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2005-09-21 17:17:09"
+    content: |
+      <p>Ugh.  Pagemaker.  Ugh.</p>
+  - id: 1287
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2005-09-21 17:59:57"
+    content: |
+      <p>I shouldn't do this...</p>
+      <p>... because I know it'll take you away from job applications, but...<br />
+      <a href="http://www.virtualapple.com/oregontraildisk.html" rel="nofollow">Online Apple Emulator running Oregon Trail</a> (only works in Internet Exploiter)</p>
+  - id: 1288
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-09-21 18:08:07"
+    content: |
+      <p>Re: I shouldn't do this...</p>
+      <p>HAHAHAHAHAHHAHAHAA!!!!</p>
+      <p>I LOVE IT!!!!</p>
+      <p>It's ok. I've applied to 3 jobs now! Working on a fourth. Have eight in my "maybe I will apply to this" folder, and many more require a car so I really should just give up on those.</p>
+      <p>haha. This is the most productive i've been in a fucking year. three jobs. big whoop.</p>
+    parent: 1287
+  - id: 1289
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-09-21 18:09:49"
+    content: |
+      <p>Re: I shouldn't do this...</p>
+      <p>I tried to ford Kansas river. </p>
+      <p>You drowned.</p>
+    parent: 1287
+  - id: 1290
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-09-21 22:12:19"
+    content: |
+      <p>I'm proud of you.</p>
+      <p>P.S. At T324, my computer crashed a few times every day. It was a brand new Dell running the latest version of Windows XP Pro. Dreamweaver was often the culprit. But it happened to everything from Photoshop to Firefox to plain old Windows. Ugh.</p>
+  - id: 1291
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-09-21 22:13:05"
+    content: |
+      <p>Re: I shouldn't do this...</p>
+      <p>Ironic, huh? The internet explorer deal...</p>
+    parent: 1287
+  - id: 1292
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2005-09-21 22:16:24"
+    content: |
+      <p>Re: I shouldn't do this...</p>
+      <p>In Oregon Trail, I always hired an Indian to guide me across the rivers. That way, if things went wrong I had somebody to blame other than myself. Haha.</p>
+    parent: 1289
+  - id: 1293
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2005-09-22 02:56:12"
+    content: |
+      <p>hahaha. Judy, your description of oxen feet is Paws0m3. poor raymond. </p>
+  - id: 1294
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2005-09-22 18:21:35"
+    content: |
+      <p>Re: I shouldn't do this...</p>
+      <p>This could not be awesomer.</p>
+    parent: 1287
 ---
 
 Ryan will be interested to know that Microsoft Word just froze on my computer.

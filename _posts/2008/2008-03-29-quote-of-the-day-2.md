@@ -4,6 +4,14 @@ title: "quote of the day 2"
 date: 2008-03-29 06:37:00 +0000
 categories: ["Uncategorized"]
 tags: ["eudemonia", "work"]
+comments:
+  - id: 2079
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2008-03-29 16:20:33"
+    content: |
+      <p>Autistic is an umbrella term, but I'm not sure it applies to Marcus - the autistic disorders I know of rarely allow such general friendliness.</p>
+      <p>But yes, there's something about him, and it makes him kind of loveable, you know?</p>
 ---
 
 We just had a talk with Marcus. It is another one that I felt I needed to record. I paraphrase: > There's a girl in my guild from another country. She's a girl. You know Kuwait? Is that a thing? Do you know when she goes to bed? 3pm server time. We run things with her to try to get her gear. I help her out sometimes, and then she says things to me like "I like you. I love you." And I just say "Why." Cuz of God. I believe in God, in my heart. I believe that God is good. You know how if you do something bad, God will do something bad to you? It says it in the chapter. Which chapter was it? Oh! It was Cain. You know Cain? You know his brother Abraham? You know Abraham right? So when Cain killed him, God banished him. He banished Cain from Earth. [At this point, Tyler interjected: "Cain wasn't banished from Earth, he was banished from Eden."] So you know how Cain is a vampire. Some people will make it into a story, and say that it's all just make-believe. Some people say things like, "D&D is a bad game you'll go to hell if you play it," but I don't listen to those people. I just smile cuz I like playing D&D. Hey Judy. I'm so happy right now. Do you want to know why? [some guy's character name]'s girlfriend? She's playing right now! She's from China!!!! I'M SO HAPPY!

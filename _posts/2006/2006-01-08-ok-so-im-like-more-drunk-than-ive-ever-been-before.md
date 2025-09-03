@@ -3,6 +3,60 @@ layout: post
 title: "ok so i'm like more drunk than i've ever been before and like"
 date: 2006-01-08 09:46:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1397
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-01-08 10:03:27"
+    content: |
+      <p>so there were a few things i forgot.<br />
+      1. in the bathroom at thalassa, the girls said "so we're having a discussion, if a guy </p>
+      <p>never mind i give up i go to sleep i'm going to be embarrased tomorrow tht'as not how you spell embarraaassedddd is it zzzzzzzzzzzzzzz</p>
+  - id: 1398
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2006-01-08 11:59:11"
+    content: |
+      <p>&lt;3 drunk judy</p>
+      <p>good stories!</p>
+    parent: 1397
+  - id: 1399
+    author: "directdk"
+    author_url: "http://directdk.livejournal.com/"
+    date: "2006-01-08 21:16:55"
+    content: |
+      <p>u lush!</p>
+  - id: 1400
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-01-08 23:05:46"
+    content: |
+      <p>Actually, you have peaches, not pears.</p>
+  - id: 1401
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-01-09 00:48:34"
+    content: |
+      <p>hey we have A LOT of alcohol left over from the party.  want some?  i can make you another midori sour</p>
+  - id: 1402
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2006-01-09 17:49:17"
+    content: |
+      <p>Tasty!</p>
+    parent: 1401
+  - id: 1403
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2006-01-09 17:51:56"
+    content: |
+      <p>That new Gelato place <i>is</i> delicious. Try the Almond brittle next time... my mouth waters at the memory of its taste.</p>
+  - id: 1404
+    author: "Anonymous"
+    date: "2006-01-21 05:06:09"
+    content: |
+      <p>We went there 4 times in the week before I left. My favorite flavor was the creme caramel.</p>
+    parent: 1403
 ---
 
 *Edit 3:54pm, jan 8. I made an egregious factual error in this post. My animal crossing world has native peach trees, not pears. Jer is the one with the pears. Thank you, Ryan. Also, the chalkboard under the one advertising "vanilla bean" said "Resolution for 2006: less FRAGGLE, more ROCK!" I just thought Elanor should know. Also #2, it is true that Lost Cause is breaking up. All of the core leaders quit the game last week, and the people left don't want to lead, so they're joining Dark Legacy.  I don't know what I'm going to do yet. There's an ingame guild meeting at 6 today, but I probably won't be at a computer.

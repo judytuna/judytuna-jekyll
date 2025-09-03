@@ -4,6 +4,14 @@ title: "First of all sorry about the"
 date: 2010-01-16 13:53:00 +0000
 categories: ["Uncategorized"]
 tags: ["hupa", "na'vi", "the internet is awesome"]
+comments:
+  - id: 2251
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-01-18 17:53:42"
+    content: |
+      <p>So your na'vi name is "night:it-sings (bird)"?</p>
+      <p>I realized that some birds' English names could be glossed similarly to the hupa way. Like "woodpecker" is also [wood: one-who-pecks (it)] and there's also sapsucker and flycatcher. Merganser (from latin] is [One-who-dives goose] Red-tailed hawk might be [Red tail-belonging(to) hawk] (Hmm, how to gloss "tailed?") Hummingbird [It-is-humming bird] and mockingbird too...</p>
 ---
 
 First of all, sorry about the hupa-words spam. I've deleted the extra posts. I didn't realize it AUTOMATICALLY reposted everything. I have since learned how to postolous-only. haha

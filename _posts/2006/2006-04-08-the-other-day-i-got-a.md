@@ -3,6 +3,13 @@ layout: post
 title: "The other day I got a"
 date: 2006-04-08 13:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1530
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-04-09 16:03:53"
+    content: |
+      <p>At the conference panel I attended today, someone gave a paper on MMOs. It actually wasn't really a paper, more of a talk, and kind of a lame one at that. I just thought you might be interested to know that.</p>
 ---
 
 The other day I got a tell from an unguiled 60 hunter that said "ni   hao   a"   (note the spaces. the chinese always put in lots of spaces between words... I don't know why)

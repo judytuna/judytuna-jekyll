@@ -3,6 +3,49 @@ layout: post
 title: "Pictures  writeups of slides at"
 date: 2005-11-01 01:08:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1337
+    author: "berkeleyjew"
+    author_url: "http://berkeleyjew.livejournal.com/"
+    date: "2005-11-01 18:46:05"
+    content: |
+      <p>"Crankiness FTL"?</p>
+      <p>Faster Than Light?</p>
+      <p>New Law of the Universe:<br />
+      "Given any instance of crankiness, the speed with which the crankiness travels to neighboring objects may exceed the speed of light, or indeed all other forces/effects. This action may be taken as the new speed limit on the universe."</p>
+      <p>or, more simply,<br />
+      "Nothing spoils everyone's mood faster than crankiness."</p>
+  - id: 1338
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2005-11-04 08:09:39"
+    content: |
+      <p>thank-you for making the weekend rock Judy, it was so much fun~</p>
+      <p>i've got a bunch of pictures to post, too, just trying to figure out where to put them.</p>
+      <p>p.s. i think one of the missing parts is "termin-adriene" but i don't remember what comes at the end</p>
+  - id: 1339
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-11-04 17:24:58"
+    content: |
+      <p>use flickr. the free account gives you 250mb of uploading a month. www.flickr.com ... you can see all my pictures at www.flickr.com/photos/judytuna ... get supershigi before someone else does! hehe</p>
+    parent: 1338
+  - id: 1340
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-11-04 17:29:23"
+    content: |
+      <p>Like "owned" and "i roffled," the phrase "for the win" (abbreviated FTW) is used a lot in these games. Its usage probably started like "and he made a touchdown at the last second for his team's victory"--in other words, for the win--and has morphed to the point where "FTW" is synonymous with "cool," "good," "awesome." Or, some people think that paladins are overpowered, so they'll say "paladins FTW" which means--"If you have a paladin on your team you'll win," etc. </p>
+      <p>Naturally, this spawned "FTL"--for the lose.</p>
+      <p>But I like "faster than light."</p>
+    parent: 1337
+  - id: 1341
+    author: "shigi"
+    author_url: "http://shigi.livejournal.com/"
+    date: "2005-11-07 10:08:17"
+    content: |
+      <p>ah, great idea!  i am now on as "supershigi" ;)  i put all the Blizzcon photos up there, let me know if you want me to send u the videos or put them on CD or something</p>
+    parent: 1339
 ---
 
 Pictures + writeups of slides at the raid panel: 

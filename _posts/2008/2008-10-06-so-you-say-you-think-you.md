@@ -3,6 +3,13 @@ layout: post
 title: "so you say you think you"
 date: 2008-10-06 22:29:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2153
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2008-10-07 05:29:55"
+    content: |
+      <p>The one summer I spent in the Mission was more than enough for me.  I mean, I was at Church &amp; 16th and that was fucking enough.  Blech.</p>
 ---
 
 so you say you think you are lonely

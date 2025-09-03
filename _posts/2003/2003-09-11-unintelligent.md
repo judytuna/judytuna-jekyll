@@ -3,6 +3,38 @@ layout: post
 title: "unintelligent."
 date: 2003-09-11 04:38:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 725
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2003-09-10 21:02:05"
+    content: |
+      <p>grade level</p>
+      <p>That grade level indicator thing is neat!  I tried it on my page and I'll post the result someday (I feel an update coming on, perhaps in the next few days).</p>
+  - id: 726
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2003-09-10 21:45:24"
+    content: |
+      <p>Re: grade level</p>
+      <p>haha jenny our levels are almost identical!</p>
+    parent: 725
+  - id: 727
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2003-09-10 21:51:39"
+    content: |
+      <p>Re: grade level</p>
+      <p>:o)</p>
+    parent: 726
+  - id: 728
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-09-17 23:13:44"
+    content: |
+      <p>Re: grade level</p>
+      <p>TOO CUTE! =D</p>
+    parent: 727
 ---
 
 judytuna's Flesch-Kincaid Grade Level: 6Average number of words per sentence:12.64Average number of syllables per word:1.40Total words in sample:3237Analyze your journal! Username:  Another fun meme brought to you by [rfreebern](http://www.livejournal.com/users/rfreebern/)

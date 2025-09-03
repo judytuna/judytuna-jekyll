@@ -3,6 +3,27 @@ layout: post
 title: "thursday rode the bart into the"
 date: 2006-08-15 09:03:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1635
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-08-18 20:53:37"
+    content: |
+      <p>There's actually no link here.</p>
+  - id: 1636
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-08-18 21:06:30"
+    content: |
+      <p>Forgot to go back and look for it. Here it is for Elanor. Look under "thai martini" http://www.hangarone.com/recipes_lime.html</p>
+    parent: 1635
+  - id: 1637
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2006-08-18 21:17:17"
+    content: |
+      <p>I actually didn't use the syrup from that recipe, which seems wrong. I used 2 stalks lemongrass, 1 cup sugar, and 2 cups water (from <a href="http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_29824,00.html" rel="nofollow">this page</a>).</p>
+    parent: 1636
 ---
 
 thursday:

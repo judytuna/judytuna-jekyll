@@ -3,6 +3,34 @@ layout: post
 title: "showcase, showcase, saturday night, genesis, mrs rae, annie, seafarers."
 date: 2003-11-11 11:00:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 828
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2003-11-11 09:04:52"
+    content: |
+      <p>Settlers of Catan roxorz!</p>
+  - id: 829
+    author: "jennnnnnny"
+    author_url: "http://jennnnnnny.livejournal.com/"
+    date: "2003-11-11 12:34:06"
+    content: |
+      <p>It's amazing the stuff that happens sometimes, but then you realize that life isn't a novel, and stuff that happens sometimes has no meaning, even though it would be a good/significant thing to happen in a novel.  And I'm not discreting your belitting your experiences, I'm just sharing mine, because I've had those same moments/thoughts too.</p>
+      <p>It's true, stuff like that always reminds me that I can't take people for granted, ever.  I think it probably helped me in high school because a lot of reminders like that befell me so I always was aware that I had to live life to the fullest all the time.  But I think I've forgotten now.  Maybe I can remember.</p>
+      <p>Oh, I think your dash was more than half-hearted, in fact, even all-out, but your board positions just didn't seem to give up the resources you needed to really "settle".  </p>
+      <p>You are Mufasa's boy!</p>
+  - id: 830
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2003-11-11 13:18:20"
+    content: |
+      <p>I ask you what happened in your day and you say, "Oh, nothing much." And then you write this. You were hit on by a man *and* a woman in the space of an hour?</p>
+  - id: 831
+    author: "tzeentch"
+    author_url: "http://tzeentch.livejournal.com/"
+    date: "2003-11-11 23:21:38"
+    content: |
+      <p>The Da Vinci code is so good!  It really gave me a lot of perspectives on things, religion, art history, etc.  I just read it today in 5 hours after buying it like two weeks ago.  Oh, and Settlers is awesome.</p>
 ---
 
 on friday, decadence stripped at the octet and overtones west coast a cappella fall showcase. down to boxers and a tank top. was fun. are thinking of way to top that for our own show, which will be... when? WHEN?!?!?! and WHERE?!??!?!!??!?!?!? AUUUGHHH THE STRESS!

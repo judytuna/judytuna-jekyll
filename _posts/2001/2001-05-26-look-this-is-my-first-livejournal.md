@@ -3,6 +3,20 @@ layout: post
 title: "look this is my first livejournal"
 date: 2001-05-26 09:08:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 506
+    author: "hsiao"
+    author_url: "http://hsiao.livejournal.com/"
+    date: "2001-07-08 01:51:55"
+    content: |
+      <p>Well anything you don't want to share with the world, you can choose the private option on your entry.  </p>
+  - id: 507
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2001-07-08 02:58:17"
+    content: |
+      <p>ooooooooooooooh!! thanks o experienced livejournal user!!! hehehee =) i wanna take your aerobics class too</p>
+    parent: 506
 ---
 
 look! this is my first livejournal entry. how special. i've always wanted to stake a claim out there in cyberspace, fence it in nicely and build a cute little house to put my jumbled up thoughts in. maybe i'll plant some flowers and build myself a swimming pool, get a couple of horses or something. =)

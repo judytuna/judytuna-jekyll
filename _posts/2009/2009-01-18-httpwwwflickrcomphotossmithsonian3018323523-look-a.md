@@ -3,6 +3,14 @@ layout: post
 title: "httpwwwflickrcomphotossmithsonian3018323523 Look at the dresses Sleeves"
 date: 2009-01-18 15:49:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2185
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2009-01-18 22:09:32"
+    content: |
+      <p>If the dresses are anything like the artifacts in our closet at home, the shoulders don't make preparation time significantly greater.  A few buttons, which take a couple seconds to do.  The corsets, though!  UGH.</p>
+      <p>As for paint on the dress, depending on how wealthy you are it's a matter of great care and creative laundering or a matter of buying a new dress.</p>
 ---
 
 http://www.flickr.com/photos/smithsonian/3018323523

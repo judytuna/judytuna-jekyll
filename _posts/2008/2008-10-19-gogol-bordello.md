@@ -3,6 +3,26 @@ layout: post
 title: "gogol bordello"
 date: 2008-10-19 21:18:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2167
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2008-10-19 20:43:08"
+    content: |
+      <p>That's one adorable boy you've got there.</p>
+  - id: 2168
+    author: "hollywood630"
+    author_url: "http://hollywood630.livejournal.com/"
+    date: "2008-10-19 21:06:31"
+    content: |
+      <p>niiiiiice. they are SO AMAZING live.</p>
+  - id: 2169
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-10-19 21:09:26"
+    content: |
+      <p>YES THEY ARE.</p>
+    parent: 2168
 ---
 
 before:

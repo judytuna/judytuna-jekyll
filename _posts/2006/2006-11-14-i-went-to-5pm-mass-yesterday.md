@@ -3,6 +3,19 @@ layout: post
 title: "I went to 5pm mass yesterday"
 date: 2006-11-14 10:25:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1783
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-11-14 16:55:46"
+    content: |
+      <p>You bake a damn fine tray of cookies.</p>
+  - id: 1784
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-11-15 01:03:57"
+    content: |
+      <p>Well, I feel like leading and performing are very similar things, however, leading and serving, that's harder to connect with each other.  I think we all have those doubts. </p>
 ---
 
 I went to 5pm mass yesterday. I have been to very few masses at Newman that weren't in the dark--I felt acutely uncomfortable in that space, being able to see the entire room. I've probably been to more masses numerically that WERE, you know, lit, by lights, and also in the daytime, but I've associated my Catholicism and Newman with 10pm mass so hard that it's all I want. Saw some people I've not talked to for far far far too long. Couldn't get out all that I wanted to say and how could I? How could I deserve any of this?

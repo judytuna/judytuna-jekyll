@@ -3,6 +3,13 @@ layout: post
 title: "httpuncyclopediawikiacomwikiScat ltI may die laughing from"
 date: 2009-07-06 11:18:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2235
+    author: "mayamaia"
+    author_url: "http://mayamaia.livejournal.com/"
+    date: "2009-07-06 22:49:38"
+    content: |
+      <p>I love you Judy.  http://uncyclopedia.wikia.com/wiki/Leonidas</p>
 ---
 
 http://uncyclopedia.wikia.com/wiki/Scat <--I may die laughing

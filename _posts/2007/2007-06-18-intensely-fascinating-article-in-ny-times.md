@@ -4,6 +4,30 @@ title: "intensely fascinating article in ny times"
 date: 2007-06-18 23:28:00 +0000
 categories: ["Uncategorized"]
 tags: ["chinese", "gold farming", "warcraft"]
+comments:
+  - id: 1909
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2007-06-18 23:39:52"
+    content: |
+      <p>The weirdest part of that article for me was that the guy goes to an internet cafe after work to relax.</p>
+  - id: 1910
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2007-06-18 23:44:48"
+    content: |
+      <p>yeah, wtf. and not even to play other games. TO PLAY WARCRAFT.</p>
+      <p>i mean i can understand the internet cafe thing. everybody goes to internet cafes in china all the time. they were filled with teenage males smoking and killing each other in warcraft 3. but logging off of your work just to log back on to play... and have it be so transparent an "unpaid r&amp;d" stint for the company you're slaving away for...</p>
+      <p>i've seen the beginnings of a documentary on chinese gold farmers in WoW on youtube. you can catch part of a conversation in chinese: one dude leans over to watch another dude play, and says "hey where'd you get that hat? i want that hat." i remembered this because "hat" is a funny word in chinese. it is "mao4." that is funny to me. anyway. work and play.</p>
+    parent: 1909
+  - id: 1911
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2007-06-20 07:45:48"
+    content: |
+      <p>na-ah, admit it, you remembered it because part of you said, "which hat?  I may want that hat too!  Is it purple?"</p>
+      <p>I liked that article much better than that other one.  It gave a rounder view.</p>
+    parent: 1910
 ---
 
 [intensely fascinating article](http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?pagewanted=1&ei=5124&en=8bed76a0c44a5104&ex=1339905600&partner=permalink&exprod=permalink) in ny times magazine about chinese gold farmers in world of warcraft. 

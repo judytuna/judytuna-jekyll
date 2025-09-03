@@ -3,6 +3,25 @@ layout: post
 title: "christopher robin and i walked along"
 date: 2003-02-19 22:03:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 574
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2003-02-19 17:03:10"
+    content: |
+      <p>Christopher Robin and I walked along<br />
+      Under branches lit up by the moon<br />
+      Posing our questions to Owl and Eeyore<br />
+      As our day disappeared all too soon</p>
+      <p>YAY! I love this song!</p>
+  - id: 575
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-02-26 12:09:11"
+    content: |
+      <p>thanks =)</p>
+      <p>i'm trying to arrange it for decadence because i really like the harmony as sung by the indigo girls.</p>
+    parent: 574
 ---
 
 christopher robin and i walked along

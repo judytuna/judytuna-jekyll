@@ -3,6 +3,20 @@ layout: post
 title: "the weekend of eating out."
 date: 2003-09-16 14:17:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 729
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2003-09-16 13:43:59"
+    content: |
+      <p>If you want to see a dance performance even close to as big as PCN, it will probably have to be a ballet, that or a touring dance company based in NY that has it's own school like ALvin Ailey or Mark Morris.  In order to be big, dance companies need something called money... and lots of it.</p>
+  - id: 730
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-09-16 23:51:56"
+    content: |
+      <p>but yearly pcns aren't rich... or are they? maybe they are. and also pcn is only worked on for a year... yeah, i think that's why i "expected more"--she mentioned that they'd been working on it for two years. but i also really shouldn't have expected more, becuase the company is only 10 or so people. yah...</p>
+    parent: 729
 ---
 
 last weekend, ryan drove down to visit.

@@ -4,6 +4,28 @@ title: "MUSE PERFORMING FEELIN GOOD HAHAHAHAHAHAHAHAHAHAHAHAH httpwwwyoutubecomw
 date: 2006-09-06 02:06:00 +0000
 categories: ["Uncategorized"]
 tags: ["muse", "ridiculous", "youtube"]
+comments:
+  - id: 1691
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-09-06 02:13:15"
+    content: |
+      <p>Especially where he goes, "fuckin' fuckin' fuckin' fuckin'....." That's all you elanor. </p>
+  - id: 1692
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2006-09-06 02:21:58"
+    content: |
+      <p>I want to be able to do the thing he does with his voice when he's back on the mic after the fuckin' fuckin' bit.</p>
+    parent: 1691
+  - id: 1693
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2006-09-07 12:41:00"
+    content: |
+      <p>here is a better version of them doing it when matt wasn't having such a bad day http://www.youtube.com/watch?v=sri5Cra5tdY =)</p>
+      <p>clearly we need to get elanor one of those little megaphone-thingies</p>
+    parent: 1691
 ---
 
 MUSE PERFORMING FEELIN' GOOD HAHAHAHAHAHAHAHAHAHAHAHAH http://www.youtube.com/watch?v=vKHEhPyyAlo HAHAHAHAHA

@@ -3,6 +3,13 @@ layout: post
 title: "GSL party a GREAT SUCCESS"
 date: 2010-11-15 00:07:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2366
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-11-15 16:22:50"
+    content: |
+      <p>Organizing Judy! Yay!</p>
 ---
 
 Elvin and Jeremie lit fires under my ass to make it happen. Without them, and without Dean's support, none of this would have happened. 

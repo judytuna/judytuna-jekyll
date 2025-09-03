@@ -3,6 +3,45 @@ layout: post
 title: "throathurtsthroathurtsthroathurts I always do this I"
 date: 2004-02-24 00:51:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 869
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2004-02-24 01:16:11"
+    content: |
+      <p>Language-based misunderstandings are the worst, agreed. Because then it's nobody's fault but everyone pays the price.</p>
+      <p>However, there's a modicum of positivity in the fact that the imperfectness of language allows for multiple meanings when sometimes you really want there to be multiple meanings. Especially when you're not sure what you're trying to say.</p>
+      <p>I guess from that it follows that humans are imperfect (duh), and that the failings of language are perhaps good camouflage for our own failings. Maybe it's good that language is bad.</p>
+  - id: 870
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-02-24 04:09:11"
+    content: |
+      <p>It's really hard to read your posts. I think you need to read some really clean, descriptive, thoughtful prose (Ernest Hemingway, Edmund Wilson, Peter Matthiesen).</p>
+    parent: 869
+  - id: 871
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2004-02-24 06:13:28"
+    content: |
+      <p>Actually, Hemingway is on my reading list :)...<br />
+      There's not much I can do about my posts, though, as they're pretty much stream-of-consciousness translations. I guess if I really started revising or thinking about them it would be better. But then I'd be too lazy to every write any :)</p>
+    parent: 870
+  - id: 872
+    author: "rwclark"
+    author_url: "http://rwclark.livejournal.com/"
+    date: "2004-02-24 06:24:12"
+    content: |
+      <p>Actually I was talking to/about Judy, not you. :-)</p>
+    parent: 871
+  - id: 873
+    author: "splag"
+    author_url: "http://splag.livejournal.com/"
+    date: "2004-02-24 06:28:03"
+    content: |
+      <p>haha seems like we've both done this today to each other :). the reply-to thing was a bit confusing. </p>
+      <p>however, i like her style, which is even more stream-of-consciousness than mine. somehow i find it very natural to read. </p>
+    parent: 872
 ---
 
 throathurtsthroathurtsthroathurts. I always do this. I throw out my voice and stomp on it, and the more I stomp the more energy it takes to get a sound out, and so the louder I yell. Classical conditioning does nothing for me. If I were a dog, I would realize by now that yelling causes pain and forgetting to eat lactaid before consuming milk gives me explosive diarrhea. If I were an oscar meyer weiner, no. Oh the levels. I had a chicken apple at top dog the other day.

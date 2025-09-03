@@ -3,6 +3,33 @@ layout: post
 title: "Im BACK Blizzcon was GREAT Im"
 date: 2005-10-31 10:15:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1333
+    author: "mbarrien"
+    author_url: "http://mbarrien.livejournal.com/"
+    date: "2005-10-31 10:32:38"
+    content: |
+      <p>All the pics are the same link. You may just need to saw which pic number to look at in the post.</p>
+  - id: 1334
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-11-02 05:55:23"
+    content: |
+      <p>remedied. thanks =)</p>
+    parent: 1333
+  - id: 1335
+    author: "suesdanig"
+    author_url: "http://suesdanig.livejournal.com/"
+    date: "2005-11-03 19:12:44"
+    content: |
+      <p>oh wow! it's hanlong! hahaaa... is this like an E3?</p>
+  - id: 1336
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2005-11-10 21:17:52"
+    content: |
+      <p>yah... it was for blizzard games (blizzard = starcraft, diablo, and warcraft)... well, mostly for world of warcraft. hanlong works there. i didn't even know... he just happened to get in line behind me at the concert. =)</p>
+    parent: 1335
 ---
 
 I'm BACK! Blizzcon was GREAT!! I'm sleepy! I'm going to get my murloc pet now!

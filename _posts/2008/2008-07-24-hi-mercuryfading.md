@@ -3,6 +3,20 @@ layout: post
 title: "hi mercuryfading!"
 date: 2008-07-24 01:13:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2111
+    author: "mercuryfading"
+    author_url: "http://mercuryfading.livejournal.com/"
+    date: "2008-07-24 00:19:25"
+    content: |
+      <p>Yay!  Judy!</p>
+  - id: 2112
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2008-07-24 00:24:23"
+    content: |
+      <p>&lt;3</p>
+    parent: 2111
 ---
 
 kristin nudged me! so i'm going to post. i've been busy lately. last week, there were some network problems at work that made me emo. last weekend, i went camping with fritz, jenny, dylan, dave, and jen, who i met for the first time, on the beach just south of santa cruz. we roasted marshmallows and looked at the sea and played pictionary. dylan, fritz and i saw the dark night on sunday downtown. have you ever heard of a palindromic tune? sigur ros has a song whose melody is the same backwards and forwards. it's incredible. we'd like to see them at the greek theater in berkeley on oct 2 this year. this weekend i'm going with ramon to redding and then to mount shasta to watch a taiko drumming performance in the setting sun and to meet ramon's excellent 72-year-old friend. i haven't had a chance to do laundry in a very long time. i haven't had the chance to write anything about our weeklong camping trip after july 4, either. man!

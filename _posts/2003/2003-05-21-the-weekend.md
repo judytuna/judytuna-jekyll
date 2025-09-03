@@ -3,6 +3,98 @@ layout: post
 title: "the weekend."
 date: 2003-05-21 07:14:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 633
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2003-05-20 23:46:12"
+    content: |
+      <p>aaron dreamt about you this morning (being an american idol), i dreamt you were dead this afternoon, and miguel even dreamt about you!</p>
+      <p>are you ok?  we are getting cosmic judy vibes.</p>
+  - id: 634
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-05-20 23:50:00"
+    content: |
+      <p>So this one time my cell phone rang late at night. I saw it was from Geeeoorge, so i answered it,  "Geeeoorge!"  Only the voice on the other line wasn't George's.  It said, "Who is your daddy and what does he do?"  Very scary.  He's funny.</p>
+  - id: 635
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-21 00:10:39"
+    content: |
+      <p>YAYYYYY!!!!!!!</p>
+      <p>he must've played warcraft iii all the way through and watched the end credits! oops, did i give away what my obscure reference was obscurely referencing? </p>
+      <p>kick my ass cuz i'm not writin gmy paper</p>
+    parent: 634
+  - id: 636
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-21 00:12:22"
+    content: |
+      <p>WOAH!!! i am invading your minds!!! </p>
+      <p>i have to write papers. they are late. this is a bad thing, but other than that i think i'm ok... </p>
+    parent: 633
+  - id: 637
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-21 00:15:57"
+    content: |
+      <p><font size="-2">(i feel loved. =) )/<font></p>
+    parent: 633
+  - id: 638
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2003-05-21 00:26:22"
+    content: |
+      <p>i thought it was an arnold schwarzenegger line.</p>
+    parent: 635
+  - id: 639
+    author: "babygrand"
+    author_url: "http://babygrand.livejournal.com/"
+    date: "2003-05-21 02:04:14"
+    content: |
+      <p>I've got to ask where you picked up that "Who's your daddy and what does he do?" vibe from!</p>
+      <p>Last time I went bowling, our friend Jason just kept saying that each and everytime he got a strike and well, we heard it a lot that evening. </p>
+  - id: 640
+    author: "caldivine510"
+    author_url: "http://caldivine510.livejournal.com/"
+    date: "2003-05-21 04:04:14"
+    content: |
+      <p>Hehehe, yea, i thought that was crazy weird, miriam was talking about dreaming about you, and i distinctly remembered dreaming about you ((and derek, and VS, and laura (shigi) )) That you guys were all on American idol with other finalists, and i was the one who decided... yeah.. and then i guess miguel dreamt about you too... wow, what mutant power do you have? can i borrow? :P</p>
+    parent: 637
+  - id: 641
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-21 18:07:58"
+    content: |
+      <p>haha, so who did you decide on? &gt;=)</p>
+      <p>i can stop time. </p>
+      <p>yeah right! (would you like to swing on a star...)</p>
+    parent: 640
+  - id: 642
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-21 18:15:11"
+    content: |
+      <p>oh! i didn't know that. (hey cindy, you paying attention?)</p>
+    parent: 638
+  - id: 643
+    author: "Anonymous"
+    date: "2003-05-22 02:05:06"
+    content: |
+      <p>I'M A COP YOU EEDIOT!!!</p>
+      <p>CHECK ME OUT AT<br />
+      http://www.ebaumsworld.com/arnolds3.html</p>
+      <p>DO EET NOW!!!!</p>
+      <p>-AHNOLD</p>
+  - id: 644
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-05-27 14:41:28"
+    content: |
+      <p>I&#039;M A COP YOU EEDIOT!!!</p>
+      <p><font size="+3">GEEEEEEOOOOOOOOOOOOOOOORRRRRRRRRRRRRRRRRRRRRRRRRRBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB!!!!!!!!!</font></p>
+    parent: 643
 ---
 
 1) why did my color scheme become bluish during the day today? i thought "OH MY GOD SOMEONE HACKED MY LIVEJOURNAL!" but checked my settings and yes indeedy i was still labelled as watermelon-colored. a few other journals became bluey too, while most stayed the same. must have been a bug?

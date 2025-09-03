@@ -3,6 +3,20 @@ layout: post
 title: "today we celebrated moos birthday which"
 date: 2002-12-06 12:03:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 549
+    author: "afternoonjazz"
+    author_url: "http://afternoonjazz.livejournal.com/"
+    date: "2002-12-06 09:24:43"
+    content: |
+      <p>do you mean bucca di beppo's?  italian place with family style servings, menu on the wall, and the pope room?</p>
+  - id: 550
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2002-12-06 19:57:10"
+    content: |
+      <p>yes. the servings are GIGANTIC. the menu was on the wall which amused us greatly because we were like "we can't see it" because were were sitting on the wall. there were many pictures of the pope (there was one cool one that was 3-d) but i dunno about a pope room... i didn't get to see that... cool =)</p>
+    parent: 549
 ---
 
 today we celebrated moo's birthday, which is really on ?????????????? CRAPNUTS! WHEN IS HER BDAY?!

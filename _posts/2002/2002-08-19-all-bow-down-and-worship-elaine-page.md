@@ -3,6 +3,15 @@ layout: post
 title: "all bow down and worship elaine page"
 date: 2002-08-19 09:33:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 532
+    author: "hsiao"
+    author_url: "http://hsiao.livejournal.com/"
+    date: "2002-08-20 10:22:34"
+    content: |
+      <p>I saw that too!<br />
+      And was it just me or was the half asian guy pretty good-looking?</p>
+      <p>"Amigos para siempre!"</p>
 ---
 
 elaine page has the sweetest voice ever. 

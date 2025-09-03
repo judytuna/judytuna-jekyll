@@ -4,6 +4,13 @@ title: "Yay mailing lists Look what was"
 date: 2006-12-23 07:40:00 +0000
 categories: ["Uncategorized"]
 tags: ["muse"]
+comments:
+  - id: 1821
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-12-25 17:39:44"
+    content: |
+      <p>That bass solo sounds like it was inspired by the Ultimate Showdown....</p>
 ---
 
 Yay mailing lists! Look what was in my email inbox! 

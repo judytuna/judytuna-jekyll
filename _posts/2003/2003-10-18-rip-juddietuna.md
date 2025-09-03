@@ -3,6 +3,20 @@ layout: post
 title: "RIP juddietuna"
 date: 2003-10-18 07:29:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 759
+    author: "rawkvixen"
+    author_url: "http://rawkvixen.livejournal.com/"
+    date: "2003-10-18 07:51:50"
+    content: |
+      <p>Aw, poor Judy!  That would seriously make me cry.  [Sniff]  I'm <i>sure</i> you'll recover, though!  ;D</p>
+  - id: 760
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-10-19 03:13:16"
+    content: |
+      <p>hehe thanks francesca!</p>
+    parent: 759
 ---
 
 so i tried signing on to AIM with juddietuna as usual, and it said juddietuna was suspended. so i clicked more info, which bought me to http://www.aim.aol.com/errors/SUSPENDED.html?ccode=us&lang=en

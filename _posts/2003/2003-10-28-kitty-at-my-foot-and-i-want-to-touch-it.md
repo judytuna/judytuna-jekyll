@@ -3,6 +3,22 @@ layout: post
 title: "kitty at my foot and i want to touch it."
 date: 2003-10-28 08:58:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 786
+    author: "rawkvixen"
+    author_url: "http://rawkvixen.livejournal.com/"
+    date: "2003-10-28 10:02:12"
+    content: |
+      <p>OMG, I loved this entry.  Hehe.  ;)</p>
+      <p>Have you ever seen a movie called, "Chantilly Lace"?  It's about a group of female friends of all different experiences . . . one of them was a nun, and she started spilling about her orgasms with God.  Ah, the things to look forward to(?!).</p>
+  - id: 787
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2003-10-29 01:11:17"
+    content: |
+      <p>HAHA</p>
+      <p>woo, that's hot stuff. no i've never seen that movie. =)</p>
+    parent: 786
 ---
 
 ![IAmAnEnglishTeachingKitty](http://images.quizilla.com/L/liquorpig/1052601566_municative.jpg)

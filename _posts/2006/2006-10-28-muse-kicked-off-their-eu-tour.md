@@ -4,6 +4,14 @@ title: "muse kicked off their eu tour"
 date: 2006-10-28 10:12:00 +0000
 categories: ["Uncategorized"]
 tags: ["hdm", "his dark materials", "magnetic north", "muse", "self-loathing", "tagged", "the golden compass"]
+comments:
+  - id: 1780
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2006-10-28 16:28:52"
+    content: |
+      <p>I love that they use stuffed animals to approximate the daemons in some shots. Another secret use of **bum ba da DUMMM** MUSEUM CURATION!!! </p>
+      <p>Also, judy, you are not fat and you sing super awesome. </p>
 ---
 
 muse [kicked off](http://www.musewiki.org/Bilbao_Bizkaia_Arena_2006_%28gig%29) their eu tour in spain a couple days ago. they went [nuts](http://i97.photobucket.com/albums/l202/judytuna/279092378_d092a94018.jpg) with their [stage](http://i97.photobucket.com/albums/l202/judytuna/278960594_7395aea8c6_b.jpg). there's a spaceship! check out [baked dom](http://i97.photobucket.com/albums/l202/judytuna/Concierto_Muse_13.jpg)! hahahaha!!!! and the thing [moves](http://www.microcuts.net/gallery/data/media/176/278910239_bdb91e58db_o.jpg)! and fear the legions of [dancing robots](http://www.youtube.com/watch?v=BPtEWnSLMHA)! and bilbao got the first ever live hoodoo: matt on piano, chris on guitar and [morgan](http://www.musewiki.org/Morgan_Nicholls) came out from behind the synthesizers to play bass.

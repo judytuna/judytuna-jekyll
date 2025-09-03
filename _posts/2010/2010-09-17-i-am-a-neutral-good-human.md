@@ -3,6 +3,33 @@ layout: post
 title: "I Am A Neutral Good Human"
 date: 2010-09-17 02:13:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 2354
+    author: "plish"
+    author_url: "http://plish.livejournal.com/"
+    date: "2010-09-17 13:45:51"
+    content: |
+      <p>I am a Lawful Good Elf Wizard (4th Level). Word.</p>
+  - id: 2355
+    author: "lemmingsolution"
+    author_url: "http://lemmingsolution.livejournal.com/"
+    date: "2010-09-17 15:40:39"
+    content: |
+      <p>Lawfully good!</p>
+    parent: 2354
+  - id: 2356
+    author: "judytuna"
+    author_url: "https://judytuna.com/"
+    date: "2010-09-17 18:01:00"
+    content: |
+      <p>Zestfully Clean!</p>
+    parent: 2355
+  - id: 2357
+    author: "stephentyrone"
+    author_url: "http://stephentyrone.livejournal.com/"
+    date: "2010-09-17 18:27:42"
+    content: |
+      <p>Apparently I am a lawful good elf sorcerer, whatever that means.</p>
 ---
 
 **I Am A:** Neutral Good Human Druid/Wizard (1st/1st Level)

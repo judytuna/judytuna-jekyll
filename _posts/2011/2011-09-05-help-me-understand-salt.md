@@ -3,6 +3,36 @@ layout: post
 title: "help me understand salt"
 date: 2011-09-05 04:46:18 +0000
 categories: ["curiosity"]
+comments:
+  - id: 2407
+    author: "maiki"
+    author_email: "maiki@interi.org"
+    author_url: "http://interi.org"
+    date: "2011-09-04 21:12:10"
+    content: |
+      The salt isn't kept with the database, so if you were trying to match a salt against a password, you would have to compare each salt against each password.
+      
+      If one has the encrypted password, it is created in a one-way hash, so you still need to match every salt against every password possibility. Compare that to brute-forcing a password, and it is many, many times over more complex, thus making it infeasible.
+      
+      From the example you give:
+      
+      <blockquote>I make a rainbow table for all the possible salts and find the Time.now.utc that made the salt.</blockquote>
+      
+      That isn't how it works. You can't derive the salt from the encrypted password, without also having the password. So, considering that time-stamps will take seconds into account, an attacker would have to choose when they thought your salt was created, but at 86,400 a day, for a range of days, against a dictionary of passwords, that starts inching up to infeasible. ^_^
+  - id: 2408
+    author: "judytuna"
+    author_email: "judytuna@gmail.com"
+    date: "2011-09-04 21:25:15"
+    content: |
+      Actually I totes keep the salt in my users database--I MUST keep it in my database, because when the user comes back and tries to log in, I have to mash the pw they supply with the saved salt and then compare what I get to the encrypted_password that I have in my database. I'm sure that the implementation I'm using with railstutorial.org keeps the salt in the database because I added a column to the database with 
+      $ rails generate migration add_salt_to_users salt:string
+      $ rake db:migrate
+      and everything. hahaha. 
+      
+      <blockquote>but at 86,400 a day, for a range of days, against a dictionary of passwords</blockquote> 
+      
+      yeah! oy.
+    parent: 2407
 ---
 
 "salt" makes a rainbow attack computationally unfeasible ([reference](http://ruby.railstutorial.org/chapters/modeling-and-viewing-users-two#fn:7.8)). You take a plaintext password, give it some salt (usually a timestamp, so no one else will have the same salt as you), then take the password and the salt together and put them through your encryption method, and then put the encrypted pw in your database. Then to be able to use the password later, you have to store the salt along with the encrypted password (so that you can take the password the user gave you and mash it with the old salt and see if you get the same encrypted_password that is in your database). So I was confused... since the [encrypted] salt AND the encrypted password are in your available, if an attacker has access to your encrypted password (from your database), then ey also has access to the associated salt. So can't the attacker take the salt, mash it in with their rainbow table, and then eventually (after a long ass time) potentially get a match with the encrypted string (to get the plaintext password)? I didn't really understand salt for that reason.

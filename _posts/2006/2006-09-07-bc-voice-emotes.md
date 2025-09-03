@@ -3,6 +3,13 @@ layout: post
 title: "bc voice emotes"
 date: 2006-09-07 05:28:00 +0000
 categories: ["Uncategorized"]
+comments:
+  - id: 1694
+    author: "andeja"
+    author_url: "http://andeja.livejournal.com/"
+    date: "2006-09-08 19:19:35"
+    content: |
+      <p>Wow, dranei are infinitely cooler than blood elves.</p>
 ---
 
 Among the things blood elf males say is "don't you wish your girlfriend was hot like me?"
