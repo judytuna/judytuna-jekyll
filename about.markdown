@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![by the community burn pits at 3 and esplanade at sunset on saturday](https://judytuna.com/files/2010/10/IMG_0214-1024x682.jpg)
+![by the community burn pits at 3 and esplanade at sunset on saturday]({{ "/assets/images/burning-man-2013.jpg" | relative_url }})
 *by the community burn pits at 3 and esplanade at sunset on saturday*
 
 [judytuna on github](https://github.com/judytuna)
