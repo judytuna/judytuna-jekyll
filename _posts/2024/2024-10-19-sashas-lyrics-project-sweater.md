@@ -136,6 +136,6 @@ OKAY IT WORKS
 
 I AM TIRED SO I AM JUST GONNA PRESS SAVE ON THIS POST
 
-![](https://judytuna.com/wp-content/uploads/2024/10/Screenshot-2024-10-18-at-23.05.38.png)
+![]({{ "/assets/images/2024/10/Screenshot-2024-10-18-at-23.05.38.png" | relative_url }})
 
 [https://bit.ly/sweater-by-tastycode](https://bit.ly/sweater-by-tastycode)
