@@ -6,13 +6,8 @@ layout: default
   <h1 class="page-heading">Posts from {{ page.year }}</h1>
 
   {%- if site.posts.size > 0 -%}
-    {%- assign year_posts = "" | split: "" -%}
-    {%- for post in site.posts -%}
-      {%- assign post_year = post.date | date: "%Y" -%}
-      {%- if post_year == page.year -%}
-        {%- assign year_posts = year_posts | push: post -%}
-      {%- endif -%}
-    {%- endfor -%}
+    {%- capture target_year -%}{{ page.year }}{%- endcapture -%}
+    {%- assign year_posts = site.posts | where_exp: "post", "post.date | date: '%Y' == target_year" -%}
     
     {%- if year_posts.size > 0 -%}
       <p class="post-count">{{ year_posts.size }} posts in {{ page.year }}</p>
