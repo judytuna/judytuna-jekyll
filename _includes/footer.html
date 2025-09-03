@@ -1,0 +1,90 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}
+          </li>
+          {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        {%- include social.html -%}
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{- site.description | escape -}}</p>
+        
+        <!-- Category Dropdown -->
+        <div class="category-dropdown-container">
+          <label for="category-select">Browse by Category:</label>
+          <select id="category-select" class="category-dropdown" onchange="navigateToCategory()">
+            <option value="">Select a category...</option>
+            {%- assign categories = site.categories | sort -%}
+            {%- for category in categories -%}
+              <option value="{{ category[0] | slugify }}">{{ category[0] }} ({{ category[1].size }})</option>
+            {%- endfor -%}
+          </select>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</footer>
+
+<script>
+  function navigateToCategory() {
+    const select = document.getElementById('category-select');
+    const selectedCategory = select.value;
+    if (selectedCategory) {
+      window.location.href = '{{ site.baseurl }}/categories/#' + selectedCategory;
+    }
+  }
+</script>
+
+<style>
+  .category-dropdown-container {
+    margin-top: 1rem;
+  }
+
+  .category-dropdown-container label {
+    display: block;
+    font-size: 0.875rem;
+    color: #828282;
+    margin-bottom: 0.5rem;
+  }
+
+  .category-dropdown {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 0.875rem;
+    color: #333;
+    cursor: pointer;
+  }
+
+  .category-dropdown:hover {
+    border-color: #2a7ae4;
+  }
+
+  .category-dropdown:focus {
+    outline: none;
+    border-color: #2a7ae4;
+    box-shadow: 0 0 0 2px rgba(42, 122, 228, 0.1);
+  }
+</style>

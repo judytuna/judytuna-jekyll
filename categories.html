@@ -1,0 +1,95 @@
+---
+layout: default
+title: Categories
+permalink: /categories/
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ page.title | escape }}</h1>
+
+  <div class="categories-list">
+    {%- assign categories = site.categories | sort -%}
+    {%- for category in categories -%}
+      <section class="category-section" id="{{ category[0] | slugify }}">
+        <h2 class="category-title">{{ category[0] }} ({{ category[1].size }} posts)</h2>
+        
+        <ul class="post-list">
+          {%- assign posts = category[1] | sort: 'date' | reverse -%}
+          {%- for post in posts -%}
+            <li>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </section>
+    {%- endfor -%}
+  </div>
+
+</div>
+
+<style>
+  .categories-list {
+    margin-top: 2rem;
+  }
+
+  .category-section {
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  .category-section:last-child {
+    border-bottom: none;
+  }
+
+  .category-title {
+    color: #2a7ae4;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #f0f0f0;
+  }
+
+  .post-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .post-list > li {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: #fafafa;
+    border-left: 3px solid #e8e8e8;
+    border-radius: 3px;
+    transition: border-left-color 0.3s ease;
+  }
+
+  .post-list > li:hover {
+    border-left-color: #2a7ae4;
+  }
+
+  .post-list h3 {
+    margin: 0.25rem 0 0 0;
+  }
+
+  .post-meta {
+    font-size: 0.875rem;
+    color: #828282;
+  }
+
+  .post-link {
+    color: #111;
+    text-decoration: none;
+  }
+
+  .post-link:hover {
+    color: #2a7ae4;
+    text-decoration: underline;
+  }
+</style>
