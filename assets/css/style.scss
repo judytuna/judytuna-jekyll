@@ -4,8 +4,13 @@
 @import "minima";
 
 // Custom styling to match judytuna.com background
-body {
+body, html {
   background-color: #e4d1d1 !important;
+}
+
+// Override any theme defaults more aggressively
+.site-header, .site-footer, .page-content, main {
+  background-color: transparent !important;
 }
 
 // Ensure content areas maintain readability with the pink background
