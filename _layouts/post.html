@@ -12,7 +12,32 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
+    
+    {%- if page.categories.size > 0 or page.tags.size > 0 -%}
+    <p class="post-categories-tags">
+      {%- if page.categories.size > 0 -%}
+        <span class="categories-label">Categories:</span>
+        {%- for category in page.categories -%}
+          <a href="{{ '/categories/' | relative_url }}#{{ category | slugify }}" class="category-link">{{ category }}</a>
+          {%- unless forloop.last -%}, {%- endunless -%}
+        {%- endfor -%}
+      {%- endif -%}
+      
+      {%- if page.categories.size > 0 and page.tags.size > 0 -%}
+        <span class="separator"> • </span>
+      {%- endif -%}
+      
+      {%- if page.tags.size > 0 -%}
+        <span class="tags-label">Tags:</span>
+        {%- for tag in page.tags -%}
+          <a href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}" class="tag-link">{{ tag }}</a>
+          {%- unless forloop.last -%}, {%- endunless -%}
+        {%- endfor -%}
+      {%- endif -%}
+    </p>
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -190,5 +215,50 @@ layout: default
   .post-nav-next {
     text-align: left;
   }
+}
+
+/* Categories and Tags styling */
+.post-categories-tags {
+  font-size: 0.875rem;
+  color: #828282;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.categories-label,
+.tags-label {
+  font-weight: bold;
+  margin-right: 0.25rem;
+}
+
+.category-link {
+  color: #2a7ae4;
+  text-decoration: none;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.category-link:hover {
+  background-color: #f0f8ff;
+  text-decoration: underline;
+}
+
+.tag-link {
+  color: #28a745;
+  text-decoration: none;
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+  transition: background-color 0.2s ease;
+}
+
+.tag-link:hover {
+  background-color: #f0fff4;
+  text-decoration: underline;
+}
+
+.separator {
+  color: #828282;
+  margin: 0 0.5rem;
 }
 </style>
