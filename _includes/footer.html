@@ -37,6 +37,18 @@
             {%- endfor -%}
           </select>
         </div>
+
+        <!-- Tag Dropdown -->
+        <div class="tag-dropdown-container">
+          <label for="tag-select">Browse by Tag:</label>
+          <select id="tag-select" class="tag-dropdown" onchange="navigateToTag()">
+            <option value="">Select a tag...</option>
+            {%- assign tags = site.tags | sort -%}
+            {%- for tag in tags -%}
+              <option value="{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1].size }})</option>
+            {%- endfor -%}
+          </select>
+        </div>
       </div>
 
     </div>
@@ -53,21 +65,32 @@
       window.location.href = '{{ site.baseurl }}/categories/#' + selectedCategory;
     }
   }
+
+  function navigateToTag() {
+    const select = document.getElementById('tag-select');
+    const selectedTag = select.value;
+    if (selectedTag) {
+      window.location.href = '{{ site.baseurl }}/tags/#' + selectedTag;
+    }
+  }
 </script>
 
 <style>
-  .category-dropdown-container {
+  .category-dropdown-container,
+  .tag-dropdown-container {
     margin-top: 1rem;
   }
 
-  .category-dropdown-container label {
+  .category-dropdown-container label,
+  .tag-dropdown-container label {
     display: block;
     font-size: 0.875rem;
     color: #828282;
     margin-bottom: 0.5rem;
   }
 
-  .category-dropdown {
+  .category-dropdown,
+  .tag-dropdown {
     width: 100%;
     padding: 0.5rem;
     border: 1px solid #e8e8e8;
@@ -78,11 +101,13 @@
     cursor: pointer;
   }
 
-  .category-dropdown:hover {
+  .category-dropdown:hover,
+  .tag-dropdown:hover {
     border-color: #2a7ae4;
   }
 
-  .category-dropdown:focus {
+  .category-dropdown:focus,
+  .tag-dropdown:focus {
     outline: none;
     border-color: #2a7ae4;
     box-shadow: 0 0 0 2px rgba(42, 122, 228, 0.1);
