@@ -13,6 +13,9 @@
               {{ site.title | escape }}
             {%- endif -%}
           </li>
+          {%- if site.description -%}
+            <li>{{ site.description | escape }}</li>
+          {%- endif -%}
           {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
@@ -24,8 +27,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-        
+
         <!-- Category Dropdown -->
         <div class="category-dropdown-container">
           <label for="category-select">Browse by Category:</label>
