@@ -2,4 +2,38 @@
 ---
 
 @import "minima";
-@import "custom";
+
+// Custom styling to match judytuna.com background
+body {
+  background-color: #e4d1d1 !important;
+}
+
+// Ensure content areas maintain readability with the pink background
+.page-content {
+  background-color: transparent;
+}
+
+.wrapper {
+  background-color: transparent;
+}
+
+// Adjust comment backgrounds to work well with the pink background
+.comment {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+.reply-comment {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.orphaned-comment {
+  background-color: rgba(255, 248, 225, 0.8);
+}
+
+// Adjust post content background for better readability
+.post-content {
+  background-color: rgba(255, 255, 255, 0.3);
+  padding: 1rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
