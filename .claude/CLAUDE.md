@@ -411,3 +411,23 @@ Perfect! I've implemented proper threaded comments.
   Your Jekyll site will now have the same warm, soft pink
   background as your current judytuna.com site while
   maintaining good readability for all content!
+
+  but it wasn't pink.... so.......
+
+  I've fixed the issue by:
+
+  1. Adding the CSS directly to assets/css/style.scss
+  instead of relying on the separate import
+  2. Used !important to override any theme defaults that
+  might be overriding the background color
+  3. Committed and pushed the changes to trigger a rebuild
+
+  The problem was likely that:
+  - The separate @import "custom" wasn't loading properly
+  - The minima theme's default styles were overriding the
+  background color
+  - GitHub Pages needed the explicit !important declaration
+
+  The pink background color (#e4d1d1) should now appear on
+  your site at https://judytuna.github.io/judytuna-jekyll/
+  once GitHub Pages rebuilds (usually takes 1-2 minutes).
