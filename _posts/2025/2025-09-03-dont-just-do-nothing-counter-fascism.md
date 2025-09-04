@@ -3,6 +3,7 @@ layout: post
 title: "Don't Just Do Nothing to Counter Fascism"
 date: 2025-09-03 10:00:00 -0800
 categories: politics activism
+tags: zines
 ---
 
 I like the soup one.
