@@ -53,8 +53,13 @@ layout: default
     <section class="comments-section">
       <h3 class="comments-title">Comments ({{ page.comments.size }})</h3>
       
-      {%- for comment in page.comments -%}
-        <div class="comment" id="comment-{{ comment.id }}">
+      {%- comment -%} First, separate top-level comments from replies {%- endcomment -%}
+      {%- assign top_level_comments = page.comments | where: "parent", nil -%}
+      {%- assign reply_comments = page.comments | where_exp: "comment", "comment.parent != nil" -%}
+      
+      {%- comment -%} Display top-level comments and their replies {%- endcomment -%}
+      {%- for comment in top_level_comments -%}
+        <div class="comment top-level-comment" id="comment-{{ comment.id }}">
           <div class="comment-meta">
             <strong class="comment-author">
               {%- if comment.author_url and comment.author_url != "" -%}
@@ -68,7 +73,54 @@ layout: default
           <div class="comment-content">
             {{ comment.content | strip | newline_to_br }}
           </div>
+          
+          {%- comment -%} Display replies to this comment {%- endcomment -%}
+          {%- assign replies = reply_comments | where: "parent", comment.id -%}
+          {%- if replies.size > 0 -%}
+            <div class="comment-replies">
+              {%- for reply in replies -%}
+                <div class="comment reply-comment" id="comment-{{ reply.id }}">
+                  <div class="comment-meta">
+                    <strong class="comment-author">
+                      {%- if reply.author_url and reply.author_url != "" -%}
+                        <a href="{{ reply.author_url }}" rel="nofollow">{{ reply.author | escape }}</a>
+                      {%- else -%}
+                        {{ reply.author | escape }}
+                      {%- endif -%}
+                    </strong>
+                    <span class="comment-date">{{ reply.date | date: "%B %-d, %Y at %-I:%M %p" }}</span>
+                  </div>
+                  <div class="comment-content">
+                    {{ reply.content | strip | newline_to_br }}
+                  </div>
+                </div>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
         </div>
+      {%- endfor -%}
+      
+      {%- comment -%} Display orphaned replies (replies to comments that don't exist) {%- endcomment -%}
+      {%- assign top_level_ids = top_level_comments | map: "id" -%}
+      {%- for reply in reply_comments -%}
+        {%- unless top_level_ids contains reply.parent -%}
+          <div class="comment orphaned-comment" id="comment-{{ reply.id }}">
+            <div class="comment-meta">
+              <strong class="comment-author">
+                {%- if reply.author_url and reply.author_url != "" -%}
+                  <a href="{{ reply.author_url }}" rel="nofollow">{{ reply.author | escape }}</a>
+                {%- else -%}
+                  {{ reply.author | escape }}
+                {%- endif -%}
+              </strong>
+              <span class="comment-date">{{ reply.date | date: "%B %-d, %Y at %-I:%M %p" }}</span>
+              <span class="orphaned-label">(in reply to comment {{ reply.parent }})</span>
+            </div>
+            <div class="comment-content">
+              {{ reply.content | strip | newline_to_br }}
+            </div>
+          </div>
+        {%- endunless -%}
       {%- endfor -%}
     </section>
   {%- endif -%}
@@ -119,6 +171,36 @@ layout: default
   background-color: #f9f9f9;
   border-left: 3px solid #ddd;
   border-radius: 4px;
+}
+
+.top-level-comment {
+  margin-bottom: 1.5rem;
+}
+
+.comment-replies {
+  margin-top: 1rem;
+  margin-left: 2rem;
+  padding-left: 1rem;
+  border-left: 2px solid #e8e8e8;
+}
+
+.reply-comment {
+  margin-bottom: 1rem;
+  background-color: #fafafa;
+  border-left: 3px solid #bbb;
+  font-size: 0.95rem;
+}
+
+.orphaned-comment {
+  background-color: #fff8e1;
+  border-left: 3px solid #ffc107;
+}
+
+.orphaned-label {
+  color: #856404;
+  font-size: 0.8rem;
+  font-style: italic;
+  margin-left: 0.5rem;
 }
 
 .comment-meta {
