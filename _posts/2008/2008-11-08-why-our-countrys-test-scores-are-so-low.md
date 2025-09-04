@@ -9,7 +9,7 @@ comments:
     author_url: "http://plish.livejournal.com/"
     date: "2008-11-08 17:40:58"
     content: |
-      <p>Judy, you <a href="http://bp2.blogger.com/_rAl3IIA-a9s/R4wrl-ldswI/AAAAAAAAAG0/50dVVKVhIMc/s1600-h/sexy%2Bteacher.jpg" rel="nofollow">dirty English teacher</a>, you.</p>
+      <p>Judy, you <a href="{{ "/assets/images/external/blogger/sexy_2Bteacher.jpg" | relative_url }}" rel="nofollow">dirty English teacher</a>, you.</p>
 ---
 
 Sometimes in the middle of the night, I mock people for grammatical errors. Here is an actual conversation I had with someone in Warhammer Online. I had just been admonishing everyone about the difference between "you're and "your" and everyone was calling me a dirty english teacher and saying things like "english Nazi's r the wurst". mt means "mistell" ... it was a mistake. I meant to write a / in front of the word "scenario," which would have sent the following text to scenario chat instead of him. The blue text is a "tell," which is a private message between me and vis.

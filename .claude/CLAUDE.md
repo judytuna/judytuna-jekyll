@@ -431,3 +431,47 @@ Perfect! I've implemented proper threaded comments.
   The pink background color (#e4d1d1) should now appear on
   your site at https://judytuna.github.io/judytuna-jekyll/
   once GitHub Pages rebuilds (usually takes 1-2 minutes).
+
+  trying to download old external images...
+  ⏺ External Image Migration Results
+
+  I've completed the external image download and migration
+  process. Here's what happened:
+
+  Images Found:
+  - 240 unique external images from various hosting
+  services (Flickr, Photobucket, BlogSpot, etc.)
+  - 266 total image references across your blog posts
+
+  Download Results:
+  - 2 images successfully downloaded and now served
+  locally:
+    - Vienna Teng concert photo from misc.viennateng.com
+    - Teacher image from blogger.com
+  - 238 images failed to download due to:
+    - Hosting services shut down (many old Flickr URLs,
+  Photobucket)
+    - Domain no longer exists (boardgamegeek image server)
+    - Access restrictions (sites blocking automated
+  downloads)
+    - Redirect loops or timeouts
+
+  Posts Updated:
+  - 2 posts modified to use locally hosted images with
+  proper Jekyll paths
+  - All other external image links remain as-is (they'll
+  show as broken links)
+
+  What this means:
+  - Most old external images are permanently lost - this is
+   common for 15+ year old blog content
+  - The few recoverable images are now locally hosted and
+  won't break
+  - Broken image links in posts will display as missing
+  images but won't crash the site
+
+  The reality is that most external image hosts from
+  2008-2013 have either shut down, changed their policies,
+  or broken their old URL structures. This is why having
+  your own media hosting (like your WordPress media
+  library) was the right approach!

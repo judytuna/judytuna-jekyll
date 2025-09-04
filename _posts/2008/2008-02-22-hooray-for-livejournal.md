@@ -72,8 +72,8 @@ You don't get to see this kind of unabashed joy very often. I really love it.
 
 3. Wood-assisted Rachmaninoff. http://www.youtube.com/watch?v=ifKKlhYF53w
 
-4. Vienna Teng is gonna have a music video soon. Photos are up at her blog-thing. http://misc.viennateng.com/scrapbook_media/photos/20080205/7.jpg
-![Image](http://misc.viennateng.com/scrapbook_media/photos/20080205/7.jpg)
+4. Vienna Teng is gonna have a music video soon. Photos are up at her blog-thing. {{ "/assets/images/external/misc/7.jpg" | relative_url }}
+![Image]({{ "/assets/images/external/misc/7.jpg" | relative_url }})
 Oh. Oh. Pretty.
 
 5. Mr. Shen goes to Starbucks. http://www.vimeo.com/709949
