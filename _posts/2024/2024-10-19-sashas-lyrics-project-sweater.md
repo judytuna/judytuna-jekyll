@@ -8,17 +8,17 @@ tags: ["death"]
 
 update: got it working [https://bit.ly/sweater-by-tastycode](https://bit.ly/sweater-by-tastycode)
 
-I recently learned that Sasha died last week. I don't have words. I'm really sad. 
+I recently learned that Sasha died last week. I don't have words. I'm really sad.
 
 I scrolled through her facebook all the way back to 2020 to find a link to sweater, a ruby app she made that replaces words in lyrics with other, rhyming, words. The Heroku project she had it on is no longer active. So I'm going to try to put it back up. Here is what I am doing.
 
-1. Forked tastycode/sweater to judytuna/sweater on github https://github.com/judytuna/sweater 
+1. Forked tastycode/sweater to judytuna/sweater on github https://github.com/judytuna/sweater
 
 2. Reset Heroku password lol
 
-3. Add a credit card to Heroku. Looks like there's no free tier at all anymore and now it's a $5 "eco" tier for the same thing (pooled resources that turn off when you're not using them). 
+3. Add a credit card to Heroku. Looks like there's no free tier at all anymore and now it's a $5 "eco" tier for the same thing (pooled resources that turn off when you're not using them).
 
-3a. My credit card got this error "Error The provided PaymentMethod was previously used with a PaymentIntent without Customer attachment, shared with a connected account without Customer attachment, or was detached from a Customer. It may not be used again. To use a PaymentMethod multiple times, you must attach it to a Customer first." lol 
+3a. My credit card got this error "Error The provided PaymentMethod was previously used with a PaymentIntent without Customer attachment, shared with a connected account without Customer attachment, or was detached from a Customer. It may not be used again. To use a PaymentMethod multiple times, you must attach it to a Customer first." lol
 
 3b. Ok a different card worked. Subscribed to Eco.
 
@@ -136,6 +136,6 @@ OKAY IT WORKS
 
 I AM TIRED SO I AM JUST GONNA PRESS SAVE ON THIS POST
 
-![]({{ "/assets/images/2024/10/Screenshot-2024-10-18-at-23.05.38.png" | relative_url }})
+![it works]({{ "/assets/images/2024/10/Screenshot-2024-10-18-at-23.05.38.png" | relative_url }})
 
 [https://bit.ly/sweater-by-tastycode](https://bit.ly/sweater-by-tastycode)
