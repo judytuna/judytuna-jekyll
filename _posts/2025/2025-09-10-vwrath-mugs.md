@@ -3,7 +3,7 @@ layout: post
 title: "vwrath project: mugs with logo and album art"
 date: 2025-09-10 15:00:00 -0700
 categories: [crafting]
-tags: [stickers, vinyl, mugs, sublimation]
+tags: [mugs, sublimation]
 ---
 
 Sublimation on mugs!
