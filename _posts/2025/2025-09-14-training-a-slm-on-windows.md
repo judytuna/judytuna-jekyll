@@ -16,7 +16,7 @@ opened powershell in administrator. typed `wsl --install`. it didn't give me any
 
 ![wsl fail lol]({{ '/assets/images/2025/09/wsl-fail.png' | relative_url }})
 
-ok, i think i have a different set of instructions for installing WSL because i am on Windows 10, not Windows 11. hahaha. now using: [https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-1---enable-the-windows-subsystem-for-linux](https://learn.microsoft.com/en-us/windows/wsl/install-manual)
+ok, i think i have a different set of instructions for installing WSL because i am on Windows 10, not Windows 11. hahaha. now using: [https://learn.microsoft.com/en-us/windows/wsl/install-manual](https://learn.microsoft.com/en-us/windows/wsl/install-manual)
 
 that worked! somehow installing ubuntu from... the microsoft store?
 
@@ -46,7 +46,7 @@ oh god WSL was like "you can't flyer me, i quit"
 
 anyway then a day passed wherein i ran train_model.py 6 times and it did not change the conversation style at all.
 
-0. hung at 0% complete because the VRAM was full
+* the 0th run hung at 0% complete because the VRAM was full. (edit: this version of markdown does not support the [https://spec.commonmark.org/0.27/#example-228](ordered list start item) lol)
 1. first attempt at creating training data out of my blog posts: make each post into paired data. the input is the post title, and the output is the post body. outputs are truncated to 500 characters to try to not make the VRAM full. but i also changed a bunch of the parameters, cuz i realized they were optimized for Ankeet's machine.
 2. character limit on outputs is now 8000 characters.
 3. i had around 800 posts, which wasn't enough pairs. augment data by cutting blog posts down into chunks at a random number of character, then asking "what next?" as the input, with the next chunk of post as the output. trained for a few hours; still no change.
